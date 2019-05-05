@@ -1,0 +1,119 @@
+{
+  "ID": "90a4719d-db88-456f-b8ec-dfcd36fef634",
+  "Root": {
+    "id": "90a4719d-db88-456f-b8ec-dfcd36fef634",
+    "alive": true,
+    "content": [
+      "d29d0992-0fcd-45bc-90a2-a97585a8ef27",
+      "e1b44a8c-3753-44da-a325-c28e7bc039e8",
+      "c6c2beda-f773-4e51-8e50-e2d26b9e0059"
+    ],
+    "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+    "created_time": 1556290253873,
+    "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+    "last_edited_time": 1556290260000,
+    "parent_id": "93cd65d2-5418-4e76-b55a-590164298b4c",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Git: 특정 브랜치 클론하기"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 11,
+    "content_resolved": [
+      {
+        "id": "d29d0992-0fcd-45bc-90a2-a97585a8ef27",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1556290269001,
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1556290260000,
+        "parent_id": "90a4719d-db88-456f-b8ec-dfcd36fef634",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "git clone하면서 특정 branch 받을 때 아래와 같이 할 것"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 11,
+        "inline_content": [
+          {
+            "Text": "git clone하면서 특정 branch 받을 때 아래와 같이 할 것"
+          }
+        ]
+      },
+      {
+        "id": "e1b44a8c-3753-44da-a325-c28e7bc039e8",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1556290269002,
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1556290260000,
+        "parent_id": "90a4719d-db88-456f-b8ec-dfcd36fef634",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Shell"
+            ]
+          ],
+          "title": [
+            [
+              "git clone -b \u003cbranch\u003e \u003cremote_repo\u003e\ngit clone -b my-branch git@github.com:user/myproject.git"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "git clone -b \u003cbranch\u003e \u003cremote_repo\u003e\ngit clone -b my-branch git@github.com:user/myproject.git",
+        "code_language": "Shell"
+      },
+      {
+        "id": "c6c2beda-f773-4e51-8e50-e2d26b9e0059",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1556290260000,
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1556290260000,
+        "parent_id": "90a4719d-db88-456f-b8ec-dfcd36fef634",
+        "parent_table": "block",
+        "type": "text",
+        "version": 3
+      }
+    ],
+    "title": "Git: 특정 브랜치 클론하기"
+  },
+  "Users": [
+    {
+      "email": "sjs2109@gmail.com",
+      "family_name": "Sung",
+      "given_name": "Jisuk",
+      "id": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+      "locale": "",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "",
+      "time_zone": "",
+      "version": 7
+    },
+    {
+      "email": "maaslalani1@gmail.com",
+      "family_name": "Lalani",
+      "given_name": "Maas",
+      "id": "ab37a247-7d5a-4aae-9a2a-b76d2c03ec46",
+      "locale": "",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/1bba0402-afcb-4f95-9a6c-32324cf4683c/Cartoon.png",
+      "time_zone": "",
+      "version": 168
+    }
+  ],
+  "Tables": null
+}

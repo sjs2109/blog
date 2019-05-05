@@ -1,0 +1,291 @@
+{
+  "ID": "581c7aa0-e075-4691-91db-48fbeca7593f",
+  "Root": {
+    "id": "581c7aa0-e075-4691-91db-48fbeca7593f",
+    "alive": true,
+    "content": [
+      "2ec8b82c-83d4-4382-8fdc-713c12d14985",
+      "fe97b498-99db-477f-9a74-d1a2948ae460",
+      "6279877b-bf4c-4e64-9b5c-fa0aeba2340d",
+      "43a0735e-8684-4aeb-88c3-aa41371bba13",
+      "b8dbb410-212d-489d-b0a9-b140da89d38d",
+      "eaf5cdd5-3020-49ce-8536-81f9b90e15fc",
+      "13a41f9d-2050-4dfd-8f16-4e1fbf3e159b"
+    ],
+    "copied_from": "6221856c-5802-4ca0-8e6f-fceebf5c5007",
+    "created_by": "e894aec7-c5cc-4aa2-8c20-fb602fa7777a",
+    "created_time": 1556288754998,
+    "format": {
+      "page_font": "serif",
+      "page_full_width": false,
+      "page_cover_position": 0.5
+    },
+    "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+    "last_edited_time": 1556327700000,
+    "parent_id": "6ab6d553-a934-4a66-a056-ca3775de4434",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "configuration of aws GUI"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 67,
+    "content_resolved": [
+      {
+        "id": "2ec8b82c-83d4-4382-8fdc-713c12d14985",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1556289674873,
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1556289660000,
+        "parent_id": "581c7aa0-e075-4691-91db-48fbeca7593f",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "enable password login",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "header",
+        "version": 8,
+        "inline_content": [
+          {
+            "Text": "enable password login",
+            "AttrFlags": 1
+          }
+        ]
+      },
+      {
+        "id": "fe97b498-99db-477f-9a74-d1a2948ae460",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1556289674873,
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1556327700000,
+        "parent_id": "581c7aa0-e075-4691-91db-48fbeca7593f",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Shell"
+            ]
+          ],
+          "title": [
+            [
+              "sudo sed -i 's/^PasswordAuthentication no/PasswordAuthentication yes/' /etc/ssh/sshd_config sudo /etc/init.d/ssh restart sudo passwd ubuntu"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 8,
+        "code": "sudo sed -i 's/^PasswordAuthentication no/PasswordAuthentication yes/' /etc/ssh/sshd_config sudo /etc/init.d/ssh restart sudo passwd ubuntu",
+        "code_language": "Shell"
+      },
+      {
+        "id": "6279877b-bf4c-4e64-9b5c-fa0aeba2340d",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1556289674873,
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1556289660000,
+        "parent_id": "581c7aa0-e075-4691-91db-48fbeca7593f",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "enable GUI",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "header",
+        "version": 2,
+        "inline_content": [
+          {
+            "Text": "enable GUI",
+            "AttrFlags": 1
+          }
+        ]
+      },
+      {
+        "id": "43a0735e-8684-4aeb-88c3-aa41371bba13",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1556289674873,
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1556327700000,
+        "parent_id": "581c7aa0-e075-4691-91db-48fbeca7593f",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Shell"
+            ]
+          ],
+          "title": [
+            [
+              "sudo apt-get install xrdp sudo apt-get install xfce4 sudo echo xfce4-session\u003e~/.xsessionsudo service xrdp restart"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 6,
+        "code": "sudo apt-get install xrdp sudo apt-get install xfce4 sudo echo xfce4-session\u003e~/.xsessionsudo service xrdp restart",
+        "code_language": "Shell"
+      },
+      {
+        "id": "b8dbb410-212d-489d-b0a9-b140da89d38d",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1556289674873,
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1556289660000,
+        "parent_id": "581c7aa0-e075-4691-91db-48fbeca7593f",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "reference",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "header",
+        "version": 2,
+        "inline_content": [
+          {
+            "Text": "reference",
+            "AttrFlags": 1
+          }
+        ]
+      },
+      {
+        "id": "eaf5cdd5-3020-49ce-8536-81f9b90e15fc",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1556289674873,
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1556289660000,
+        "parent_id": "581c7aa0-e075-4691-91db-48fbeca7593f",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "https://aws.amazon.com/ko/premiumsupport/knowledge-center/connect-to-ubuntu-1604-windows/",
+              [
+                [
+                  "a",
+                  "https://aws.amazon.com/ko/premiumsupport/knowledge-center/connect-to-ubuntu-1604-windows/"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 2,
+        "inline_content": [
+          {
+            "Text": "https://aws.amazon.com/ko/premiumsupport/knowledge-center/connect-to-ubuntu-1604-windows/",
+            "Link": "https://aws.amazon.com/ko/premiumsupport/knowledge-center/connect-to-ubuntu-1604-windows/"
+          }
+        ]
+      },
+      {
+        "id": "13a41f9d-2050-4dfd-8f16-4e1fbf3e159b",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1556289674874,
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1556289660000,
+        "parent_id": "581c7aa0-e075-4691-91db-48fbeca7593f",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "http://hellogohn.com/post_one192",
+              [
+                [
+                  "a",
+                  "http://hellogohn.com/post_one192"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 2,
+        "inline_content": [
+          {
+            "Text": "http://hellogohn.com/post_one192",
+            "Link": "http://hellogohn.com/post_one192"
+          }
+        ]
+      }
+    ],
+    "title": "configuration of aws GUI",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0.5,
+      "page_font": "serif",
+      "page_full_width": false,
+      "page_icon": "",
+      "page_small_text": false
+    }
+  },
+  "Users": [
+    {
+      "email": "example4@makenotion.com",
+      "family_name": "Last",
+      "given_name": "Simon",
+      "id": "e894aec7-c5cc-4aa2-8c20-fb602fa7777a",
+      "locale": "",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://lh4.googleusercontent.com/-FA4Xb8SNeFY/AAAAAAAAAAI/AAAAAAAAACc/4XeWRkSIY3A/photo.jpg?sz=50",
+      "time_zone": "",
+      "version": 26
+    },
+    {
+      "email": "sjs2109@gmail.com",
+      "family_name": "Sung",
+      "given_name": "Jisuk",
+      "id": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+      "locale": "",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "",
+      "time_zone": "",
+      "version": 7
+    },
+    {
+      "email": "maaslalani1@gmail.com",
+      "family_name": "Lalani",
+      "given_name": "Maas",
+      "id": "ab37a247-7d5a-4aae-9a2a-b76d2c03ec46",
+      "locale": "",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/1bba0402-afcb-4f95-9a6c-32324cf4683c/Cartoon.png",
+      "time_zone": "",
+      "version": 168
+    }
+  ],
+  "Tables": null
+}

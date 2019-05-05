@@ -1,0 +1,132 @@
+{
+  "ID": "fe62e232-fc87-4e85-a054-206eec0f2843",
+  "Root": {
+    "id": "fe62e232-fc87-4e85-a054-206eec0f2843",
+    "alive": true,
+    "content": [
+      "f3ee01ae-848a-4c12-8a77-80d0af21d6df",
+      "5ad981cb-42dc-46ef-beb5-7ec90ad3987e",
+      "05c73167-4311-4527-9734-aaaba4cd3ba4",
+      "5439c51c-5dd7-45c0-b5f6-d8d5e41d40aa"
+    ],
+    "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+    "created_time": 1556290430488,
+    "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+    "last_edited_time": 1556290440000,
+    "parent_id": "93cd65d2-5418-4e76-b55a-590164298b4c",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "find로 특정 file type에서 특정 string 검색"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 9,
+    "content_resolved": [
+      {
+        "id": "f3ee01ae-848a-4c12-8a77-80d0af21d6df",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1556290380000,
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1556290380000,
+        "parent_id": "fe62e232-fc87-4e85-a054-206eec0f2843",
+        "parent_table": "block",
+        "type": "text",
+        "version": 3
+      },
+      {
+        "id": "5ad981cb-42dc-46ef-beb5-7ec90ad3987e",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1556290439556,
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1556290380000,
+        "parent_id": "fe62e232-fc87-4e85-a054-206eec0f2843",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "손가락을 움직이기 귀찮음으로 source insight를 쓰기 귀찮을때 find 명령으로 찾을때 아래와 같이 해보자소스코드에서 printf가 들어간 파일 찾기"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 2,
+        "inline_content": [
+          {
+            "Text": "손가락을 움직이기 귀찮음으로 source insight를 쓰기 귀찮을때 find 명령으로 찾을때 아래와 같이 해보자소스코드에서 printf가 들어간 파일 찾기"
+          }
+        ]
+      },
+      {
+        "id": "05c73167-4311-4527-9734-aaaba4cd3ba4",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1556290439556,
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1556290440000,
+        "parent_id": "fe62e232-fc87-4e85-a054-206eec0f2843",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Shell"
+            ]
+          ],
+          "title": [
+            [
+              "find . -name *.cpp -o -name *.h -o -name *.c | xargs grep -rn \"printf\""
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 4,
+        "code": "find . -name *.cpp -o -name *.h -o -name *.c | xargs grep -rn \"printf\"",
+        "code_language": "Shell"
+      },
+      {
+        "id": "5439c51c-5dd7-45c0-b5f6-d8d5e41d40aa",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1556290440000,
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1556290440000,
+        "parent_id": "fe62e232-fc87-4e85-a054-206eec0f2843",
+        "parent_table": "block",
+        "type": "text",
+        "version": 3
+      }
+    ],
+    "title": "find로 특정 file type에서 특정 string 검색"
+  },
+  "Users": [
+    {
+      "email": "sjs2109@gmail.com",
+      "family_name": "Sung",
+      "given_name": "Jisuk",
+      "id": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+      "locale": "",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "",
+      "time_zone": "",
+      "version": 7
+    },
+    {
+      "email": "maaslalani1@gmail.com",
+      "family_name": "Lalani",
+      "given_name": "Maas",
+      "id": "ab37a247-7d5a-4aae-9a2a-b76d2c03ec46",
+      "locale": "",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/1bba0402-afcb-4f95-9a6c-32324cf4683c/Cartoon.png",
+      "time_zone": "",
+      "version": 168
+    }
+  ],
+  "Tables": null
+}

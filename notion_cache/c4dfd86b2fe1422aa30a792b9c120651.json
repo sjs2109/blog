@@ -1,0 +1,195 @@
+{
+  "ID": "c4dfd86b-2fe1-422a-a30a-792b9c120651",
+  "Root": {
+    "id": "c4dfd86b-2fe1-422a-a30a-792b9c120651",
+    "alive": true,
+    "content": [
+      "1f6a910f-934b-48ea-9a2f-b42466352588"
+    ],
+    "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+    "created_time": 1556290224295,
+    "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+    "last_edited_time": 1556290200000,
+    "parent_id": "93cd65d2-5418-4e76-b55a-590164298b4c",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "total cpu 사용량 확인",
+          [
+            [
+              "b"
+            ]
+          ]
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 10,
+    "content_resolved": [
+      {
+        "id": "1f6a910f-934b-48ea-9a2f-b42466352588",
+        "alive": true,
+        "content": [
+          "17c5a29f-5051-41eb-bea9-a0aa7080ab3f",
+          "237d985b-d2d1-48d6-9b98-4d9c11f1808a",
+          "b396d829-7d4d-4c49-892d-3c538b48bb5f",
+          "061b9c3e-ea15-490e-82f7-d43767699961"
+        ],
+        "copied_from": "1cf0e3fe-8997-452b-bb08-3bb48347a86c",
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1556290227373,
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1556290200000,
+        "parent_id": "c4dfd86b-2fe1-422a-a30a-792b9c120651",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "CPU사용량 확인"
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 3,
+        "content_resolved": [
+          {
+            "id": "17c5a29f-5051-41eb-bea9-a0aa7080ab3f",
+            "alive": true,
+            "copied_from": "e38fd993-cfc6-42e6-ab21-a69f558350d4",
+            "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+            "created_time": 1556290227373,
+            "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+            "last_edited_time": 1556290200000,
+            "parent_id": "1f6a910f-934b-48ea-9a2f-b42466352588",
+            "parent_table": "block",
+            "properties": {
+              "language": [
+                [
+                  "Shell"
+                ]
+              ],
+              "title": [
+                [
+                  "mpstat | tail -1 | awk '{print 100-$11}'",
+                  [
+                    [
+                      "c"
+                    ]
+                  ]
+                ]
+              ]
+            },
+            "type": "code",
+            "version": 2,
+            "code": "mpstat | tail -1 | awk '{print 100-$11}'",
+            "code_language": "Shell"
+          },
+          {
+            "id": "237d985b-d2d1-48d6-9b98-4d9c11f1808a",
+            "alive": true,
+            "copied_from": "db03c547-4d26-4f0e-9cec-c934ab4006ea",
+            "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+            "created_time": 1556290227374,
+            "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+            "last_edited_time": 1556290200000,
+            "parent_id": "1f6a910f-934b-48ea-9a2f-b42466352588",
+            "parent_table": "block",
+            "properties": {
+              "title": [
+                [
+                  "or"
+                ]
+              ]
+            },
+            "type": "text",
+            "version": 2,
+            "inline_content": [
+              {
+                "Text": "or"
+              }
+            ]
+          },
+          {
+            "id": "b396d829-7d4d-4c49-892d-3c538b48bb5f",
+            "alive": true,
+            "copied_from": "56b0535d-6b27-4f46-b52b-9d6ec39483d4",
+            "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+            "created_time": 1556290227374,
+            "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+            "last_edited_time": 1556290200000,
+            "parent_id": "1f6a910f-934b-48ea-9a2f-b42466352588",
+            "parent_table": "block",
+            "properties": {
+              "language": [
+                [
+                  "Shell"
+                ]
+              ],
+              "title": [
+                [
+                  "top -n 1 | grep -i cpu\\(s\\)| awk '{print $5}' | tr -d \"%id,\" | awk '{print 100-$1}'",
+                  [
+                    [
+                      "c"
+                    ]
+                  ]
+                ]
+              ]
+            },
+            "type": "code",
+            "version": 2,
+            "code": "top -n 1 | grep -i cpu\\(s\\)| awk '{print $5}' | tr -d \"%id,\" | awk '{print 100-$1}'",
+            "code_language": "Shell"
+          },
+          {
+            "id": "061b9c3e-ea15-490e-82f7-d43767699961",
+            "alive": true,
+            "copied_from": "2898c37a-fb3a-4845-9f3f-74dd7921c76d",
+            "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+            "created_time": 1556290227374,
+            "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+            "last_edited_time": 1556290200000,
+            "parent_id": "1f6a910f-934b-48ea-9a2f-b42466352588",
+            "parent_table": "block",
+            "type": "text",
+            "version": 2
+          }
+        ],
+        "inline_content": [
+          {
+            "Text": "CPU사용량 확인"
+          }
+        ]
+      }
+    ],
+    "title": "total cpu 사용량 확인"
+  },
+  "Users": [
+    {
+      "email": "sjs2109@gmail.com",
+      "family_name": "Sung",
+      "given_name": "Jisuk",
+      "id": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+      "locale": "",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "",
+      "time_zone": "",
+      "version": 7
+    },
+    {
+      "email": "maaslalani1@gmail.com",
+      "family_name": "Lalani",
+      "given_name": "Maas",
+      "id": "ab37a247-7d5a-4aae-9a2a-b76d2c03ec46",
+      "locale": "",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/1bba0402-afcb-4f95-9a6c-32324cf4683c/Cartoon.png",
+      "time_zone": "",
+      "version": 168
+    }
+  ],
+  "Tables": null
+}

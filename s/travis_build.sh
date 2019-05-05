@@ -12,9 +12,9 @@ build()
 
 setup_git()
 {
-  git config --global user.email "kkowalczyk@gmail.com"
-  git config --global user.name "Krzysztof Kowalczyk"
-  git config --global github.user "kjk"
+  git config --global user.email "sjs2109@gmail.com"
+  git config --global user.name "sjs2109"
+  git config --global github.user "sjs2109"
   git config --global github.token "${GH_TOKEN}"
 }
 

@@ -47,7 +47,7 @@ update_from_notion()
         exit 0
     fi
     set -e
-    git push "https://${GH_TOKEN}@github.com/kjk/blog.git" master || true
+    git push "https://${GH_TOKEN}@github.com/sjs2109/blog.git" master || true
 }
 
 if [ "${TRAVIS_EVENT_TYPE}" == "cron" ]; then

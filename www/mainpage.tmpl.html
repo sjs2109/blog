@@ -13,20 +13,10 @@
 
 <body>
   {{ template "page_navbar.tmpl.html" . }}
-
-  <div id="content" style="clear:both; ">
-    <div class="mainpage-wrap">
-      <div style="display:flex; flex-direction: row">
-        <div style="display:flex; flex-direction: column; padding-left: 1em; margin-top: -4px">
-        </div>
-      </div>
-    </div>
-        <center>
-          <a style="font-size: 85%; margin-top: -6px" href="/changelog.html">changelog</a>
-        </center>
         <div style="margin-top: -3em">
           {{.WebsiteHTML}}
         </div>
+       <a style="font-size: 85%; margin-top: -6px" href="/changelog.html">changelog</a>
       </div>
     </div>
   </div>

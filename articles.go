@@ -14,8 +14,8 @@ import (
 )
 
 var (
-	notionBlogsStartPage      = "300db9dc27c84958a08b8d0c37f4cfe5"
-	notionWebsiteStartPage    = "568ac4c064c34ef6a6ad0b8d77230681"
+	notionBlogsStartPage      = "90865f93c9c640449ec6b635abfa3131"
+	notionWebsiteStartPage    = "90865f93c9c640449ec6b635abfa3131"
 	notionGoCookbookStartPage = "7495260a1daa46118858ad2e049e77e6"
 )
 

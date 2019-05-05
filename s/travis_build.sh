@@ -6,8 +6,9 @@ build()
     echo "building"
     go build -o blog
     ./blog -deploy
-    ./netlifyctl -A $NETLIFY_TOKEN deploy || true
-    cat netlifyctl-debug.log || true
+    ls netlify_static
+    #./netlifyctl -A $NETLIFY_TOKEN deploy || true
+    #cat netlifyctl-debug.log || true
 }
 
 setup_git()

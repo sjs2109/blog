@@ -5,9 +5,9 @@
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="referrer" content="always" />
-  <meta name="description" content="Personal page of Krzysztof Kowalczyk. Programmer, creator of SumatraPDF." />
 
-  <title>Krzysztof Kowalczyk</title>
+
+  <title>sjs2109's blog</title>
   <link href="/css/main.css" rel="stylesheet" />
 </head>
 
@@ -17,48 +17,10 @@
   <div id="content" style="clear:both; ">
     <div class="mainpage-wrap">
       <div style="display:flex; flex-direction: row">
-        
         <div style="display:flex; flex-direction: column; padding-left: 1em; margin-top: -4px">
-          
-          
-
-          
         </div>
       </div>
     </div>
-
-    
-
-    
-    <div class="articles-list-wrap flex-col">
-      <div>
-        <center>
-          <b>Recently I wrote</b>
-        </center>
-        {{ range.Articles }}
-        <div style="margin-left: 1em;">
-          <a href="{{.URL}}">{{.Title}}</a>
-          {{if .TagsDisplay}}
-          <span style="font-size:80%">
-            <span class="taglink">in:</span> {{.TagsDisplay}}
-          </span>
-          {{ end }}
-        </div>
-        {{ end }}
-        <div style="display:flex; flex-direction: row; justify-content: space-between; align-items: center;">
-          <div>
-            <a href="/archives.html">See all...</a>
-          </div>
-          <div class="headline" style="font-size:80%">
-            <a href="/atom.xml">RSS/Atom feed</a>
-          </div>
-        </div>
-
-        <hr />
-
-        <center>
-          <b>My external brain</b>
-        </center>
         <center>
           <a style="font-size: 85%; margin-top: -6px" href="/changelog.html">changelog</a>
         </center>

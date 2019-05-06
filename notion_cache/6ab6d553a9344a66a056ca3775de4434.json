@@ -11,18 +11,18 @@
     "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
     "created_time": 1556289734397,
     "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
-    "last_edited_time": 1557061020000,
-    "parent_id": "90865f93-c9c6-4044-9ec6-b635abfa3131",
+    "last_edited_time": 1557105540000,
+    "parent_id": "79e372e1-0a62-4c22-808b-84d97da78879",
     "parent_table": "block",
     "properties": {
       "title": [
         [
-          "2018-1 정리"
+          "2018-1  semester"
         ]
       ]
     },
     "type": "page",
-    "version": 22,
+    "version": 39,
     "content_resolved": [
       {
         "id": "842a3138-94fc-4672-aa4f-5e5b8dc935da",
@@ -48,7 +48,7 @@
           "page_cover_position": 0.5
         },
         "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
-        "last_edited_time": 1556327700000,
+        "last_edited_time": 1557150600000,
         "parent_id": "6ab6d553-a934-4a66-a056-ca3775de4434",
         "parent_table": "block",
         "properties": {
@@ -59,7 +59,7 @@
           ]
         },
         "type": "page",
-        "version": 67,
+        "version": 68,
         "title": "configuration of aws GUI",
         "format_page": {
           "page_cover": "",
@@ -91,7 +91,7 @@
         "title": "python list[::n] meaning"
       }
     ],
-    "title": "2018-1 정리"
+    "title": "2018-1  semester"
   },
   "Users": [
     {
@@ -105,18 +105,6 @@
       "profile_photo": "",
       "time_zone": "",
       "version": 7
-    },
-    {
-      "email": "maaslalani1@gmail.com",
-      "family_name": "Lalani",
-      "given_name": "Maas",
-      "id": "ab37a247-7d5a-4aae-9a2a-b76d2c03ec46",
-      "locale": "",
-      "mobile_onboarding_completed": true,
-      "onboarding_completed": true,
-      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/1bba0402-afcb-4f95-9a6c-32324cf4683c/Cartoon.png",
-      "time_zone": "",
-      "version": 168
     },
     {
       "email": "example4@makenotion.com",

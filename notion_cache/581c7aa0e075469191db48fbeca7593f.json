@@ -21,7 +21,7 @@
       "page_cover_position": 0.5
     },
     "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
-    "last_edited_time": 1556327700000,
+    "last_edited_time": 1557150600000,
     "parent_id": "6ab6d553-a934-4a66-a056-ca3775de4434",
     "parent_table": "block",
     "properties": {
@@ -32,7 +32,7 @@
       ]
     },
     "type": "page",
-    "version": 67,
+    "version": 68,
     "content_resolved": [
       {
         "id": "2ec8b82c-83d4-4382-8fdc-713c12d14985",
@@ -40,7 +40,7 @@
         "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
         "created_time": 1556289674873,
         "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
-        "last_edited_time": 1556289660000,
+        "last_edited_time": 1557150600000,
         "parent_id": "581c7aa0-e075-4691-91db-48fbeca7593f",
         "parent_table": "block",
         "properties": {
@@ -55,8 +55,8 @@
             ]
           ]
         },
-        "type": "header",
-        "version": 8,
+        "type": "text",
+        "version": 10,
         "inline_content": [
           {
             "Text": "enable password login",
@@ -96,7 +96,7 @@
         "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
         "created_time": 1556289674873,
         "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
-        "last_edited_time": 1556289660000,
+        "last_edited_time": 1557150600000,
         "parent_id": "581c7aa0-e075-4691-91db-48fbeca7593f",
         "parent_table": "block",
         "properties": {
@@ -111,8 +111,8 @@
             ]
           ]
         },
-        "type": "header",
-        "version": 2,
+        "type": "text",
+        "version": 4,
         "inline_content": [
           {
             "Text": "enable GUI",
@@ -152,7 +152,7 @@
         "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
         "created_time": 1556289674873,
         "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
-        "last_edited_time": 1556289660000,
+        "last_edited_time": 1557150600000,
         "parent_id": "581c7aa0-e075-4691-91db-48fbeca7593f",
         "parent_table": "block",
         "properties": {
@@ -167,8 +167,8 @@
             ]
           ]
         },
-        "type": "header",
-        "version": 2,
+        "type": "text",
+        "version": 4,
         "inline_content": [
           {
             "Text": "reference",
@@ -273,18 +273,6 @@
       "profile_photo": "",
       "time_zone": "",
       "version": 7
-    },
-    {
-      "email": "maaslalani1@gmail.com",
-      "family_name": "Lalani",
-      "given_name": "Maas",
-      "id": "ab37a247-7d5a-4aae-9a2a-b76d2c03ec46",
-      "locale": "",
-      "mobile_onboarding_completed": true,
-      "onboarding_completed": true,
-      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/1bba0402-afcb-4f95-9a6c-32324cf4683c/Cartoon.png",
-      "time_zone": "",
-      "version": 168
     }
   ],
   "Tables": null

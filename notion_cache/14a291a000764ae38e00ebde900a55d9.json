@@ -1,0 +1,1359 @@
+{
+  "ID": "14a291a0-0076-4ae3-8e00-ebde900a55d9",
+  "Root": {
+    "id": "14a291a0-0076-4ae3-8e00-ebde900a55d9",
+    "alive": true,
+    "content": [
+      "7f023305-a4fe-45e2-962b-9033166462f0",
+      "23a770b1-93b9-477b-ab3b-27add48a9ce0",
+      "92a9caa1-c051-479b-821f-05eec49e6395",
+      "e4fcc9ad-266e-48e8-976a-ecfc94015511",
+      "5dd0de81-91d0-42ac-97c1-4584cbbae034",
+      "eff2b415-7d3f-4fb0-bf90-1c7e89990e03",
+      "5f518306-81cf-48f8-b6a6-2d2f0aea5de2",
+      "d07a5619-ec1e-4cce-b5d9-356c9b639b7c",
+      "398449bd-8a9c-4be9-881a-d652f1becddf",
+      "0294a6f5-3d9c-4b5d-9a26-60107dd7bd1b",
+      "912a954a-3cf3-4912-bfaf-05107fbc1f4d",
+      "cbf81c08-bc2b-4c38-adcc-7eeaba554933",
+      "f872d101-37a3-45c5-9c73-c3c70800636f",
+      "1dbc502f-f420-4ac8-98da-ccc5e58d982d",
+      "44ed8217-b325-4dda-8ec4-21827ad46b9d",
+      "cbf61305-1ff8-428b-b2de-7bf8c5e0858b",
+      "80abf126-81a6-443d-b690-439e08ce2d2a",
+      "16c5b9fb-12a7-4a9d-9ca3-98b54d960296",
+      "e5e65dd8-1f9a-44fc-ad37-2ddcc05c5ad5",
+      "de372f5f-0958-442d-a94e-3e1e75be933d",
+      "ece666cc-e133-4377-bfba-461e669c63d3",
+      "a1f4c5b5-065d-4526-ba3a-7e7586f45fa8",
+      "306de507-f663-48d7-8756-01e19e1be52c",
+      "51073388-bd9f-4d59-b0bf-e61ae18beef5",
+      "d1c47650-7806-4b2b-8f00-8de3145ab793",
+      "f18b8ef1-5104-4ee7-abda-0647eef9e32f",
+      "ab80ccd9-5d0c-4f66-be1b-aa5be442945d",
+      "90677369-9fc5-499d-8753-1ce09c18c211",
+      "29d25c4a-1146-4449-91d7-5e68d972d3e9",
+      "a2e05c52-3a5c-4540-85ee-4624fe802300",
+      "05adb6f0-f41b-472f-adee-87f59062ec0e",
+      "515c3477-0356-4d77-8b31-5be0e16b038c",
+      "ded8bff9-aee6-4835-86fe-d70e38f88982",
+      "953d5f90-e1a0-4ad8-a316-b3db082cd32a",
+      "a0aa2d62-dba7-42b8-aa9e-3967b062b504",
+      "3a9ed2d4-42a8-459e-9a38-24521f2b9bcd",
+      "ac1d2364-b97e-45fa-bad5-eda1e8fac18e",
+      "496ef5e6-aceb-463b-8c3b-413081b471a3",
+      "9fcff716-5a9d-41d2-ad4b-4b07d4f0a142",
+      "99d8954c-2e2c-460e-82a4-d5232a6c5d27",
+      "c319bf96-0980-4909-a202-6a72555d8d6c",
+      "39e9770e-635c-4a8c-81c5-11fcc77dec11",
+      "6f4903e1-5038-4774-bf17-45996eafe61f",
+      "fdcd0b5d-4190-4933-a3fa-08256d757399",
+      "e31b4de9-7522-477a-adc8-2dd6f51d14d5"
+    ],
+    "copied_from": "20f83114-dc15-488e-b568-4c8c29821a4b",
+    "created_by": "e894aec7-c5cc-4aa2-8c20-fb602fa7777a",
+    "created_time": 1557096102011,
+    "format": {
+      "page_font": "serif",
+      "page_full_width": false,
+      "page_cover_position": 0.4
+    },
+    "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+    "last_edited_time": 1557127080000,
+    "parent_id": "5d4398fe-d970-4479-8250-20164e35efdf",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Hybrid Code Networks: practical and efficient end-to-end dialog control with supervised and reinforcement learning"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 257,
+    "content_resolved": [
+      {
+        "id": "7f023305-a4fe-45e2-962b-9033166462f0",
+        "alive": true,
+        "copied_from": "b3fc1d41-817d-4300-a818-6b0ff7c88362",
+        "created_by": "e894aec7-c5cc-4aa2-8c20-fb602fa7777a",
+        "created_time": 1557096102011,
+        "format": {
+          "block_color": "gray"
+        },
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1557096120000,
+        "parent_id": "14a291a0-0076-4ae3-8e00-ebde900a55d9",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Source: "
+            ],
+            [
+              "http://arxiv.org/abs/1702.03274",
+              [
+                [
+                  "a",
+                  "http://arxiv.org/abs/1702.03274"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 5,
+        "inline_content": [
+          {
+            "Text": "Source: "
+          },
+          {
+            "Text": "http://arxiv.org/abs/1702.03274",
+            "Link": "http://arxiv.org/abs/1702.03274"
+          }
+        ],
+        "format_text": {
+          "block_color": "gray"
+        }
+      },
+      {
+        "id": "23a770b1-93b9-477b-ab3b-27add48a9ce0",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1557096180000,
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1557096540000,
+        "parent_id": "14a291a0-0076-4ae3-8e00-ebde900a55d9",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "이 논문은 기존 RNN으로 작성되었던 end-to-end dialog system에서 domain-specific knowledge를 추가하여 구현하였다 (HCN : Hybrid Code Network) 이를 통해 training data를 줄일 수 있다."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 215,
+        "inline_content": [
+          {
+            "Text": "이 논문은 기존 RNN으로 작성되었던 end-to-end dialog system에서 domain-specific knowledge를 추가하여 구현하였다 (HCN : Hybrid Code Network) 이를 통해 training data를 줄일 수 있다."
+          }
+        ]
+      },
+      {
+        "id": "92a9caa1-c051-479b-821f-05eec49e6395",
+        "alive": true,
+        "copied_from": "1dc5b8ea-cc74-43e6-b0f9-a3ecdf53c07e",
+        "created_by": "e894aec7-c5cc-4aa2-8c20-fb602fa7777a",
+        "created_time": 1557096102011,
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1557096540000,
+        "parent_id": "14a291a0-0076-4ae3-8e00-ebde900a55d9",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Model 설명"
+            ]
+          ]
+        },
+        "type": "header",
+        "version": 20,
+        "inline_content": [
+          {
+            "Text": "Model 설명"
+          }
+        ]
+      },
+      {
+        "id": "e4fcc9ad-266e-48e8-976a-ecfc94015511",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1557096600000,
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1557096720000,
+        "parent_id": "14a291a0-0076-4ae3-8e00-ebde900a55d9",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "전체적인 구조는 아래와 같다"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 30,
+        "inline_content": [
+          {
+            "Text": "전체적인 구조는 아래와 같다"
+          }
+        ]
+      },
+      {
+        "id": "5dd0de81-91d0-42ac-97c1-4584cbbae034",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1557096663393,
+        "file_ids": [
+          "3370ba8a-e89b-4698-a3c5-c4f0d89b22cf"
+        ],
+        "format": {
+          "block_width": 1476,
+          "display_source": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3370ba8a-e89b-4698-a3c5-c4f0d89b22cf/_2019-05-06__7.51.30.png",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_aspect_ratio": 0.4159891598915989,
+          "block_preserve_scale": true
+        },
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1557096660000,
+        "parent_id": "14a291a0-0076-4ae3-8e00-ebde900a55d9",
+        "parent_table": "block",
+        "properties": {
+          "source": [
+            [
+              "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3370ba8a-e89b-4698-a3c5-c4f0d89b22cf/_2019-05-06__7.51.30.png"
+            ]
+          ]
+        },
+        "type": "image",
+        "version": 8,
+        "source": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3370ba8a-e89b-4698-a3c5-c4f0d89b22cf/_2019-05-06__7.51.30.png",
+        "image_url": "https://www.notion.so/signed/https:%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F3370ba8a-e89b-4698-a3c5-c4f0d89b22cf%2F_2019-05-06__7.51.30.png",
+        "format_image": {
+          "block_aspect_ratio": 0.4159891598915989,
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": true,
+          "block_width": 1476,
+          "display_source": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3370ba8a-e89b-4698-a3c5-c4f0d89b22cf/_2019-05-06__7.51.30.png",
+          "image_url": "https://www.notion.so/signed/https:%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F3370ba8a-e89b-4698-a3c5-c4f0d89b22cf%2F_2019-05-06__7.51.30.png"
+        }
+      },
+      {
+        "id": "eff2b415-7d3f-4fb0-bf90-1c7e89990e03",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1557096755191,
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1557096780000,
+        "parent_id": "14a291a0-0076-4ae3-8e00-ebde900a55d9",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "User가 발화 (utterance)를 system에 전달한다"
+            ]
+          ]
+        },
+        "type": "numbered_list",
+        "version": 59,
+        "inline_content": [
+          {
+            "Text": "User가 발화 (utterance)를 system에 전달한다"
+          }
+        ]
+      },
+      {
+        "id": "5f518306-81cf-48f8-b6a6-2d2f0aea5de2",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1557096780000,
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1557096780000,
+        "parent_id": "14a291a0-0076-4ae3-8e00-ebde900a55d9",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "발화를 bag of words로 변환한다"
+            ]
+          ]
+        },
+        "type": "numbered_list",
+        "version": 46,
+        "inline_content": [
+          {
+            "Text": "발화를 bag of words로 변환한다"
+          }
+        ]
+      },
+      {
+        "id": "d07a5619-ec1e-4cce-b5d9-356c9b639b7c",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1557096780000,
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1557096900000,
+        "parent_id": "14a291a0-0076-4ae3-8e00-ebde900a55d9",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "pre-built된  utterance embedding model을 이용해서 utterance embedding으로 변경한다"
+            ]
+          ]
+        },
+        "type": "numbered_list",
+        "version": 60,
+        "inline_content": [
+          {
+            "Text": "pre-built된  utterance embedding model을 이용해서 utterance embedding으로 변경한다"
+          }
+        ]
+      },
+      {
+        "id": "398449bd-8a9c-4be9-881a-d652f1becddf",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1557096900000,
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1557097020000,
+        "parent_id": "14a291a0-0076-4ae3-8e00-ebde900a55d9",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "NER와 비슷하게 entity mention을 인식한다"
+            ]
+          ]
+        },
+        "type": "numbered_list",
+        "version": 50,
+        "inline_content": [
+          {
+            "Text": "NER와 비슷하게 entity mention을 인식한다"
+          }
+        ]
+      },
+      {
+        "id": "0294a6f5-3d9c-4b5d-9a26-60107dd7bd1b",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1557097020000,
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1557101760000,
+        "parent_id": "14a291a0-0076-4ae3-8e00-ebde900a55d9",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "4에서 인식한 entity에 대해 tracking을 수행한다. "
+            ]
+          ]
+        },
+        "type": "numbered_list",
+        "version": 66,
+        "inline_content": [
+          {
+            "Text": "4에서 인식한 entity에 대해 tracking을 수행한다. "
+          }
+        ]
+      },
+      {
+        "id": "912a954a-3cf3-4912-bfaf-05107fbc1f4d",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1557099060000,
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1557099180000,
+        "parent_id": "14a291a0-0076-4ae3-8e00-ebde900a55d9",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "1~5에서 만들어진 feature는 feature vector형태도 RNN의 input으로 전달된다"
+            ]
+          ]
+        },
+        "type": "numbered_list",
+        "version": 116,
+        "inline_content": [
+          {
+            "Text": "1~5에서 만들어진 feature는 feature vector형태도 RNN의 input으로 전달된다"
+          }
+        ]
+      },
+      {
+        "id": "cbf81c08-bc2b-4c38-adcc-7eeaba554933",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1557099180000,
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1557099180000,
+        "parent_id": "14a291a0-0076-4ae3-8e00-ebde900a55d9",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "RNN을 수행한다"
+            ]
+          ]
+        },
+        "type": "numbered_list",
+        "version": 19,
+        "inline_content": [
+          {
+            "Text": "RNN을 수행한다"
+          }
+        ]
+      },
+      {
+        "id": "f872d101-37a3-45c5-9c73-c3c70800636f",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1557099180000,
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1557099180000,
+        "parent_id": "14a291a0-0076-4ae3-8e00-ebde900a55d9",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "RNN을 수행한다"
+            ]
+          ]
+        },
+        "type": "numbered_list",
+        "version": 5,
+        "inline_content": [
+          {
+            "Text": "RNN을 수행한다"
+          }
+        ]
+      },
+      {
+        "id": "1dbc502f-f420-4ac8-98da-ccc5e58d982d",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1557099180000,
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1557100740000,
+        "parent_id": "14a291a0-0076-4ae3-8e00-ebde900a55d9",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "step 9의 결과는 action template의 distribution이다 그후 action mask가 element-wise multiplication로 적용된다"
+            ]
+          ]
+        },
+        "type": "numbered_list",
+        "version": 18,
+        "inline_content": [
+          {
+            "Text": "step 9의 결과는 action template의 distribution이다 그후 action mask가 element-wise multiplication로 적용된다"
+          }
+        ]
+      },
+      {
+        "id": "44ed8217-b325-4dda-8ec4-21827ad46b9d",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1557099360000,
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1557101040000,
+        "parent_id": "14a291a0-0076-4ae3-8e00-ebde900a55d9",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Normalization을 수행한다 이를 통해 non-permitted action의 확률이 0이 된다."
+            ]
+          ]
+        },
+        "type": "numbered_list",
+        "version": 89,
+        "inline_content": [
+          {
+            "Text": "Normalization을 수행한다 이를 통해 non-permitted action의 확률이 0이 된다."
+          }
+        ]
+      },
+      {
+        "id": "cbf61305-1ff8-428b-b2de-7bf8c5e0858b",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1557099360000,
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1557101520000,
+        "parent_id": "14a291a0-0076-4ae3-8e00-ebde900a55d9",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "resulting distribution "
+            ]
+          ]
+        },
+        "type": "numbered_list",
+        "version": 16,
+        "inline_content": [
+          {
+            "Text": "resulting distribution "
+          }
+        ]
+      },
+      {
+        "id": "80abf126-81a6-443d-b690-439e08ce2d2a",
+        "alive": true,
+        "content": [
+          "aa8b2590-9a7e-4c51-8e16-15aad68873f8",
+          "8a33b0c9-83f4-4081-8eaf-c14c5cdc54b1"
+        ],
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1557100320000,
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1557100920000,
+        "parent_id": "14a291a0-0076-4ae3-8e00-ebde900a55d9",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Action이 선택된다."
+            ]
+          ]
+        },
+        "type": "numbered_list",
+        "version": 75,
+        "content_resolved": [
+          {
+            "id": "aa8b2590-9a7e-4c51-8e16-15aad68873f8",
+            "alive": true,
+            "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+            "created_time": 1557100949096,
+            "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+            "last_edited_time": 1557101580000,
+            "parent_id": "80abf126-81a6-443d-b690-439e08ce2d2a",
+            "parent_table": "block",
+            "properties": {
+              "title": [
+                [
+                  "RL을 사용하는 경우 distribution에서 sampling된다"
+                ]
+              ]
+            },
+            "type": "bulleted_list",
+            "version": 7,
+            "inline_content": [
+              {
+                "Text": "RL을 사용하는 경우 distribution에서 sampling된다"
+              }
+            ]
+          },
+          {
+            "id": "8a33b0c9-83f4-4081-8eaf-c14c5cdc54b1",
+            "alive": true,
+            "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+            "created_time": 1557100920000,
+            "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+            "last_edited_time": 1557101580000,
+            "parent_id": "80abf126-81a6-443d-b690-439e08ce2d2a",
+            "parent_table": "block",
+            "properties": {
+              "title": [
+                [
+                  "RL을 사용하지 않는 경우 가장 가능성이 높은 action이 선택된다."
+                ]
+              ]
+            },
+            "type": "bulleted_list",
+            "version": 60,
+            "inline_content": [
+              {
+                "Text": "RL을 사용하지 않는 경우 가장 가능성이 높은 action이 선택된다."
+              }
+            ]
+          }
+        ],
+        "inline_content": [
+          {
+            "Text": "Action이 선택된다."
+          }
+        ]
+      },
+      {
+        "id": "16c5b9fb-12a7-4a9d-9ca3-98b54d960296",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1557100320000,
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1557101220000,
+        "parent_id": "14a291a0-0076-4ae3-8e00-ebde900a55d9",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "선택된 action의 내부에 정의되어 있는 develpoer code가 entity로 변경된다 예를 들어 “\u003ccity\u003e iright?” → “Seattle, right?”로 변경된다"
+            ]
+          ]
+        },
+        "type": "numbered_list",
+        "version": 20,
+        "inline_content": [
+          {
+            "Text": "선택된 action의 내부에 정의되어 있는 develpoer code가 entity로 변경된다 예를 들어 “\u003ccity\u003e iright?” → “Seattle, right?”로 변경된다"
+          }
+        ]
+      },
+      {
+        "id": "e5e65dd8-1f9a-44fc-ad37-2ddcc05c5ad5",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1557100440000,
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1557100980000,
+        "parent_id": "14a291a0-0076-4ae3-8e00-ebde900a55d9",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "action의 종류에 따라 다음 단계 동작을 정한다 (api action or text action)"
+            ]
+          ]
+        },
+        "type": "numbered_list",
+        "version": 100,
+        "inline_content": [
+          {
+            "Text": "action의 종류에 따라 다음 단계 동작을 정한다 (api action or text action)"
+          }
+        ]
+      },
+      {
+        "id": "de372f5f-0958-442d-a94e-3e1e75be933d",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1557100500000,
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1557101220000,
+        "parent_id": "14a291a0-0076-4ae3-8e00-ebde900a55d9",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "API call이면 그에 맞는 API가 실행된다."
+            ]
+          ]
+        },
+        "type": "numbered_list",
+        "version": 21,
+        "inline_content": [
+          {
+            "Text": "API call이면 그에 맞는 API가 실행된다."
+          }
+        ]
+      },
+      {
+        "id": "ece666cc-e133-4377-bfba-461e669c63d3",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1557100560000,
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1557101280000,
+        "parent_id": "14a291a0-0076-4ae3-8e00-ebde900a55d9",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "15에서 실행된 결과는 다음 timestep(t+1)의 입력으로 사용된다."
+            ]
+          ]
+        },
+        "type": "numbered_list",
+        "version": 79,
+        "inline_content": [
+          {
+            "Text": "15에서 실행된 결과는 다음 timestep(t+1)의 입력으로 사용된다."
+          }
+        ]
+      },
+      {
+        "id": "a1f4c5b5-065d-4526-ba3a-7e7586f45fa8",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1557100620000,
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1557101340000,
+        "parent_id": "14a291a0-0076-4ae3-8e00-ebde900a55d9",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "action type이 text면 사용자에게 전달된다."
+            ]
+          ]
+        },
+        "type": "numbered_list",
+        "version": 60,
+        "inline_content": [
+          {
+            "Text": "action type이 text면 사용자에게 전달된다."
+          }
+        ]
+      },
+      {
+        "id": "306de507-f663-48d7-8756-01e19e1be52c",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1557100620000,
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1557101520000,
+        "parent_id": "14a291a0-0076-4ae3-8e00-ebde900a55d9",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "17에서 수행한 결과를 다음 timestep(t+1)의 입력으로 전달한다."
+            ]
+          ]
+        },
+        "type": "numbered_list",
+        "version": 47,
+        "inline_content": [
+          {
+            "Text": "17에서 수행한 결과를 다음 timestep(t+1)의 입력으로 전달한다."
+          }
+        ]
+      },
+      {
+        "id": "51073388-bd9f-4d59-b0bf-e61ae18beef5",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1557101520000,
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1557101880000,
+        "parent_id": "14a291a0-0076-4ae3-8e00-ebde900a55d9",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Supervised learning evaluation"
+            ]
+          ]
+        },
+        "type": "header",
+        "version": 60,
+        "inline_content": [
+          {
+            "Text": "Supervised learning evaluation"
+          }
+        ]
+      },
+      {
+        "id": "d1c47650-7806-4b2b-8f00-8de3145ab793",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1557101880000,
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1557101940000,
+        "parent_id": "14a291a0-0076-4ae3-8e00-ebde900a55d9",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "bAbI dialog  dataset에서 성능 평가"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 17,
+        "inline_content": [
+          {
+            "Text": "bAbI dialog  dataset에서 성능 평가"
+          }
+        ]
+      },
+      {
+        "id": "f18b8ef1-5104-4ee7-abda-0647eef9e32f",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1557101998072,
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1557102360000,
+        "parent_id": "14a291a0-0076-4ae3-8e00-ebde900a55d9",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "entity extraction (step 4 in Figure 1)은  이미 정의되어 있는 string에 대해 string matching을 사용하였다."
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 96,
+        "inline_content": [
+          {
+            "Text": "entity extraction (step 4 in Figure 1)은  이미 정의되어 있는 string에 대해 string matching을 사용하였다."
+          }
+        ]
+      },
+      {
+        "id": "ab80ccd9-5d0c-4f66-be1b-aa5be442945d",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1557102000000,
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1557102420000,
+        "parent_id": "14a291a0-0076-4ae3-8e00-ebde900a55d9",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              " tracking entities: user input에서 entity가 확인되고 이미 사용되는 값이라면 overwrite하였다."
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 88,
+        "inline_content": [
+          {
+            "Text": " tracking entities: user input에서 entity가 확인되고 이미 사용되는 값이라면 overwrite하였다."
+          }
+        ]
+      },
+      {
+        "id": "90677369-9fc5-499d-8753-1ce09c18c211",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1557102060000,
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1557102060000,
+        "parent_id": "14a291a0-0076-4ae3-8e00-ebde900a55d9",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "LSTM사용"
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 20,
+        "inline_content": [
+          {
+            "Text": "LSTM사용"
+          }
+        ]
+      },
+      {
+        "id": "29d25c4a-1146-4449-91d7-5e68d972d3e9",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1557102060000,
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1557102060000,
+        "parent_id": "14a291a0-0076-4ae3-8e00-ebde900a55d9",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "실행 결과는 아래와 같다"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 18,
+        "inline_content": [
+          {
+            "Text": "실행 결과는 아래와 같다"
+          }
+        ]
+      },
+      {
+        "id": "a2e05c52-3a5c-4540-85ee-4624fe802300",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1557102126756,
+        "file_ids": [
+          "c50939ac-498e-4dc4-9777-34262340e297"
+        ],
+        "format": {
+          "block_width": 723,
+          "display_source": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c50939ac-498e-4dc4-9777-34262340e297/_2019-05-06__9.22.00.png",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_aspect_ratio": 0.946058091286307,
+          "block_preserve_scale": true
+        },
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1557102120000,
+        "parent_id": "14a291a0-0076-4ae3-8e00-ebde900a55d9",
+        "parent_table": "block",
+        "properties": {
+          "source": [
+            [
+              "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c50939ac-498e-4dc4-9777-34262340e297/_2019-05-06__9.22.00.png"
+            ]
+          ]
+        },
+        "type": "image",
+        "version": 8,
+        "source": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c50939ac-498e-4dc4-9777-34262340e297/_2019-05-06__9.22.00.png",
+        "image_url": "https://www.notion.so/signed/https:%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fc50939ac-498e-4dc4-9777-34262340e297%2F_2019-05-06__9.22.00.png",
+        "format_image": {
+          "block_aspect_ratio": 0.946058091286307,
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": true,
+          "block_width": 723,
+          "display_source": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c50939ac-498e-4dc4-9777-34262340e297/_2019-05-06__9.22.00.png",
+          "image_url": "https://www.notion.so/signed/https:%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fc50939ac-498e-4dc4-9777-34262340e297%2F_2019-05-06__9.22.00.png"
+        }
+      },
+      {
+        "id": "05adb6f0-f41b-472f-adee-87f59062ec0e",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1557101940000,
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1557102540000,
+        "parent_id": "14a291a0-0076-4ae3-8e00-ebde900a55d9",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "text-based customer support dialog system에서 성능 평가"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 15,
+        "inline_content": [
+          {
+            "Text": "text-based customer support dialog system에서 성능 평가"
+          }
+        ]
+      },
+      {
+        "id": "515c3477-0356-4d77-8b31-5be0e16b038c",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1557102540000,
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1557102720000,
+        "parent_id": "14a291a0-0076-4ae3-8e00-ebde900a55d9",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              " password찾기 (Forget password),  계정에 접근할 수 없습니다 (Can’t access account) 문제에 대해 성능평가를 진행하였다. 기존 system은 rule-based approach를 사용하였다."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 191,
+        "inline_content": [
+          {
+            "Text": " password찾기 (Forget password),  계정에 접근할 수 없습니다 (Can’t access account) 문제에 대해 성능평가를 진행하였다. 기존 system은 rule-based approach를 사용하였다."
+          }
+        ]
+      },
+      {
+        "id": "ded8bff9-aee6-4835-86fe-d70e38f88982",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1557102600000,
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1557103740000,
+        "parent_id": "14a291a0-0076-4ae3-8e00-ebde900a55d9",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "평가를 진행하기 위해 아래의 식으로 성능을 평가하였다   (∆P)"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 68,
+        "inline_content": [
+          {
+            "Text": "평가를 진행하기 위해 아래의 식으로 성능을 평가하였다   (∆P)"
+          }
+        ]
+      },
+      {
+        "id": "953d5f90-e1a0-4ad8-a316-b3db082cd32a",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1557103733648,
+        "file_ids": [
+          "0525c521-ab55-4bf1-b467-96b614c882b6"
+        ],
+        "format": {
+          "block_width": 336,
+          "display_source": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0525c521-ab55-4bf1-b467-96b614c882b6/latex_d94ffeb2ece120fa15d70bfad89f2a2f.png",
+          "block_full_width": false,
+          "block_page_width": false,
+          "block_aspect_ratio": 0.1614497528830313,
+          "block_preserve_scale": true
+        },
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1557105360000,
+        "parent_id": "14a291a0-0076-4ae3-8e00-ebde900a55d9",
+        "parent_table": "block",
+        "properties": {
+          "source": [
+            [
+              "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0525c521-ab55-4bf1-b467-96b614c882b6/latex_d94ffeb2ece120fa15d70bfad89f2a2f.png"
+            ]
+          ]
+        },
+        "type": "image",
+        "version": 11,
+        "source": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0525c521-ab55-4bf1-b467-96b614c882b6/latex_d94ffeb2ece120fa15d70bfad89f2a2f.png",
+        "image_url": "https://www.notion.so/signed/https:%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F0525c521-ab55-4bf1-b467-96b614c882b6%2Flatex_d94ffeb2ece120fa15d70bfad89f2a2f.png",
+        "format_image": {
+          "block_aspect_ratio": 0.1614497528830313,
+          "block_full_width": false,
+          "block_page_width": false,
+          "block_preserve_scale": true,
+          "block_width": 336,
+          "display_source": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0525c521-ab55-4bf1-b467-96b614c882b6/latex_d94ffeb2ece120fa15d70bfad89f2a2f.png",
+          "image_url": "https://www.notion.so/signed/https:%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F0525c521-ab55-4bf1-b467-96b614c882b6%2Flatex_d94ffeb2ece120fa15d70bfad89f2a2f.png"
+        }
+      },
+      {
+        "id": "a0aa2d62-dba7-42b8-aa9e-3967b062b504",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1557101040000,
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1557102900000,
+        "parent_id": "14a291a0-0076-4ae3-8e00-ebde900a55d9",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "where,"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 254,
+        "inline_content": [
+          {
+            "Text": "where,"
+          }
+        ]
+      },
+      {
+        "id": "3a9ed2d4-42a8-459e-9a38-24521f2b9bcd",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1557102963296,
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1557103020000,
+        "parent_id": "14a291a0-0076-4ae3-8e00-ebde900a55d9",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "C(HCN-win) is the C(all) number of test dialogs where the rule-based approach output a wrong action before the HCN",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 9,
+        "inline_content": [
+          {
+            "Text": "C(HCN-win) is the C(all) number of test dialogs where the rule-based approach output a wrong action before the HCN",
+            "AttrFlags": 1
+          }
+        ]
+      },
+      {
+        "id": "ac1d2364-b97e-45fa-bad5-eda1e8fac18e",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1557103020000,
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1557103020000,
+        "parent_id": "14a291a0-0076-4ae3-8e00-ebde900a55d9",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "C(rule-win) is the number of test dialogs where the HCN output a wrong action before the rule- based approach"
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 5,
+        "inline_content": [
+          {
+            "Text": "C(rule-win) is the number of test dialogs where the HCN output a wrong action before the rule- based approach"
+          }
+        ]
+      },
+      {
+        "id": "496ef5e6-aceb-463b-8c3b-413081b471a3",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1557103020000,
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1557103020000,
+        "parent_id": "14a291a0-0076-4ae3-8e00-ebde900a55d9",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "C(all) is the number of dialogs in the test set."
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 7,
+        "inline_content": [
+          {
+            "Text": "C(all) is the number of dialogs in the test set."
+          }
+        ]
+      },
+      {
+        "id": "9fcff716-5a9d-41d2-ad4b-4b07d4f0a142",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1557103020000,
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1557103200000,
+        "parent_id": "14a291a0-0076-4ae3-8e00-ebde900a55d9",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "결과는 다음과 같다"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 26,
+        "inline_content": [
+          {
+            "Text": "결과는 다음과 같다"
+          }
+        ]
+      },
+      {
+        "id": "99d8954c-2e2c-460e-82a4-d5232a6c5d27",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1557103141981,
+        "file_ids": [
+          "7a818c9f-ac3d-44c8-b8e0-28a5d72f3ab0"
+        ],
+        "format": {
+          "block_width": 1446,
+          "display_source": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7a818c9f-ac3d-44c8-b8e0-28a5d72f3ab0/_2019-05-06__9.38.47.png",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_aspect_ratio": 0.5560165975103735,
+          "block_preserve_scale": true
+        },
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1557103140000,
+        "parent_id": "14a291a0-0076-4ae3-8e00-ebde900a55d9",
+        "parent_table": "block",
+        "properties": {
+          "source": [
+            [
+              "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7a818c9f-ac3d-44c8-b8e0-28a5d72f3ab0/_2019-05-06__9.38.47.png"
+            ]
+          ]
+        },
+        "type": "image",
+        "version": 8,
+        "source": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7a818c9f-ac3d-44c8-b8e0-28a5d72f3ab0/_2019-05-06__9.38.47.png",
+        "image_url": "https://www.notion.so/signed/https:%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F7a818c9f-ac3d-44c8-b8e0-28a5d72f3ab0%2F_2019-05-06__9.38.47.png",
+        "format_image": {
+          "block_aspect_ratio": 0.5560165975103735,
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": true,
+          "block_width": 1446,
+          "display_source": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7a818c9f-ac3d-44c8-b8e0-28a5d72f3ab0/_2019-05-06__9.38.47.png",
+          "image_url": "https://www.notion.so/signed/https:%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F7a818c9f-ac3d-44c8-b8e0-28a5d72f3ab0%2F_2019-05-06__9.38.47.png"
+        }
+      },
+      {
+        "id": "c319bf96-0980-4909-a202-6a72555d8d6c",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1557103199685,
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1557103200000,
+        "parent_id": "14a291a0-0076-4ae3-8e00-ebde900a55d9",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Reinforcement learning illustration"
+            ]
+          ]
+        },
+        "type": "header",
+        "version": 8,
+        "inline_content": [
+          {
+            "Text": "Reinforcement learning illustration"
+          }
+        ]
+      },
+      {
+        "id": "39e9770e-635c-4a8c-81c5-11fcc77dec11",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1557103200000,
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1557103320000,
+        "parent_id": "14a291a0-0076-4ae3-8e00-ebde900a55d9",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "policy gradient approach을 적용하였다 결과는 아래와 같다"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 32,
+        "inline_content": [
+          {
+            "Text": "policy gradient approach을 적용하였다 결과는 아래와 같다"
+          }
+        ]
+      },
+      {
+        "id": "6f4903e1-5038-4774-bf17-45996eafe61f",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1557103308545,
+        "file_ids": [
+          "b6a4bff8-edbc-4029-9cd3-672afd85781f"
+        ],
+        "format": {
+          "block_width": 744,
+          "display_source": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b6a4bff8-edbc-4029-9cd3-672afd85781f/_2019-05-06__9.41.42.png",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_aspect_ratio": 1.1155913978494623,
+          "block_preserve_scale": true
+        },
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1557103260000,
+        "parent_id": "14a291a0-0076-4ae3-8e00-ebde900a55d9",
+        "parent_table": "block",
+        "properties": {
+          "source": [
+            [
+              "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b6a4bff8-edbc-4029-9cd3-672afd85781f/_2019-05-06__9.41.42.png"
+            ]
+          ]
+        },
+        "type": "image",
+        "version": 8,
+        "source": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b6a4bff8-edbc-4029-9cd3-672afd85781f/_2019-05-06__9.41.42.png",
+        "image_url": "https://www.notion.so/signed/https:%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fb6a4bff8-edbc-4029-9cd3-672afd85781f%2F_2019-05-06__9.41.42.png",
+        "format_image": {
+          "block_aspect_ratio": 1.1155913978494623,
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": true,
+          "block_width": 744,
+          "display_source": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b6a4bff8-edbc-4029-9cd3-672afd85781f/_2019-05-06__9.41.42.png",
+          "image_url": "https://www.notion.so/signed/https:%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fb6a4bff8-edbc-4029-9cd3-672afd85781f%2F_2019-05-06__9.41.42.png"
+        }
+      },
+      {
+        "id": "fdcd0b5d-4190-4933-a3fa-08256d757399",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1557099120000,
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1557103380000,
+        "parent_id": "14a291a0-0076-4ae3-8e00-ebde900a55d9",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Concolusion"
+            ]
+          ]
+        },
+        "type": "header",
+        "version": 26,
+        "inline_content": [
+          {
+            "Text": "Concolusion"
+          }
+        ]
+      },
+      {
+        "id": "e31b4de9-7522-477a-adc8-2dd6f51d14d5",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1557103380000,
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1557103380000,
+        "parent_id": "14a291a0-0076-4ae3-8e00-ebde900a55d9",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "기존 방식에 비해 작은 dataset으로 높은 성능을 보여주었다. "
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 51,
+        "inline_content": [
+          {
+            "Text": "기존 방식에 비해 작은 dataset으로 높은 성능을 보여주었다. "
+          }
+        ]
+      }
+    ],
+    "title": "Hybrid Code Networks: practical and efficient end-to-end dialog control with supervised and reinforcement learning",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0.4,
+      "page_font": "serif",
+      "page_full_width": false,
+      "page_icon": "",
+      "page_small_text": false
+    }
+  },
+  "Users": [
+    {
+      "email": "example4@makenotion.com",
+      "family_name": "Last",
+      "given_name": "Simon",
+      "id": "e894aec7-c5cc-4aa2-8c20-fb602fa7777a",
+      "locale": "",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://lh4.googleusercontent.com/-FA4Xb8SNeFY/AAAAAAAAAAI/AAAAAAAAACc/4XeWRkSIY3A/photo.jpg?sz=50",
+      "time_zone": "",
+      "version": 26
+    },
+    {
+      "email": "sjs2109@gmail.com",
+      "family_name": "Sung",
+      "given_name": "Jisuk",
+      "id": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+      "locale": "",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "",
+      "time_zone": "",
+      "version": 7
+    }
+  ],
+  "Tables": null
+}

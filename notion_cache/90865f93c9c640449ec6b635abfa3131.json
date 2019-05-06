@@ -4,9 +4,9 @@
     "id": "90865f93-c9c6-4044-9ec6-b635abfa3131",
     "alive": true,
     "content": [
-      "6ab6d553-a934-4a66-a056-ca3775de4434",
-      "93cd65d2-5418-4e76-b55a-590164298b4c",
       "5d4398fe-d970-4479-8250-20164e35efdf",
+      "93cd65d2-5418-4e76-b55a-590164298b4c",
+      "6ab6d553-a934-4a66-a056-ca3775de4434",
       "d7f138e9-97e7-46f5-b985-3d7985f41284"
     ],
     "copied_from": "4173487d-7b28-40a3-910e-ec9da09b01ea",
@@ -17,8 +17,12 @@
       "e82f92f6-d307-4718-9f3a-346117bed175",
       "7716322d-5f82-47c1-8032-c8041a810ac3"
     ],
+    "format": {
+      "block_locked": false,
+      "block_locked_by": "218003c6-a32c-48f0-96e7-42bfc97a7929"
+    },
     "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
-    "last_edited_time": 1556290620000,
+    "last_edited_time": 1557148920000,
     "parent_id": "bb483cdd-83b9-454c-8832-87023904702e",
     "parent_table": "space",
     "permissions": [
@@ -35,32 +39,32 @@
     "properties": {
       "title": [
         [
-          "개발로 만든 개발 블로그"
+          "blog home"
         ]
       ]
     },
     "type": "page",
-    "version": 49,
+    "version": 152,
     "content_resolved": [
       {
-        "id": "6ab6d553-a934-4a66-a056-ca3775de4434",
+        "id": "5d4398fe-d970-4479-8250-20164e35efdf",
         "alive": true,
         "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
-        "created_time": 1556289734397,
+        "created_time": 1556290465886,
         "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
-        "last_edited_time": 1557061020000,
-        "parent_id": "90865f93-c9c6-4044-9ec6-b635abfa3131",
+        "last_edited_time": 1557126420000,
+        "parent_id": "79e372e1-0a62-4c22-808b-84d97da78879",
         "parent_table": "block",
         "properties": {
           "title": [
             [
-              "2018-1 정리"
+              "Review"
             ]
           ]
         },
         "type": "page",
-        "version": 22,
-        "title": "2018-1 정리"
+        "version": 43,
+        "title": "Review"
       },
       {
         "id": "93cd65d2-5418-4e76-b55a-590164298b4c",
@@ -68,8 +72,8 @@
         "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
         "created_time": 1556289900000,
         "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
-        "last_edited_time": 1556290380000,
-        "parent_id": "90865f93-c9c6-4044-9ec6-b635abfa3131",
+        "last_edited_time": 1557105540000,
+        "parent_id": "79e372e1-0a62-4c22-808b-84d97da78879",
         "parent_table": "block",
         "properties": {
           "title": [
@@ -79,28 +83,28 @@
           ]
         },
         "type": "page",
-        "version": 79,
+        "version": 82,
         "title": "Old data"
       },
       {
-        "id": "5d4398fe-d970-4479-8250-20164e35efdf",
+        "id": "6ab6d553-a934-4a66-a056-ca3775de4434",
         "alive": true,
         "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
-        "created_time": 1556290465886,
+        "created_time": 1556289734397,
         "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
-        "last_edited_time": 1556290440000,
-        "parent_id": "90865f93-c9c6-4044-9ec6-b635abfa3131",
+        "last_edited_time": 1557105540000,
+        "parent_id": "79e372e1-0a62-4c22-808b-84d97da78879",
         "parent_table": "block",
         "properties": {
           "title": [
             [
-              "논문리뷰"
+              "2018-1  semester"
             ]
           ]
         },
         "type": "page",
-        "version": 20,
-        "title": "논문리뷰"
+        "version": 39,
+        "title": "2018-1  semester"
       },
       {
         "id": "d7f138e9-97e7-46f5-b985-3d7985f41284",
@@ -108,8 +112,8 @@
         "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
         "created_time": 1556290485603,
         "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
-        "last_edited_time": 1556290560000,
-        "parent_id": "90865f93-c9c6-4044-9ec6-b635abfa3131",
+        "last_edited_time": 1557150660000,
+        "parent_id": "79e372e1-0a62-4c22-808b-84d97da78879",
         "parent_table": "block",
         "properties": {
           "title": [
@@ -119,11 +123,19 @@
           ]
         },
         "type": "page",
-        "version": 27,
+        "version": 31,
         "title": "About"
       }
     ],
-    "title": "개발로 만든 개발 블로그"
+    "title": "blog home",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": false,
+      "page_icon": "",
+      "page_small_text": false
+    }
   },
   "Users": [
     {

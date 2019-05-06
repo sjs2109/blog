@@ -11,9 +11,7 @@
   
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
-
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
-  
   <link href="/css/main.css" rel="stylesheet" />
 </head>
 
@@ -22,121 +20,10 @@
         <div style="margin-top: -3em">
           {{.WebsiteHTML}}
         </div>
-      </div>
-    </div>
-  </div>
+      
 
   <hr />
   {{ template "analytics.tmpl.html" . }}
-
-  <script>
-    // url: https://www.programming-books.io/essential/go/
-    // cover: https://www.programming-books.io/covers/twitter/Go.png
-    var allBooks = [
-      "go",
-      "Go.png",
-      "cpp",
-      "Cpp.png",
-      "javascript",
-      "JavaScript.png",
-      "css",
-      "CSS.png",
-      "html",
-      "HTML.png",
-      "htmlcanvas",
-      "HTMLCanvas.png",
-      "java",
-      "Java.png",
-      //"kotlin", "Kotlin.png",
-      "csharp",
-      "CSharp.png",
-      "python",
-      "Python.png",
-      "postgresql",
-      "PostgreSQL.png",
-      "mysql",
-      "MySQL.png",
-      "ios",
-      "iOS.png",
-      "android",
-      "Android.png",
-      "bash",
-      "Bash.png",
-      "powershell",
-      "PowerShell.png",
-      //"batch", "Batch.png",
-      "git",
-      "Git.png",
-      "php",
-      "PHP.png",
-      "ruby",
-      "Ruby.png",
-      "nodejs",
-      "Node.js.png",
-      //"dart", "Dart.png",
-      "typescript",
-      "TypeScript.png",
-      "swift",
-      "Swift.png"
-    ];
-    function groupBooks(books) {
-      var res = [];
-      var n = books.length / 2;
-      for (var i = 0; i < n; i++) {
-        var url =
-          "https://www.programming-books.io/essential/" + books[i * 2] + "/";
-        var coverURL =
-          "https://www.programming-books.io/covers/covers_small/" +
-          books[i * 2 + 1];
-        res.push([url, coverURL]);
-      }
-      return res;
-    }
-    function shuffle(array) {
-      var currentIndex = array.length,
-        temporaryValue,
-        randomIndex;
-
-      // While there remain elements to shuffle...
-      while (0 !== currentIndex) {
-        // Pick a remaining element...
-        randomIndex = Math.floor(Math.random() * currentIndex);
-        currentIndex -= 1;
-
-        // And swap it with the current element.
-        temporaryValue = array[currentIndex];
-        array[currentIndex] = array[randomIndex];
-        array[randomIndex] = temporaryValue;
-      }
-
-      return array;
-    }
-    function genBookHTML(book) {
-      var url = book[0];
-      var coverURL = book[1];
-      var img = '<img class="book-cover" src="' + coverURL + '">';
-      var html = '<a href="' + url + '">' + img + "</a>";
-      return html;
-    }
-
-    function genBooksHTML(books) {
-      var s = "";
-      for (var i = 0; i < 3; i++) {
-        var book = books[i];
-        s += genBookHTML(book) + "\n";
-      }
-      return s;
-    }
-    function onLoaded() {
-      var books = groupBooks(allBooks);
-      books = shuffle(books);
-      console.log("books:", books);
-      var el = document.getElementById("books-list");
-      var html = genBooksHTML(books);
-      el.innerHTML = html;
-    }
-    document.addEventListener("DOMContentLoaded", onLoaded);
-  </script>
 </body>
 
 </html>

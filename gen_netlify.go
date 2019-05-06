@@ -81,8 +81,8 @@ func genAtomXML(store *Articles, excludeNotes bool) ([]byte, error) {
 	}
 
 	feed := &atom.Feed{
-		Title:   "Krzysztof Kowalczyk blog",
-		Link:    "https://blog.kowalczyk.info/atom.xml",
+		Title:   "sjs2109 blog",
+		Link:    "https://gifted-banach-c5f64c.netlify.com/atom.xml",
 		PubDate: pubTime,
 	}
 
@@ -90,7 +90,7 @@ func genAtomXML(store *Articles, excludeNotes bool) ([]byte, error) {
 		//id := fmt.Sprintf("tag:blog.kowalczyk.info,1999:%d", a.Id)
 		e := &atom.Entry{
 			Title:   a.Title,
-			Link:    "https://blog.kowalczyk.info" + a.URL(),
+			Link:    "https://gifted-banach-c5f64c.netlify.com" + a.URL(),
 			Content: a.BodyHTML,
 			PubDate: a.PublishedOn,
 		}
@@ -115,7 +115,7 @@ func netlifyWriteFile(fileName string, d []byte) {
 }
 
 func netlifyRequestGetFullHost() string {
-	return "https://blog.kowalczyk.info"
+	return "https://gifted-banach-c5f64c.netlify.com"
 }
 
 // https://www.linkedin.com/shareArticle?mini=true&;url=https://nodesource.com/blog/why-the-new-v8-is-so-damn-fast"
@@ -143,7 +143,7 @@ func makeTwitterShareURL(article *Article) string {
 	title := url.QueryEscape(article.Title)
 	uri := netlifyRequestGetFullHost() + article.URL()
 	uri = url.QueryEscape(uri)
-	return fmt.Sprintf(`https://twitter.com/intent/tweet?text=%s&url=%s&via=kjk`, title, uri)
+	return fmt.Sprintf(`https://twitter.com/intent/tweet?text=%s&url=%s&via=sjs2109`, title, uri)
 }
 
 // TagInfo represents a single tag for articles
@@ -347,7 +347,7 @@ func writeFileOrWriter(path string, data []byte, w io.Writer) error {
 
 func genSitemap(store *Articles, w io.Writer) error {
 	// /sitemap.xml
-	data, err := genSiteMap(store, "https://blog.kowalczyk.info")
+	data, err := genSiteMap(store, "https://gifted-banach-c5f64c.netlify.com")
 	panicIfErr(err)
 	return writeFileOrWriter("/sitemap.xml", data, w)
 }

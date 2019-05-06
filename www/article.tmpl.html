@@ -3,12 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="referrer" content="always">
-    <link rel="alternate" type="application/atom+xml" title="RSS 2.0" href="/atom.xml">
-    <link rel="canonical" href="{{.CanonicalURL}}" /> {{if .Article.Description}}
-    <meta name="description" content="{{.Article.Description}}"> {{end}}
-
+   
     <!-- Twitter Card data -->
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:site" content="@sjs2109">
@@ -28,131 +23,37 @@
     <title>{{.PageTitle}}</title>
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
 
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
-    
-    <link href="/css/main.css" rel="stylesheet">
-    <script type="text/javascript">
-        // describes which toggles are open and which ones are closed
-        var openedToggles = {};
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.2/css/bootstrap.min.css">
 
-        function updateToggles() {
-            //console.log("updateToggles");
-            // get all elements with id attribute.
-            var els = document.querySelectorAll("[id]");
-            function onel(el) {
-                // format of attribute we recognize is:
-                // toggle-${what}-${no}
-                var id = el.getAttribute("id");
-                var parts = id.split("-")
-                if ((parts.length != 3) || (parts[0] != "toggle")) {
-                    return;
-                }
-                var what = parts[1];
-                var no = parts[2];
-                var isOpen = (openedToggles[no] === "yes");
-                // console.log("id:", id, "isOpen:", isOpen);
-                if (what === "content") {
-                    var disp = isOpen ? "block" : "none";
-                    el.style.display = disp;
-                } else if (what == "opener") {
-                    var disp = isOpen ? "none" : "block";
-                    el.style.display = disp;
-                } else if (what == "closer") {
-                    var disp = isOpen ? "block" : "none";
-                    el.style.display = disp;
-                }
-            }
-            els.forEach(onel);
-        }
-
-        function onToggleClick(el) {
-            //console.log("onToggleClick. el:", el);
-            var id = el.getAttribute("id");
-            var parts = id.split("-")
-            if ((parts.length != 3) || (parts[0] != "toggle")) {
-                return;
-            }
-            var what = parts[1];
-            if (what !== "toggle") {
-                console.log("unexpected what:", what);
-                return;
-            }
-            var no = parts[2];
-            var isOpen = (openedToggles[no] === "yes");
-            if (isOpen) {
-                delete openedToggles[no];
-            } else {
-                openedToggles[no] = "yes";
-            }
-            updateToggles();
-        }
-
-        // function onLoad() { updateToggles(); }
-        // window.onload = onLoad;
-
-    </script>
+    <link href="https://stackpath.bootstrapcdn.com/bootswatch/4.3.1/lux/bootstrap.min.css" rel="stylesheet" integrity="sha384-hVpXlpdRmJ+uXGwD5W6HZMnR9ENcKVRn855pPbuI/mwPIEKAuKgTKgGksVGmlAvt" crossorigin="anonymous">
+   
 </head>
 
 <body>
 
-    {{ template "page_navbar.tmpl.html" . }}
+    <div id="post" style="margin-left:auto;margin-right:auto;margin-top:2em;">
+        <div class="title">
+            <a href="/">Home</a> / {{range .Article.Paths}}
+            <a href="{{.URL}}">{{.Name}}</a> / {{end}} {{.Article.Title}}
 
-    <div id="content">
-
-        <div id="post" style="margin-left:auto;margin-right:auto;margin-top:2em;">
-            <div class="title">
-                <a href="/">Home</a> / {{range .Article.Paths}}
-                <a href="{{.URL}}">{{.Name}}</a> / {{end}} {{.Article.Title}}
-
-                {{if .NotionEditURL}}
-                <a class="edit-link" href="{{.NotionEditURL}}" rel="nofollow" target="_blank">edit</a>
-                {{end}}
-            </div>
-
-            {{if .Article.HeaderImageURL}}
-            <div class="article-header hide-mobile">
-                <center>
-                    <img class="hdr-image hide-mobile" src="{{.Article.HeaderImageURL}}">
-                </center>
-            </div>
+            {{if .NotionEditURL}}
+            <a class="edit-link" href="{{.NotionEditURL}}" rel="nofollow" target="_blank">edit</a>
             {{end}}
+        </div>
 
-            <div>
-                {{.Article.HTMLBody}}
-            </div>
 
-            {{if .Article.CollectionURL}}
-            <center>
-                <div style="font-size: 120%">
-                    Part of
-                    <a href="{{.Article.CollectionURL}}">{{.Article.Collection}}</a>
-                </div>
-            </center>
-            {{else}}
-            <center>
-                <div style="font-size: 120%">
-                    Go to
-                    <a href="/">index of articles</a>.
-                </div>
-            </center>
-            {{end}}
+        <div>
+            {{.Article.HTMLBody}}
+        </div>
+    </div>
 
-            <div class="article-meta">
-                {{if not .Article.CollectionURL}}
-                <div>
-                    Written on {{.Article.PublishedOnShort}}{{if .Article.TagsDisplay}}. Topics:
-                    {{.Article.TagsDisplay}} {{end}}.
-                </div>
-                {{end}}
-                <div style="margin-left:auto">
-                    Found a mistake, have a comment?
-                    <a href="/contactme.html">Let me know</a>.
-                </div>
-            </div>
+           
 
-            <p></p>
+         
             <center>
                 <p style="display:flex;justify-content:center">Share on&nbsp;&nbsp;
                     <a href="{{.TwitterShareURL}}" target="_blank">
@@ -173,9 +74,7 @@
                 </p>
             </center>
             <p></p>
-        </div>
-
-    </div>
+       
 
     {{ template "analytics.tmpl.html" . }}
 

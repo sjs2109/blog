@@ -93,7 +93,7 @@
 
 <body>
 
-    {{ template "page_navbar.tmpl.html" . }}
+    
 
     <div id="content">
 
@@ -119,36 +119,6 @@
                 {{.Article.HTMLBody}}
             </div>
 
-            {{if .Article.CollectionURL}}
-            <center>
-                <div style="font-size: 120%">
-                    Part of
-                    <a href="{{.Article.CollectionURL}}">{{.Article.Collection}}</a>
-                </div>
-            </center>
-            {{else}}
-            <center>
-                <div style="font-size: 120%">
-                    Go to
-                    <a href="/">index of articles</a>.
-                </div>
-            </center>
-            {{end}}
-
-            <div class="article-meta">
-                {{if not .Article.CollectionURL}}
-                <div>
-                    Written on {{.Article.PublishedOnShort}}{{if .Article.TagsDisplay}}. Topics:
-                    {{.Article.TagsDisplay}} {{end}}.
-                </div>
-                {{end}}
-                <div style="margin-left:auto">
-                    Found a mistake, have a comment?
-                    <a href="/contactme.html">Let me know</a>.
-                </div>
-            </div>
-
-            <p></p>
             <center>
                 <p style="display:flex;justify-content:center">Share on&nbsp;&nbsp;
                     <a href="{{.TwitterShareURL}}" target="_blank">

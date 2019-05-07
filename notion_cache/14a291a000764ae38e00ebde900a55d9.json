@@ -5,6 +5,7 @@
     "alive": true,
     "content": [
       "7f023305-a4fe-45e2-962b-9033166462f0",
+      "363cbf70-0b8e-49b6-8c3a-7ab08d2633a9",
       "23a770b1-93b9-477b-ab3b-27add48a9ce0",
       "92a9caa1-c051-479b-821f-05eec49e6395",
       "e4fcc9ad-266e-48e8-976a-ecfc94015511",
@@ -48,7 +49,8 @@
       "39e9770e-635c-4a8c-81c5-11fcc77dec11",
       "6f4903e1-5038-4774-bf17-45996eafe61f",
       "fdcd0b5d-4190-4933-a3fa-08256d757399",
-      "e31b4de9-7522-477a-adc8-2dd6f51d14d5"
+      "e31b4de9-7522-477a-adc8-2dd6f51d14d5",
+      "698a7a3b-b375-46ce-8915-280a980d8008"
     ],
     "copied_from": "20f83114-dc15-488e-b568-4c8c29821a4b",
     "created_by": "e894aec7-c5cc-4aa2-8c20-fb602fa7777a",
@@ -59,7 +61,7 @@
       "page_cover_position": 0.4
     },
     "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
-    "last_edited_time": 1557127080000,
+    "last_edited_time": 1557194940000,
     "parent_id": "5d4398fe-d970-4479-8250-20164e35efdf",
     "parent_table": "block",
     "properties": {
@@ -70,7 +72,7 @@
       ]
     },
     "type": "page",
-    "version": 257,
+    "version": 262,
     "content_resolved": [
       {
         "id": "7f023305-a4fe-45e2-962b-9033166462f0",
@@ -117,6 +119,43 @@
         }
       },
       {
+        "id": "363cbf70-0b8e-49b6-8c3a-7ab08d2633a9",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1557194880000,
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1557194940000,
+        "parent_id": "14a291a0-0076-4ae3-8e00-ebde900a55d9",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "구현 (pytorch): "
+            ],
+            [
+              "https://github.com/jojonki/Hybrid-Code-Networks",
+              [
+                [
+                  "a",
+                  "https://github.com/jojonki/Hybrid-Code-Networks"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 26,
+        "inline_content": [
+          {
+            "Text": "구현 (pytorch): "
+          },
+          {
+            "Text": "https://github.com/jojonki/Hybrid-Code-Networks",
+            "Link": "https://github.com/jojonki/Hybrid-Code-Networks"
+          }
+        ]
+      },
+      {
         "id": "23a770b1-93b9-477b-ab3b-27add48a9ce0",
         "alive": true,
         "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
@@ -147,21 +186,27 @@
         "created_by": "e894aec7-c5cc-4aa2-8c20-fb602fa7777a",
         "created_time": 1557096102011,
         "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
-        "last_edited_time": 1557096540000,
+        "last_edited_time": 1557194880000,
         "parent_id": "14a291a0-0076-4ae3-8e00-ebde900a55d9",
         "parent_table": "block",
         "properties": {
           "title": [
             [
-              "Model 설명"
+              "Model 설명",
+              [
+                [
+                  "b"
+                ]
+              ]
             ]
           ]
         },
-        "type": "header",
-        "version": 20,
+        "type": "text",
+        "version": 24,
         "inline_content": [
           {
-            "Text": "Model 설명"
+            "Text": "Model 설명",
+            "AttrFlags": 1
           }
         ]
       },
@@ -722,21 +767,27 @@
         "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
         "created_time": 1557101520000,
         "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
-        "last_edited_time": 1557101880000,
+        "last_edited_time": 1557194880000,
         "parent_id": "14a291a0-0076-4ae3-8e00-ebde900a55d9",
         "parent_table": "block",
         "properties": {
           "title": [
             [
-              "Supervised learning evaluation"
+              "Supervised learning evaluation",
+              [
+                [
+                  "b"
+                ]
+              ]
             ]
           ]
         },
-        "type": "header",
-        "version": 60,
+        "type": "text",
+        "version": 63,
         "inline_content": [
           {
-            "Text": "Supervised learning evaluation"
+            "Text": "Supervised learning evaluation",
+            "AttrFlags": 1
           }
         ]
       },
@@ -746,7 +797,7 @@
         "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
         "created_time": 1557101880000,
         "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
-        "last_edited_time": 1557101940000,
+        "last_edited_time": 1557194880000,
         "parent_id": "14a291a0-0076-4ae3-8e00-ebde900a55d9",
         "parent_table": "block",
         "properties": {
@@ -756,8 +807,8 @@
             ]
           ]
         },
-        "type": "sub_header",
-        "version": 17,
+        "type": "text",
+        "version": 19,
         "inline_content": [
           {
             "Text": "bAbI dialog  dataset에서 성능 평가"
@@ -907,7 +958,7 @@
         "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
         "created_time": 1557101940000,
         "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
-        "last_edited_time": 1557102540000,
+        "last_edited_time": 1557194880000,
         "parent_id": "14a291a0-0076-4ae3-8e00-ebde900a55d9",
         "parent_table": "block",
         "properties": {
@@ -917,8 +968,8 @@
             ]
           ]
         },
-        "type": "sub_header",
-        "version": 15,
+        "type": "text",
+        "version": 17,
         "inline_content": [
           {
             "Text": "text-based customer support dialog system에서 성능 평가"
@@ -1187,21 +1238,27 @@
         "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
         "created_time": 1557103199685,
         "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
-        "last_edited_time": 1557103200000,
+        "last_edited_time": 1557194880000,
         "parent_id": "14a291a0-0076-4ae3-8e00-ebde900a55d9",
         "parent_table": "block",
         "properties": {
           "title": [
             [
-              "Reinforcement learning illustration"
+              "Reinforcement learning illustration",
+              [
+                [
+                  "b"
+                ]
+              ]
             ]
           ]
         },
-        "type": "header",
-        "version": 8,
+        "type": "text",
+        "version": 11,
         "inline_content": [
           {
-            "Text": "Reinforcement learning illustration"
+            "Text": "Reinforcement learning illustration",
+            "AttrFlags": 1
           }
         ]
       },
@@ -1276,21 +1333,27 @@
         "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
         "created_time": 1557099120000,
         "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
-        "last_edited_time": 1557103380000,
+        "last_edited_time": 1557194880000,
         "parent_id": "14a291a0-0076-4ae3-8e00-ebde900a55d9",
         "parent_table": "block",
         "properties": {
           "title": [
             [
-              "Concolusion"
+              "Concolusion",
+              [
+                [
+                  "b"
+                ]
+              ]
             ]
           ]
         },
-        "type": "header",
-        "version": 26,
+        "type": "text",
+        "version": 29,
         "inline_content": [
           {
-            "Text": "Concolusion"
+            "Text": "Concolusion",
+            "AttrFlags": 1
           }
         ]
       },
@@ -1317,6 +1380,18 @@
             "Text": "기존 방식에 비해 작은 dataset으로 높은 성능을 보여주었다. "
           }
         ]
+      },
+      {
+        "id": "698a7a3b-b375-46ce-8915-280a980d8008",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1557194880000,
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1557194880000,
+        "parent_id": "14a291a0-0076-4ae3-8e00-ebde900a55d9",
+        "parent_table": "block",
+        "type": "text",
+        "version": 3
       }
     ],
     "title": "Hybrid Code Networks: practical and efficient end-to-end dialog control with supervised and reinforcement learning",

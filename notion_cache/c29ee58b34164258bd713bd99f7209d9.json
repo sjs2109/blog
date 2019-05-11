@@ -1,0 +1,596 @@
+{
+  "ID": "c29ee58b-3416-4258-bd71-3bd99f7209d9",
+  "Root": {
+    "id": "c29ee58b-3416-4258-bd71-3bd99f7209d9",
+    "alive": true,
+    "content": [
+      "134b91b6-1308-4493-a228-73a4f27a4c7b",
+      "d6fc227a-4b4a-4678-b096-c377df90b7b0",
+      "141cc3b3-bb00-46d3-a41b-1e2c75db404c",
+      "ba6a41e9-07c0-49df-962c-2aa838126399",
+      "f5c58181-075d-4b70-b14e-356b1247fa2b",
+      "c3467d8c-b09f-418d-ae00-661884a6e199",
+      "c2f453d7-1d61-45bb-816a-4ca531d435ff",
+      "09722feb-cfb9-406e-b750-b8180838f13c",
+      "1d27233e-725c-4d06-8937-d4d259eb6518",
+      "c03b689f-5134-4011-9eaf-24772d730a1d",
+      "061f8b84-55e8-4971-9e77-e3ad3b18849a",
+      "72f0798a-1840-46b4-8f3c-32a724510d18",
+      "474dc8a3-5a57-4ea6-9fdd-24b7046a5658",
+      "f1e9eaa9-80f0-4497-b004-5a7d5f58591a",
+      "e05d288c-2ec3-445f-b2f9-05a74dfa56b5",
+      "f2bc0024-941f-407c-a8dd-118ae24f7ecf",
+      "5102a971-5cc0-4a35-823e-0b1fc7f0a7c2",
+      "7a301eaa-501a-46cd-8985-6722858d4edc",
+      "31941805-4359-4d3b-b349-bf8b313bfbb6",
+      "63693fc2-85cb-43cb-84be-a8352e091cfc"
+    ],
+    "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+    "created_time": 1557197881556,
+    "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+    "last_edited_time": 1557544860000,
+    "parent_id": "5d4398fe-d970-4479-8250-20164e35efdf",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "LEARNING END-TO-END GOAL-ORIENTED DIALOG"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 76,
+    "content_resolved": [
+      {
+        "id": "134b91b6-1308-4493-a228-73a4f27a4c7b",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1557197880000,
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1557197880000,
+        "parent_id": "c29ee58b-3416-4258-bd71-3bd99f7209d9",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "source : "
+            ],
+            [
+              "https://arxiv.org/pdf/1605.07683.pdf",
+              [
+                [
+                  "a",
+                  "https://arxiv.org/pdf/1605.07683.pdf"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 13,
+        "inline_content": [
+          {
+            "Text": "source : "
+          },
+          {
+            "Text": "https://arxiv.org/pdf/1605.07683.pdf",
+            "Link": "https://arxiv.org/pdf/1605.07683.pdf"
+          }
+        ]
+      },
+      {
+        "id": "d6fc227a-4b4a-4678-b096-c377df90b7b0",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1557538380000,
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1557538500000,
+        "parent_id": "c29ee58b-3416-4258-bd71-3bd99f7209d9",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "이번 논문은  goal oriented dialog system에서 기존의 rule based system에 비해 end-to-end dialog system이 가지는 장점/단점에 대해 설명하고 있다"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 242,
+        "inline_content": [
+          {
+            "Text": "이번 논문은  goal oriented dialog system에서 기존의 rule based system에 비해 end-to-end dialog system이 가지는 장점/단점에 대해 설명하고 있다"
+          }
+        ]
+      },
+      {
+        "id": "141cc3b3-bb00-46d3-a41b-1e2c75db404c",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1557538545559,
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1557538560000,
+        "parent_id": "c29ee58b-3416-4258-bd71-3bd99f7209d9",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "can end-to-end dialog models be competitive with traditional methods even in the well-defined narrow-domain tasks where they excel? If not, where do they fall short?"
+            ]
+          ]
+        },
+        "type": "quote",
+        "version": 5,
+        "inline_content": [
+          {
+            "Text": "can end-to-end dialog models be competitive with traditional methods even in the well-defined narrow-domain tasks where they excel? If not, where do they fall short?"
+          }
+        ]
+      },
+      {
+        "id": "ba6a41e9-07c0-49df-962c-2aa838126399",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1557539620692,
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1557542760000,
+        "parent_id": "c29ee58b-3416-4258-bd71-3bd99f7209d9",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "to take a narrow domain where traditional handcrafted dialog system are known to perform well, and use that to gauge the strengths and weakness of current end-to-end system with no domain knowledge."
+            ]
+          ]
+        },
+        "type": "quote",
+        "version": 286,
+        "inline_content": [
+          {
+            "Text": "to take a narrow domain where traditional handcrafted dialog system are known to perform well, and use that to gauge the strengths and weakness of current end-to-end system with no domain knowledge."
+          }
+        ]
+      },
+      {
+        "id": "f5c58181-075d-4b70-b14e-356b1247fa2b",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1557542760000,
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1557542820000,
+        "parent_id": "c29ee58b-3416-4258-bd71-3bd99f7209d9",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "이번 테스트에 사용된 dialog task는 아래와 같다"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 47,
+        "inline_content": [
+          {
+            "Text": "이번 테스트에 사용된 dialog task는 아래와 같다"
+          }
+        ]
+      },
+      {
+        "id": "c3467d8c-b09f-418d-ae00-661884a6e199",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1557542896259,
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1557542880000,
+        "parent_id": "c29ee58b-3416-4258-bd71-3bd99f7209d9",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Task1 : Issuing API calls"
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 34,
+        "inline_content": [
+          {
+            "Text": "Task1 : Issuing API calls"
+          }
+        ]
+      },
+      {
+        "id": "c2f453d7-1d61-45bb-816a-4ca531d435ff",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1557542880000,
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1557542880000,
+        "parent_id": "c29ee58b-3416-4258-bd71-3bd99f7209d9",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Task2: Updating API calls"
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 31,
+        "inline_content": [
+          {
+            "Text": "Task2: Updating API calls"
+          }
+        ]
+      },
+      {
+        "id": "09722feb-cfb9-406e-b750-b8180838f13c",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1557542880000,
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1557543060000,
+        "parent_id": "c29ee58b-3416-4258-bd71-3bd99f7209d9",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Task3: Displaying opinions"
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 55,
+        "inline_content": [
+          {
+            "Text": "Task3: Displaying opinions"
+          }
+        ]
+      },
+      {
+        "id": "1d27233e-725c-4d06-8937-d4d259eb6518",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1557543060000,
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1557543060000,
+        "parent_id": "c29ee58b-3416-4258-bd71-3bd99f7209d9",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Task4: Providing extra information"
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 48,
+        "inline_content": [
+          {
+            "Text": "Task4: Providing extra information"
+          }
+        ]
+      },
+      {
+        "id": "c03b689f-5134-4011-9eaf-24772d730a1d",
+        "alive": true,
+        "content": [
+          "8b057518-2620-43a0-b8f4-c1ee3e7e7fca"
+        ],
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1557543060000,
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1557543840000,
+        "parent_id": "c29ee58b-3416-4258-bd71-3bd99f7209d9",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Task5: Conducting full dialog"
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 55,
+        "content_resolved": [
+          {
+            "id": "8b057518-2620-43a0-b8f4-c1ee3e7e7fca",
+            "alive": true,
+            "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+            "created_time": 1557543300000,
+            "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+            "last_edited_time": 1557543840000,
+            "parent_id": "c03b689f-5134-4011-9eaf-24772d730a1d",
+            "parent_table": "block",
+            "properties": {
+              "title": [
+                [
+                  "이번 실험의 목적이 dialog training set에는 없지만 KB에는 있는 entity를 얼마나 잘 다룰 수 있는지 확인하는 것이므로 2개의 KB로 구성하였다 2개의 KB는 price range, rating, party size는 공유하지만 restaurant, location, 음식 종류, 전화번호, 주소등은 공유하지 않는다.  training을 위해서는 2개의 KB모두를 사용하고 test를 위해서는 plain과 OOV로 테스트하였다"
+                ]
+              ]
+            },
+            "type": "text",
+            "version": 404,
+            "inline_content": [
+              {
+                "Text": "이번 실험의 목적이 dialog training set에는 없지만 KB에는 있는 entity를 얼마나 잘 다룰 수 있는지 확인하는 것이므로 2개의 KB로 구성하였다 2개의 KB는 price range, rating, party size는 공유하지만 restaurant, location, 음식 종류, 전화번호, 주소등은 공유하지 않는다.  training을 위해서는 2개의 KB모두를 사용하고 test를 위해서는 plain과 OOV로 테스트하였다"
+              }
+            ]
+          }
+        ],
+        "inline_content": [
+          {
+            "Text": "Task5: Conducting full dialog"
+          }
+        ]
+      },
+      {
+        "id": "061f8b84-55e8-4971-9e77-e3ad3b18849a",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1557543840000,
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1557543900000,
+        "parent_id": "c29ee58b-3416-4258-bd71-3bd99f7209d9",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "실험을 위해 사용한 모델은 아래와 같다"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 29,
+        "inline_content": [
+          {
+            "Text": "실험을 위해 사용한 모델은 아래와 같다"
+          }
+        ]
+      },
+      {
+        "id": "72f0798a-1840-46b4-8f3c-32a724510d18",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1557543906845,
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1557544500000,
+        "parent_id": "c29ee58b-3416-4258-bd71-3bd99f7209d9",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Rule-based system "
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 53,
+        "inline_content": [
+          {
+            "Text": "Rule-based system "
+          }
+        ]
+      },
+      {
+        "id": "474dc8a3-5a57-4ea6-9fdd-24b7046a5658",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1557543900000,
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1557544620000,
+        "parent_id": "c29ee58b-3416-4258-bd71-3bd99f7209d9",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "TF-IDF match: input ↔ output관 관계를 TF-IDF 점수로 계산해서 결정"
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 102,
+        "inline_content": [
+          {
+            "Text": "TF-IDF match: input ↔ output관 관계를 TF-IDF 점수로 계산해서 결정"
+          }
+        ]
+      },
+      {
+        "id": "f1e9eaa9-80f0-4497-b004-5a7d5f58591a",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1557543900000,
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1557544680000,
+        "parent_id": "c29ee58b-3416-4258-bd71-3bd99f7209d9",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Nearest Neighbor : input에 대해 가장 비슷한 대화를 traing set에서 찾고 그 결과를 output으로 사용"
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 133,
+        "inline_content": [
+          {
+            "Text": "Nearest Neighbor : input에 대해 가장 비슷한 대화를 traing set에서 찾고 그 결과를 output으로 사용"
+          }
+        ]
+      },
+      {
+        "id": "e05d288c-2ec3-445f-b2f9-05a74dfa56b5",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1557544440000,
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1557544680000,
+        "parent_id": "c29ee58b-3416-4258-bd71-3bd99f7209d9",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Supervised Embedding"
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 35,
+        "inline_content": [
+          {
+            "Text": "Supervised Embedding"
+          }
+        ]
+      },
+      {
+        "id": "f2bc0024-941f-407c-a8dd-118ae24f7ecf",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1557543900000,
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1557544740000,
+        "parent_id": "c29ee58b-3416-4258-bd71-3bd99f7209d9",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Memory Networks : "
+            ],
+            [
+              "https://www.slideshare.net/healess/memory-network",
+              [
+                [
+                  "a",
+                  "https://www.slideshare.net/healess/memory-network"
+                ]
+              ]
+            ],
+            [
+              " 참고"
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 43,
+        "inline_content": [
+          {
+            "Text": "Memory Networks : "
+          },
+          {
+            "Text": "https://www.slideshare.net/healess/memory-network",
+            "Link": "https://www.slideshare.net/healess/memory-network"
+          },
+          {
+            "Text": " 참고"
+          }
+        ]
+      },
+      {
+        "id": "5102a971-5cc0-4a35-823e-0b1fc7f0a7c2",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1557544800000,
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1557544800000,
+        "parent_id": "c29ee58b-3416-4258-bd71-3bd99f7209d9",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "결과는 아래와 같다"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 17,
+        "inline_content": [
+          {
+            "Text": "결과는 아래와 같다"
+          }
+        ]
+      },
+      {
+        "id": "7a301eaa-501a-46cd-8985-6722858d4edc",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1557544829783,
+        "file_ids": [
+          "89a32166-f1ec-4547-a25d-b280348dc6ba"
+        ],
+        "format": {
+          "block_width": 1166,
+          "display_source": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/89a32166-f1ec-4547-a25d-b280348dc6ba/_2019-05-11__12.20.11.png",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_aspect_ratio": 0.3361921097770154,
+          "block_preserve_scale": true
+        },
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1557544800000,
+        "parent_id": "c29ee58b-3416-4258-bd71-3bd99f7209d9",
+        "parent_table": "block",
+        "properties": {
+          "source": [
+            [
+              "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/89a32166-f1ec-4547-a25d-b280348dc6ba/_2019-05-11__12.20.11.png"
+            ]
+          ]
+        },
+        "type": "image",
+        "version": 8,
+        "source": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/89a32166-f1ec-4547-a25d-b280348dc6ba/_2019-05-11__12.20.11.png",
+        "image_url": "https://www.notion.so/signed/https:%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F89a32166-f1ec-4547-a25d-b280348dc6ba%2F_2019-05-11__12.20.11.png",
+        "format_image": {
+          "block_aspect_ratio": 0.3361921097770154,
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": true,
+          "block_width": 1166,
+          "display_source": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/89a32166-f1ec-4547-a25d-b280348dc6ba/_2019-05-11__12.20.11.png",
+          "image_url": "https://www.notion.so/signed/https:%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F89a32166-f1ec-4547-a25d-b280348dc6ba%2F_2019-05-11__12.20.11.png"
+        }
+      },
+      {
+        "id": "31941805-4359-4d3b-b349-bf8b313bfbb6",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1557538380000,
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1557538380000,
+        "parent_id": "c29ee58b-3416-4258-bd71-3bd99f7209d9",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "id": "63693fc2-85cb-43cb-84be-a8352e091cfc",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1557197880000,
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1557198120000,
+        "parent_id": "c29ee58b-3416-4258-bd71-3bd99f7209d9",
+        "parent_table": "block",
+        "type": "text",
+        "version": 35
+      }
+    ],
+    "title": "LEARNING END-TO-END GOAL-ORIENTED DIALOG"
+  },
+  "Users": [
+    {
+      "email": "sjs2109@gmail.com",
+      "family_name": "Sung",
+      "given_name": "Jisuk",
+      "id": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+      "locale": "",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "",
+      "time_zone": "",
+      "version": 7
+    }
+  ],
+  "Tables": null
+}

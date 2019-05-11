@@ -11,8 +11,8 @@
     "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
     "created_time": 1556289734397,
     "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
-    "last_edited_time": 1557194820000,
-    "parent_id": "79e372e1-0a62-4c22-808b-84d97da78879",
+    "last_edited_time": 1557544920000,
+    "parent_id": "93cd65d2-5418-4e76-b55a-590164298b4c",
     "parent_table": "block",
     "properties": {
       "title": [
@@ -22,7 +22,7 @@
       ]
     },
     "type": "page",
-    "version": 42,
+    "version": 49,
     "content_resolved": [
       {
         "id": "842a3138-94fc-4672-aa4f-5e5b8dc935da",

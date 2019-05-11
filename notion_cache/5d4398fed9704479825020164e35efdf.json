@@ -4,12 +4,13 @@
     "id": "5d4398fe-d970-4479-8250-20164e35efdf",
     "alive": true,
     "content": [
-      "14a291a0-0076-4ae3-8e00-ebde900a55d9"
+      "14a291a0-0076-4ae3-8e00-ebde900a55d9",
+      "c29ee58b-3416-4258-bd71-3bd99f7209d9"
     ],
     "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
     "created_time": 1556290465886,
     "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
-    "last_edited_time": 1557195300000,
+    "last_edited_time": 1557544860000,
     "parent_id": "79e372e1-0a62-4c22-808b-84d97da78879",
     "parent_table": "block",
     "properties": {
@@ -20,7 +21,7 @@
       ]
     },
     "type": "page",
-    "version": 56,
+    "version": 58,
     "content_resolved": [
       {
         "id": "14a291a0-0076-4ae3-8e00-ebde900a55d9",
@@ -55,23 +56,31 @@
           "page_icon": "",
           "page_small_text": false
         }
+      },
+      {
+        "id": "c29ee58b-3416-4258-bd71-3bd99f7209d9",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1557197881556,
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1557544860000,
+        "parent_id": "5d4398fe-d970-4479-8250-20164e35efdf",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "LEARNING END-TO-END GOAL-ORIENTED DIALOG"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 76,
+        "title": "LEARNING END-TO-END GOAL-ORIENTED DIALOG"
       }
     ],
     "title": "Article Review"
   },
   "Users": [
-    {
-      "email": "example4@makenotion.com",
-      "family_name": "Last",
-      "given_name": "Simon",
-      "id": "e894aec7-c5cc-4aa2-8c20-fb602fa7777a",
-      "locale": "",
-      "mobile_onboarding_completed": true,
-      "onboarding_completed": true,
-      "profile_photo": "https://lh4.googleusercontent.com/-FA4Xb8SNeFY/AAAAAAAAAAI/AAAAAAAAACc/4XeWRkSIY3A/photo.jpg?sz=50",
-      "time_zone": "",
-      "version": 26
-    },
     {
       "email": "sjs2109@gmail.com",
       "family_name": "Sung",
@@ -83,6 +92,18 @@
       "profile_photo": "",
       "time_zone": "",
       "version": 7
+    },
+    {
+      "email": "example4@makenotion.com",
+      "family_name": "Last",
+      "given_name": "Simon",
+      "id": "e894aec7-c5cc-4aa2-8c20-fb602fa7777a",
+      "locale": "",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://lh4.googleusercontent.com/-FA4Xb8SNeFY/AAAAAAAAAAI/AAAAAAAAACc/4XeWRkSIY3A/photo.jpg?sz=50",
+      "time_zone": "",
+      "version": 26
     }
   ],
   "Tables": null

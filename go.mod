@@ -6,7 +6,6 @@ require (
 	github.com/chilts/sid v0.0.0-20180928232130-250d10e55bf4
 	github.com/gomarkdown/markdown v0.0.0-20181104084050-d1d0edeb5d85
 	github.com/kjk/betterguid v0.0.0-20170621091430-c442874ba63a
-	github.com/sjs2109/notionapi v0.0.0-20190512234819-8301cfcc6bba947378f87ef6c6371c5c1d78d8ff						  
 	github.com/kjk/u v0.0.0-20170711051841-93181be023c9
 	github.com/kylelemons/godebug v0.0.0-20170820004349-d65d576e9348
 	github.com/microcosm-cc/bluemonday v1.0.2
@@ -14,6 +13,7 @@ require (
 	github.com/rs/xid v1.2.1
 	github.com/satori/go.uuid v1.2.0
 	github.com/segmentio/ksuid v1.0.2
+	github.com/sjs2109/notionapi v0.0.0-20190512234819-8301cfcc6bba947378f87ef6c6371c5c1d78d8ff
 	github.com/sony/sonyflake v0.0.0-20181109022403-6d5bd6181009
 	github.com/stretchr/testify v1.2.2
 	github.com/thomas11/atomgenerator v0.0.0-20140514140532-0b3b01da14a4

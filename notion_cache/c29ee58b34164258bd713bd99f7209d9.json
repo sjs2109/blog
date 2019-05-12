@@ -22,13 +22,12 @@
       "f2bc0024-941f-407c-a8dd-118ae24f7ecf",
       "5102a971-5cc0-4a35-823e-0b1fc7f0a7c2",
       "7a301eaa-501a-46cd-8985-6722858d4edc",
-      "31941805-4359-4d3b-b349-bf8b313bfbb6",
-      "63693fc2-85cb-43cb-84be-a8352e091cfc"
+      "9d8d6ee5-d6b0-4065-9178-c28b957a663f"
     ],
     "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
     "created_time": 1557197881556,
     "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
-    "last_edited_time": 1557544860000,
+    "last_edited_time": 1557669180000,
     "parent_id": "5d4398fe-d970-4479-8250-20164e35efdf",
     "parent_table": "block",
     "properties": {
@@ -39,7 +38,7 @@
       ]
     },
     "type": "page",
-    "version": 76,
+    "version": 100,
     "content_resolved": [
       {
         "id": "134b91b6-1308-4493-a228-73a4f27a4c7b",
@@ -492,7 +491,7 @@
         "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
         "created_time": 1557544800000,
         "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
-        "last_edited_time": 1557544800000,
+        "last_edited_time": 1557644880000,
         "parent_id": "c29ee58b-3416-4258-bd71-3bd99f7209d9",
         "parent_table": "block",
         "properties": {
@@ -503,7 +502,7 @@
           ]
         },
         "type": "text",
-        "version": 17,
+        "version": 27,
         "inline_content": [
           {
             "Text": "결과는 아래와 같다"
@@ -552,28 +551,16 @@
         }
       },
       {
-        "id": "31941805-4359-4d3b-b349-bf8b313bfbb6",
+        "id": "9d8d6ee5-d6b0-4065-9178-c28b957a663f",
         "alive": true,
         "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
-        "created_time": 1557538380000,
+        "created_time": 1557669180000,
         "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
-        "last_edited_time": 1557538380000,
+        "last_edited_time": 1557669180000,
         "parent_id": "c29ee58b-3416-4258-bd71-3bd99f7209d9",
         "parent_table": "block",
         "type": "text",
-        "version": 4
-      },
-      {
-        "id": "63693fc2-85cb-43cb-84be-a8352e091cfc",
-        "alive": true,
-        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
-        "created_time": 1557197880000,
-        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
-        "last_edited_time": 1557198120000,
-        "parent_id": "c29ee58b-3416-4258-bd71-3bd99f7209d9",
-        "parent_table": "block",
-        "type": "text",
-        "version": 35
+        "version": 3
       }
     ],
     "title": "LEARNING END-TO-END GOAL-ORIENTED DIALOG"

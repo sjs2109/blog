@@ -9,7 +9,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/kjk/notionapi"
+	"github.com/sjs2109/notionapi"
 	"github.com/kjk/u"
 )
 

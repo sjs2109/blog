@@ -13,7 +13,7 @@ require (
 	github.com/rs/xid v1.2.1
 	github.com/satori/go.uuid v1.2.0
 	github.com/segmentio/ksuid v1.0.2
-	github.com/sjs2109/notionapi v0.0.0-20190512234819-8301cfcc6bba947378f87ef6c6371c5c1d78d8ff
+	github.com/sjs2109/notionapi v0.0.0-20190513083111-ba7cff87d30ca7b095177e9dc1937b472ee56073
 	github.com/sony/sonyflake v0.0.0-20181109022403-6d5bd6181009
 	github.com/stretchr/testify v1.2.2
 	github.com/thomas11/atomgenerator v0.0.0-20140514140532-0b3b01da14a4

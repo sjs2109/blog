@@ -12,7 +12,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/kjk/notionapi"
+	"github.com/sjs2109/notionapi"
 )
 
 var (

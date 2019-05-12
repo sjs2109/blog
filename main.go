@@ -10,7 +10,7 @@ import (
 	"runtime"
 	"time"
 
-	"github.com/kjk/notionapi"
+	"github.com/sjs2109/notionapi"
 )
 
 var (

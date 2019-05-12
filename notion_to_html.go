@@ -5,8 +5,8 @@ import (
 	"html"
 	"path/filepath"
 
-	"github.com/kjk/notionapi"
-	"github.com/kjk/notionapi/tohtml"
+	"github.com/sjs2109/notionapi"
+	"github.com/sjs2109/notionapi/tohtml"
 )
 
 // ImageMapping keeps track of rewritten image urls (locally cached

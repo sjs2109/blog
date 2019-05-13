@@ -10,12 +10,14 @@
       "93d6716a-36bc-4c72-bd2f-f69bb28c630e",
       "0946bee3-2fb7-4f82-83cc-bf383d1a54df",
       "a909e0a5-67e6-4bd5-b5a2-15c24ff64b24",
-      "4f050b43-3111-415f-8c6f-b2385a02ea17"
+      "4f050b43-3111-415f-8c6f-b2385a02ea17",
+      "f0c83cef-a407-444f-9589-b47833683495",
+      "fb5e2d7c-5db4-4d6b-8430-40d3cc841ebb"
     ],
     "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
     "created_time": 1556290485603,
     "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
-    "last_edited_time": 1557150660000,
+    "last_edited_time": 1557724920000,
     "parent_id": "79e372e1-0a62-4c22-808b-84d97da78879",
     "parent_table": "block",
     "properties": {
@@ -26,7 +28,7 @@
       ]
     },
     "type": "page",
-    "version": 31,
+    "version": 51,
     "content_resolved": [
       {
         "id": "01d584e8-815d-4b8c-abd9-f3f18877c80d",
@@ -90,21 +92,21 @@
         "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
         "created_time": 1556290540552,
         "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
-        "last_edited_time": 1556290500000,
+        "last_edited_time": 1557723900000,
         "parent_id": "d7f138e9-97e7-46f5-b985-3d7985f41284",
         "parent_table": "block",
         "properties": {
           "title": [
             [
-              "C,C++,Python 3"
+              "C,C++,Python"
             ]
           ]
         },
         "type": "bulleted_list",
-        "version": 2,
+        "version": 5,
         "inline_content": [
           {
-            "Text": "C,C++,Python 3"
+            "Text": "C,C++,Python"
           }
         ]
       },
@@ -216,6 +218,61 @@
             "Link": "mailto:sjs2109@gmail.com"
           }
         ]
+      },
+      {
+        "id": "f0c83cef-a407-444f-9589-b47833683495",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1557724320000,
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1557724920000,
+        "parent_id": "d7f138e9-97e7-46f5-b985-3d7985f41284",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "License: 이 블로그에 있는 글들은 원작자가 따로 있는 경우는 원작자가 지정한 License를 따릅니다. 그렇지 않는 경우 크리에이티브 커먼즈 저작자표시-동일조건변경허락 4.0을 따릅니다 ("
+            ],
+            [
+              "https://creativecommons.org/licenses/?lang=ko",
+              [
+                [
+                  "a",
+                  "https://creativecommons.org/licenses/?lang=ko"
+                ]
+              ]
+            ],
+            [
+              ")"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 126,
+        "inline_content": [
+          {
+            "Text": "License: 이 블로그에 있는 글들은 원작자가 따로 있는 경우는 원작자가 지정한 License를 따릅니다. 그렇지 않는 경우 크리에이티브 커먼즈 저작자표시-동일조건변경허락 4.0을 따릅니다 ("
+          },
+          {
+            "Text": "https://creativecommons.org/licenses/?lang=ko",
+            "Link": "https://creativecommons.org/licenses/?lang=ko"
+          },
+          {
+            "Text": ")"
+          }
+        ]
+      },
+      {
+        "id": "fb5e2d7c-5db4-4d6b-8430-40d3cc841ebb",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1557724680000,
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1557724680000,
+        "parent_id": "d7f138e9-97e7-46f5-b985-3d7985f41284",
+        "parent_table": "block",
+        "type": "text",
+        "version": 3
       }
     ],
     "title": "About"

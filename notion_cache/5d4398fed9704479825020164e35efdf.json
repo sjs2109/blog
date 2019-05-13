@@ -6,12 +6,12 @@
     "content": [
       "14a291a0-0076-4ae3-8e00-ebde900a55d9",
       "c29ee58b-3416-4258-bd71-3bd99f7209d9",
-      "98773c71-327d-4f16-9f8d-5b16507e123a"
+      "c06c7a07-1d78-4b3f-87f3-4a8201e766d6"
     ],
     "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
     "created_time": 1556290465886,
     "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
-    "last_edited_time": 1557668460000,
+    "last_edited_time": 1557723720000,
     "parent_id": "79e372e1-0a62-4c22-808b-84d97da78879",
     "parent_table": "block",
     "properties": {
@@ -22,7 +22,7 @@
       ]
     },
     "type": "page",
-    "version": 62,
+    "version": 66,
     "content_resolved": [
       {
         "id": "14a291a0-0076-4ae3-8e00-ebde900a55d9",
@@ -36,7 +36,7 @@
           "page_cover_position": 0.4
         },
         "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
-        "last_edited_time": 1557194940000,
+        "last_edited_time": 1557720060000,
         "parent_id": "5d4398fe-d970-4479-8250-20164e35efdf",
         "parent_table": "block",
         "properties": {
@@ -47,7 +47,7 @@
           ]
         },
         "type": "page",
-        "version": 262,
+        "version": 268,
         "title": "Hybrid Code Networks: practical and efficient end-to-end dialog control with supervised and reinforcement learning",
         "format_page": {
           "page_cover": "",
@@ -79,41 +79,21 @@
         "title": "LEARNING END-TO-END GOAL-ORIENTED DIALOG"
       },
       {
-        "id": "98773c71-327d-4f16-9f8d-5b16507e123a",
+        "id": "c06c7a07-1d78-4b3f-87f3-4a8201e766d6",
         "alive": true,
         "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
-        "created_time": 1557668510268,
+        "created_time": 1557723720000,
         "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
-        "last_edited_time": 1557668700000,
+        "last_edited_time": 1557723720000,
         "parent_id": "5d4398fe-d970-4479-8250-20164e35efdf",
         "parent_table": "block",
-        "properties": {
-          "title": [
-            [
-              "test"
-            ]
-          ]
-        },
-        "type": "page",
-        "version": 14,
-        "title": "test"
+        "type": "text",
+        "version": 3
       }
     ],
     "title": "Article Review"
   },
   "Users": [
-    {
-      "email": "sjs2109@gmail.com",
-      "family_name": "Sung",
-      "given_name": "Jisuk",
-      "id": "218003c6-a32c-48f0-96e7-42bfc97a7929",
-      "locale": "",
-      "mobile_onboarding_completed": true,
-      "onboarding_completed": true,
-      "profile_photo": "",
-      "time_zone": "",
-      "version": 7
-    },
     {
       "email": "example4@makenotion.com",
       "family_name": "Last",
@@ -125,6 +105,18 @@
       "profile_photo": "https://lh4.googleusercontent.com/-FA4Xb8SNeFY/AAAAAAAAAAI/AAAAAAAAACc/4XeWRkSIY3A/photo.jpg?sz=50",
       "time_zone": "",
       "version": 26
+    },
+    {
+      "email": "sjs2109@gmail.com",
+      "family_name": "Sung",
+      "given_name": "Jisuk",
+      "id": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+      "locale": "",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "",
+      "time_zone": "",
+      "version": 7
     }
   ],
   "Tables": null

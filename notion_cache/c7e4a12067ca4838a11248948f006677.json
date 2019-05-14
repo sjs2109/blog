@@ -9,7 +9,7 @@
     "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
     "created_time": 1557724302414,
     "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
-    "last_edited_time": 1557724800000,
+    "last_edited_time": 1557817320000,
     "parent_id": "699e50d5-2455-426e-a2b0-7b5ab9adf34d",
     "parent_table": "block",
     "properties": {
@@ -20,7 +20,7 @@
       ]
     },
     "type": "page",
-    "version": 30,
+    "version": 38,
     "content_resolved": [
       {
         "id": "51b49759-f7ea-4288-97c9-5bc5c741c7ba",

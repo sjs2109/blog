@@ -23,7 +23,7 @@
       "block_locked_by": "218003c6-a32c-48f0-96e7-42bfc97a7929"
     },
     "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
-    "last_edited_time": 1557724320000,
+    "last_edited_time": 1557844140000,
     "parent_id": "bb483cdd-83b9-454c-8832-87023904702e",
     "parent_table": "space",
     "permissions": [
@@ -45,7 +45,7 @@
       ]
     },
     "type": "page",
-    "version": 163,
+    "version": 168,
     "content_resolved": [
       {
         "id": "5d4398fe-d970-4479-8250-20164e35efdf",
@@ -152,18 +152,6 @@
   },
   "Users": [
     {
-      "email": "sjs2109@gmail.com",
-      "family_name": "Sung",
-      "given_name": "Jisuk",
-      "id": "218003c6-a32c-48f0-96e7-42bfc97a7929",
-      "locale": "",
-      "mobile_onboarding_completed": true,
-      "onboarding_completed": true,
-      "profile_photo": "",
-      "time_zone": "",
-      "version": 7
-    },
-    {
       "email": "maaslalani1@gmail.com",
       "family_name": "Lalani",
       "given_name": "Maas",
@@ -174,6 +162,18 @@
       "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/1bba0402-afcb-4f95-9a6c-32324cf4683c/Cartoon.png",
       "time_zone": "",
       "version": 168
+    },
+    {
+      "email": "sjs2109@gmail.com",
+      "family_name": "Sung",
+      "given_name": "Jisuk",
+      "id": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+      "locale": "",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "",
+      "time_zone": "",
+      "version": 7
     }
   ],
   "Tables": null

@@ -4,12 +4,12 @@
     "id": "c7e4a120-67ca-4838-a112-48948f006677",
     "alive": true,
     "content": [
-      "51b49759-f7ea-4288-97c9-5bc5c741c7ba"
+      "2398e20c-4ab2-4710-8060-21026b281662"
     ],
     "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
     "created_time": 1557724302414,
     "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
-    "last_edited_time": 1557817320000,
+    "last_edited_time": 1557884520000,
     "parent_id": "699e50d5-2455-426e-a2b0-7b5ab9adf34d",
     "parent_table": "block",
     "properties": {
@@ -20,19 +20,27 @@
       ]
     },
     "type": "page",
-    "version": 38,
+    "version": 41,
     "content_resolved": [
       {
-        "id": "51b49759-f7ea-4288-97c9-5bc5c741c7ba",
+        "id": "2398e20c-4ab2-4710-8060-21026b281662",
         "alive": true,
         "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
-        "created_time": 1557724260000,
+        "created_time": 1557884553312,
         "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
-        "last_edited_time": 1557724260000,
+        "last_edited_time": 1557884760000,
         "parent_id": "c7e4a120-67ca-4838-a112-48948f006677",
         "parent_table": "block",
-        "type": "text",
-        "version": 3
+        "properties": {
+          "title": [
+            [
+              "googletest에서 MOCK_METHODn()에서 n의 의미"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 65,
+        "title": "googletest에서 MOCK_METHODn()에서 n의 의미"
       }
     ],
     "title": "개발관련 사소한 지식들"

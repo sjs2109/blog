@@ -1,0 +1,186 @@
+{
+  "ID": "2398e20c-4ab2-4710-8060-21026b281662",
+  "Root": {
+    "id": "2398e20c-4ab2-4710-8060-21026b281662",
+    "alive": true,
+    "content": [
+      "8cd72705-e2a4-4bf5-ba05-ab86e31d4bae",
+      "c8ee63e9-8069-462a-83a9-23702d6ab925",
+      "ff4567c3-2a1f-44fa-adfc-b35c195b661e",
+      "7e9870d4-3b9c-486a-8c16-183b49879c66",
+      "88e6906b-bc31-4836-99d4-68284f1d474a"
+    ],
+    "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+    "created_time": 1557884553312,
+    "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+    "last_edited_time": 1557884760000,
+    "parent_id": "c7e4a120-67ca-4838-a112-48948f006677",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "googletest에서 MOCK_METHODn()에서 n의 의미"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 65,
+    "content_resolved": [
+      {
+        "id": "8cd72705-e2a4-4bf5-ba05-ab86e31d4bae",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1557884580000,
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1557884640000,
+        "parent_id": "2398e20c-4ab2-4710-8060-21026b281662",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "googletest를 test framework로 사용하고 있어 자료를 찾던 중 MOCK_METHOD0(), MOCK_METHOD1() 등의 일정한 패턴을 가진 매크로를 봤는데 어떤의미인지 찾아보니"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 162,
+        "inline_content": [
+          {
+            "Text": "googletest를 test framework로 사용하고 있어 자료를 찾던 중 MOCK_METHOD0(), MOCK_METHOD1() 등의 일정한 패턴을 가진 매크로를 봤는데 어떤의미인지 찾아보니"
+          }
+        ]
+      },
+      {
+        "id": "c8ee63e9-8069-462a-83a9-23702d6ab925",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1557884704064,
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1557884760000,
+        "parent_id": "2398e20c-4ab2-4710-8060-21026b281662",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "In the public: section of the child class, write MOCK_METHODn(); (or MOCK_CONST_METHODn(); if you are mocking a const method), "
+            ],
+            [
+              "where n is the number of the arguments",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ],
+            [
+              "; if you counted wrong, shame on you, and a compiler error will tell you so."
+            ]
+          ]
+        },
+        "type": "quote",
+        "version": 6,
+        "inline_content": [
+          {
+            "Text": "In the public: section of the child class, write MOCK_METHODn(); (or MOCK_CONST_METHODn(); if you are mocking a const method), "
+          },
+          {
+            "Text": "where n is the number of the arguments",
+            "AttrFlags": 1
+          },
+          {
+            "Text": "; if you counted wrong, shame on you, and a compiler error will tell you so."
+          }
+        ]
+      },
+      {
+        "id": "ff4567c3-2a1f-44fa-adfc-b35c195b661e",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1557884700000,
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1557884700000,
+        "parent_id": "2398e20c-4ab2-4710-8060-21026b281662",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "source : "
+            ],
+            [
+              "https://stackoverflow.com/questions/32529009/google-mock-how-to-name-mock-functions",
+              [
+                [
+                  "a",
+                  "https://stackoverflow.com/questions/32529009/google-mock-how-to-name-mock-functions"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 19,
+        "inline_content": [
+          {
+            "Text": "source : "
+          },
+          {
+            "Text": "https://stackoverflow.com/questions/32529009/google-mock-how-to-name-mock-functions",
+            "Link": "https://stackoverflow.com/questions/32529009/google-mock-how-to-name-mock-functions"
+          }
+        ]
+      },
+      {
+        "id": "7e9870d4-3b9c-486a-8c16-183b49879c66",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1557884700000,
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1557884760000,
+        "parent_id": "2398e20c-4ab2-4710-8060-21026b281662",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "그냥 the number of the arguments였다 (헛)"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 26,
+        "inline_content": [
+          {
+            "Text": "그냥 the number of the arguments였다 (헛)"
+          }
+        ]
+      },
+      {
+        "id": "88e6906b-bc31-4836-99d4-68284f1d474a",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1557884760000,
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1557884760000,
+        "parent_id": "2398e20c-4ab2-4710-8060-21026b281662",
+        "parent_table": "block",
+        "type": "text",
+        "version": 3
+      }
+    ],
+    "title": "googletest에서 MOCK_METHODn()에서 n의 의미"
+  },
+  "Users": [
+    {
+      "email": "sjs2109@gmail.com",
+      "family_name": "Sung",
+      "given_name": "Jisuk",
+      "id": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+      "locale": "",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "",
+      "time_zone": "",
+      "version": 7
+    }
+  ],
+  "Tables": null
+}

@@ -418,20 +418,7 @@ func netlifyBuild(store *Articles) {
 
 	addAllRedirects(store)
 
-	{
-		// url: /book/go-cookbook.html
-		model := struct {
-		}{}
-		netlifyExecTemplate("/book/go-cookbook.html", tmplGoCookBook, model)
-	}
-
-	{
-		// url: /book/windows-programming-in-go.html
-		model := struct {
-		}{}
-		netlifyExecTemplate("/book/go-cookbook.html", tmplGoCookBook, model)
-	}
-
+	
 	genIndex(store, nil)
 
 	genBlogIndex(store, nil)

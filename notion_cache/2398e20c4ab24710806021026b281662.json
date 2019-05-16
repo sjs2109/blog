@@ -13,7 +13,7 @@
     "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
     "created_time": 1557884553312,
     "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
-    "last_edited_time": 1557884760000,
+    "last_edited_time": 1558007700000,
     "parent_id": "c7e4a120-67ca-4838-a112-48948f006677",
     "parent_table": "block",
     "properties": {
@@ -24,7 +24,7 @@
       ]
     },
     "type": "page",
-    "version": 65,
+    "version": 66,
     "content_resolved": [
       {
         "id": "8cd72705-e2a4-4bf5-ba05-ab86e31d4bae",
@@ -56,39 +56,21 @@
         "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
         "created_time": 1557884704064,
         "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
-        "last_edited_time": 1557884760000,
+        "last_edited_time": 1558007700000,
         "parent_id": "2398e20c-4ab2-4710-8060-21026b281662",
         "parent_table": "block",
         "properties": {
           "title": [
             [
-              "In the public: section of the child class, write MOCK_METHODn(); (or MOCK_CONST_METHODn(); if you are mocking a const method), "
-            ],
-            [
-              "where n is the number of the arguments",
-              [
-                [
-                  "b"
-                ]
-              ]
-            ],
-            [
-              "; if you counted wrong, shame on you, and a compiler error will tell you so."
+              "In the public: section of the child class, write MOCK_METHODn(); (or MOCK_CONST_METHODn(); if you are mocking a const method), where n is the number of the arguments; if you counted wrong, shame on you, and a compiler error will tell you so."
             ]
           ]
         },
         "type": "quote",
-        "version": 6,
+        "version": 8,
         "inline_content": [
           {
-            "Text": "In the public: section of the child class, write MOCK_METHODn(); (or MOCK_CONST_METHODn(); if you are mocking a const method), "
-          },
-          {
-            "Text": "where n is the number of the arguments",
-            "AttrFlags": 1
-          },
-          {
-            "Text": "; if you counted wrong, shame on you, and a compiler error will tell you so."
+            "Text": "In the public: section of the child class, write MOCK_METHODn(); (or MOCK_CONST_METHODn(); if you are mocking a const method), where n is the number of the arguments; if you counted wrong, shame on you, and a compiler error will tell you so."
           }
         ]
       },

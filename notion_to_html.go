@@ -152,7 +152,7 @@ func (r *HTMLRenderer) Gen() []byte {
 	f := page.FormatPage
 	isMono := f != nil && f.PageFont == "mono"
 
-	s := `<p></p>`
+	s := ``
 	if isMono {
 		s += `<div style="font-family: monospace">`
 	}

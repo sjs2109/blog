@@ -28,15 +28,15 @@ func addAllRedirects(store *Articles) {
 	netlifyAddRewrite("/favicon.ico", "/static/favicon.ico")
 	//netlifyAddRewrite("/book/", "/static/documents.html")
 	//netflifyAddTempRedirect("/book/*", "/article/:splat")
-	netflifyAddTempRedirect("/software/sumatrapdf*", "https://www.sumatrapdfreader.org/:splat")
+	//netflifyAddTempRedirect("/software/sumatrapdf*", "https://www.sumatrapdfreader.org/:splat")
 
 	netflifyAddTempRedirect("/articles/", "/documents.html")
 	netflifyAddTempRedirect("/articles/index.html", "/documents.html")
 	netflifyAddTempRedirect("/static/documents.html", "/documents.html")
-	netflifyAddTempRedirect("/software/index.html", "/software/")
+	//netflifyAddTempRedirect("/software/index.html", "/software/")
 
-	netlifyAddRewrite("/articles/go-cookbook.html", "/book/go-cookbook.html")
-	netlifyAddRewrite("/articles/go-cookbook.html", "/book/go-cookbook.html")
+	//netlifyAddRewrite("/articles/go-cookbook.html", "/book/go-cookbook.html")
+	//netlifyAddRewrite("/articles/go-cookbook.html", "/book/go-cookbook.html")
 
 	for _, article := range store.articles {
 		if article.urlOverride != "" {

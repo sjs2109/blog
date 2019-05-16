@@ -8,21 +8,6 @@
     <link rel="canonical" href="{{.CanonicalURL}}" /> {{if .Article.Description}}
     <meta name="description" content="{{.Article.Description}}"> {{end}}
 
-    <!-- Twitter Card data -->
-    <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:site" content="@sjs2109">
-    <meta name="twitter:title" content="{{.PageTitle}}"> {{if .Article.Description}}
-    <meta name="twitter:description" content="{{.Article.Description}}"> {{end}}
-    <meta name="twitter:creator" content="@sjs2109"> {{if .CoverImage}}
-    <meta name="twitter:image" content="{{.CoverImage}}"> {{end}} {{if .Description}}
-    <meta name="twitter:description" content="{{.Description}}" /> {{end}}
-
-    <!-- Open Graph i.e. Facebook data -->
-    <meta property="og:title" content="{{.PageTitle}}">
-    <meta property="og:type" content="article" />
-    <meta property="og:url" content="{{.CanonicalURL}}" /> {{if .Article.Description}}
-    <meta property="og:description" content="{{.Article.Description}}"> {{end}} {{if .CoverImage}}
-    <meta property="og:image" content="{{.CoverImage}}"> {{end}}
 
     <title>{{.PageTitle}}</title>
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>

@@ -1098,7 +1098,7 @@ pre.chroma {
   font-style: italic;
   width: 500px;
   margin: 0.25em 0;
-  padding: 0.25em 40px;
+  padding: 0.25em 25px;
   line-height: 1.45;
   position: relative;
 
@@ -1109,7 +1109,7 @@ pre.chroma {
   content: "\201C";
   font-size: 80px;
   position: absolute;
-  left: -5px;
+  left: -15px;
   top: -20px;
   color: #7a7a7a;
 }

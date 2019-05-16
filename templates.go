@@ -25,7 +25,6 @@ var (
 		tmplArticle,
 		tmplArchive,
 		tmplGenerateUniqueID,
-		tmplGoCookBook,
 		tmplChangelog,
 		tmpl404,
 		"analytics.tmpl.html",

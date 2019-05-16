@@ -1114,4 +1114,17 @@ pre.chroma {
   color: #7a7a7a;
 }
 
+.notion-header-1 {
+    color: #919aa1;
+    font-size: 40px;
+}
 
+.notion-header-2 {
+    color: #919aa1;
+    font-size: 30px;
+}
+
+.notion-header-3 {
+    color: #919aa1;
+    font-size: 20px;
+}

@@ -21,6 +21,14 @@
     <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML' async></script>
     <link href="/css/main.css" rel="stylesheet">
     <link href="/css/bootstrap.css" rel="stylesheet">  
+    
+    <script>
+        $(window).load( function() {
+            $("notion-text#grand mjx-chtml.MJXc-display").css("text-align","left");
+        } );
+    </script>
+    
+    
 </head>
 
 <body>
@@ -72,11 +80,7 @@
 
     {{ template "analytics.tmpl.html" . }}
     
-    <script>
-        $(window).load( function() {
-            $("notion-text#grand mjx-chtml.MJXc-display").css("text-align","left");
-        } );
-    </script>
+    
 
 </body>
 

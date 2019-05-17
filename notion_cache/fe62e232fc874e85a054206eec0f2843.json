@@ -12,8 +12,8 @@
     "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
     "created_time": 1556290430488,
     "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
-    "last_edited_time": 1556290440000,
-    "parent_id": "93cd65d2-5418-4e76-b55a-590164298b4c",
+    "last_edited_time": 1558049880000,
+    "parent_id": "787c1dfb-e79e-46ce-a1ce-b0bd85ce7ce5",
     "parent_table": "block",
     "properties": {
       "title": [
@@ -23,7 +23,7 @@
       ]
     },
     "type": "page",
-    "version": 9,
+    "version": 12,
     "content_resolved": [
       {
         "id": "f3ee01ae-848a-4c12-8a77-80d0af21d6df",
@@ -114,18 +114,6 @@
       "profile_photo": "",
       "time_zone": "",
       "version": 7
-    },
-    {
-      "email": "maaslalani1@gmail.com",
-      "family_name": "Lalani",
-      "given_name": "Maas",
-      "id": "ab37a247-7d5a-4aae-9a2a-b76d2c03ec46",
-      "locale": "",
-      "mobile_onboarding_completed": true,
-      "onboarding_completed": true,
-      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/1bba0402-afcb-4f95-9a6c-32324cf4683c/Cartoon.png",
-      "time_zone": "",
-      "version": 168
     }
   ],
   "Tables": null

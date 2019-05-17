@@ -11,18 +11,18 @@
     "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
     "created_time": 1557724140000,
     "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
-    "last_edited_time": 1557724260000,
+    "last_edited_time": 1558083180000,
     "parent_id": "79e372e1-0a62-4c22-808b-84d97da78879",
     "parent_table": "block",
     "properties": {
       "title": [
         [
-          "ETC"
+          "Trivial knowledge"
         ]
       ]
     },
     "type": "page",
-    "version": 36,
+    "version": 45,
     "content_resolved": [
       {
         "id": "94f106f4-72c3-440e-adc9-1428c3f6c674",
@@ -30,7 +30,7 @@
         "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
         "created_time": 1557724228737,
         "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
-        "last_edited_time": 1557724200000,
+        "last_edited_time": 1558049880000,
         "parent_id": "699e50d5-2455-426e-a2b0-7b5ab9adf34d",
         "parent_table": "block",
         "properties": {
@@ -41,7 +41,7 @@
           ]
         },
         "type": "page",
-        "version": 22,
+        "version": 24,
         "title": "C++ 관련 사소한 지식들"
       },
       {
@@ -50,7 +50,7 @@
         "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
         "created_time": 1557724274293,
         "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
-        "last_edited_time": 1557724740000,
+        "last_edited_time": 1558049880000,
         "parent_id": "699e50d5-2455-426e-a2b0-7b5ab9adf34d",
         "parent_table": "block",
         "properties": {
@@ -61,7 +61,7 @@
           ]
         },
         "type": "page",
-        "version": 41,
+        "version": 44,
         "title": "Linux 관련 사소한 지식들"
       },
       {
@@ -70,7 +70,7 @@
         "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
         "created_time": 1557724302414,
         "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
-        "last_edited_time": 1557724800000,
+        "last_edited_time": 1558049880000,
         "parent_id": "699e50d5-2455-426e-a2b0-7b5ab9adf34d",
         "parent_table": "block",
         "properties": {
@@ -81,11 +81,11 @@
           ]
         },
         "type": "page",
-        "version": 30,
+        "version": 52,
         "title": "개발관련 사소한 지식들"
       }
     ],
-    "title": "ETC"
+    "title": "Trivial knowledge"
   },
   "Users": [
     {

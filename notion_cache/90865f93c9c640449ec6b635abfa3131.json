@@ -5,7 +5,6 @@
     "alive": true,
     "content": [
       "5d4398fe-d970-4479-8250-20164e35efdf",
-      "93cd65d2-5418-4e76-b55a-590164298b4c",
       "699e50d5-2455-426e-a2b0-7b5ab9adf34d",
       "d7f138e9-97e7-46f5-b985-3d7985f41284",
       "a3c52d81-186f-4a3b-bb26-620d3308f22e"
@@ -23,7 +22,7 @@
       "block_locked_by": "218003c6-a32c-48f0-96e7-42bfc97a7929"
     },
     "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
-    "last_edited_time": 1557844140000,
+    "last_edited_time": 1558049880000,
     "parent_id": "bb483cdd-83b9-454c-8832-87023904702e",
     "parent_table": "space",
     "permissions": [
@@ -45,7 +44,7 @@
       ]
     },
     "type": "page",
-    "version": 168,
+    "version": 170,
     "content_resolved": [
       {
         "id": "5d4398fe-d970-4479-8250-20164e35efdf",
@@ -53,7 +52,7 @@
         "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
         "created_time": 1556290465886,
         "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
-        "last_edited_time": 1557723720000,
+        "last_edited_time": 1558083240000,
         "parent_id": "79e372e1-0a62-4c22-808b-84d97da78879",
         "parent_table": "block",
         "properties": {
@@ -64,28 +63,8 @@
           ]
         },
         "type": "page",
-        "version": 66,
+        "version": 71,
         "title": "Article Review"
-      },
-      {
-        "id": "93cd65d2-5418-4e76-b55a-590164298b4c",
-        "alive": true,
-        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
-        "created_time": 1556289900000,
-        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
-        "last_edited_time": 1557544920000,
-        "parent_id": "79e372e1-0a62-4c22-808b-84d97da78879",
-        "parent_table": "block",
-        "properties": {
-          "title": [
-            [
-              "Old data"
-            ]
-          ]
-        },
-        "type": "page",
-        "version": 84,
-        "title": "Old data"
       },
       {
         "id": "699e50d5-2455-426e-a2b0-7b5ab9adf34d",
@@ -93,19 +72,19 @@
         "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
         "created_time": 1557724140000,
         "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
-        "last_edited_time": 1557724260000,
+        "last_edited_time": 1558083180000,
         "parent_id": "79e372e1-0a62-4c22-808b-84d97da78879",
         "parent_table": "block",
         "properties": {
           "title": [
             [
-              "ETC"
+              "Trivial knowledge"
             ]
           ]
         },
         "type": "page",
-        "version": 36,
-        "title": "ETC"
+        "version": 45,
+        "title": "Trivial knowledge"
       },
       {
         "id": "d7f138e9-97e7-46f5-b985-3d7985f41284",

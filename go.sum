@@ -106,6 +106,8 @@ github.com/sjs2109/notionapi v0.0.0-20190512234819-8301cfcc6bba947378f87ef6c6371
 github.com/sjs2109/notionapi v0.0.0-20190512234819-8301cfcc6bba947378f87ef6c6371c5c1d78d8ff/go.mod h1:RlWqQCCkuOvTlWyLXRwYd1H5HXAtb/i0vSrQKrCKAdg=
 github.com/sjs2109/notionapi v0.0.0-20190513125323-192b19ffec5b13b86e9f2ac4146ee3cb66813d42 h1:1YWcK9Bu53jj2IquJgiHi/AZJ1awzaZcGKmjsYoFCHo=
 github.com/sjs2109/notionapi v0.0.0-20190513125323-192b19ffec5b13b86e9f2ac4146ee3cb66813d42/go.mod h1:RlWqQCCkuOvTlWyLXRwYd1H5HXAtb/i0vSrQKrCKAdg=
+github.com/sjs2109/notionapi v0.0.0-20190517081300-b8e1544e1f7a13832e2870d7077f615b13e5d5e9 h1:2jE3eH5q41JzzX3Hs2MiwVKlte9HNUpbDjMH3EeIOIM=
+github.com/sjs2109/notionapi v0.0.0-20190517081300-b8e1544e1f7a13832e2870d7077f615b13e5d5e9/go.mod h1:RlWqQCCkuOvTlWyLXRwYd1H5HXAtb/i0vSrQKrCKAdg=
 github.com/sony/sonyflake v0.0.0-20181109022403-6d5bd6181009 h1:3wBL/e/qjpSYaXacpbIV+Bsj/nwQ4UO1llG/av54zzw=
 github.com/sony/sonyflake v0.0.0-20181109022403-6d5bd6181009/go.mod h1:dVvZuWJd174umvm5g8CmZD6S2GWwHKtpK/0ZPHswuNo=
 github.com/stretchr/testify v1.2.2 h1:bSDNvY7ZPG5RlJ8otE/7V6gMiyenm9RtJ7IUVIAoJ1w=

@@ -4,12 +4,15 @@
     "id": "c7e4a120-67ca-4838-a112-48948f006677",
     "alive": true,
     "content": [
-      "2398e20c-4ab2-4710-8060-21026b281662"
+      "90a4719d-db88-456f-b8ec-dfcd36fef634",
+      "2398e20c-4ab2-4710-8060-21026b281662",
+      "ce25ec37-2944-47df-b89d-0465f9c6ebd3",
+      "581c7aa0-e075-4691-91db-48fbeca7593f"
     ],
     "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
     "created_time": 1557724302414,
     "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
-    "last_edited_time": 1558017960000,
+    "last_edited_time": 1558049880000,
     "parent_id": "699e50d5-2455-426e-a2b0-7b5ab9adf34d",
     "parent_table": "block",
     "properties": {
@@ -20,8 +23,28 @@
       ]
     },
     "type": "page",
-    "version": 47,
+    "version": 52,
     "content_resolved": [
+      {
+        "id": "90a4719d-db88-456f-b8ec-dfcd36fef634",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1556290253873,
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1558049880000,
+        "parent_id": "c7e4a120-67ca-4838-a112-48948f006677",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Git: 특정 브랜치 클론하기"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 14,
+        "title": "Git: 특정 브랜치 클론하기"
+      },
       {
         "id": "2398e20c-4ab2-4710-8060-21026b281662",
         "alive": true,
@@ -41,6 +64,60 @@
         "type": "page",
         "version": 66,
         "title": "googletest에서 MOCK_METHODn()에서 n의 의미"
+      },
+      {
+        "id": "ce25ec37-2944-47df-b89d-0465f9c6ebd3",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1556289583497,
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1558049820000,
+        "parent_id": "c7e4a120-67ca-4838-a112-48948f006677",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "python list[::n] meaning"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 20,
+        "title": "python list[::n] meaning"
+      },
+      {
+        "id": "581c7aa0-e075-4691-91db-48fbeca7593f",
+        "alive": true,
+        "copied_from": "6221856c-5802-4ca0-8e6f-fceebf5c5007",
+        "created_by": "e894aec7-c5cc-4aa2-8c20-fb602fa7777a",
+        "created_time": 1556288754998,
+        "format": {
+          "page_font": "serif",
+          "page_full_width": false,
+          "page_cover_position": 0.5
+        },
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1558049820000,
+        "parent_id": "c7e4a120-67ca-4838-a112-48948f006677",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "configuration of aws GUI"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 73,
+        "title": "configuration of aws GUI",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0.5,
+          "page_font": "serif",
+          "page_full_width": false,
+          "page_icon": "",
+          "page_small_text": false
+        }
       }
     ],
     "title": "개발관련 사소한 지식들"
@@ -57,6 +134,18 @@
       "profile_photo": "",
       "time_zone": "",
       "version": 7
+    },
+    {
+      "email": "example4@makenotion.com",
+      "family_name": "Last",
+      "given_name": "Simon",
+      "id": "e894aec7-c5cc-4aa2-8c20-fb602fa7777a",
+      "locale": "",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://lh4.googleusercontent.com/-FA4Xb8SNeFY/AAAAAAAAAAI/AAAAAAAAACc/4XeWRkSIY3A/photo.jpg?sz=50",
+      "time_zone": "",
+      "version": 26
     }
   ],
   "Tables": null

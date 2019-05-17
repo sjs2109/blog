@@ -61,7 +61,7 @@
       "page_cover_position": 0.4
     },
     "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
-    "last_edited_time": 1557720060000,
+    "last_edited_time": 1558050120000,
     "parent_id": "5d4398fe-d970-4479-8250-20164e35efdf",
     "parent_table": "block",
     "properties": {
@@ -72,7 +72,7 @@
       ]
     },
     "type": "page",
-    "version": 268,
+    "version": 271,
     "content_resolved": [
       {
         "id": "7f023305-a4fe-45e2-962b-9033166462f0",
@@ -186,7 +186,7 @@
         "created_by": "e894aec7-c5cc-4aa2-8c20-fb602fa7777a",
         "created_time": 1557096102011,
         "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
-        "last_edited_time": 1557194880000,
+        "last_edited_time": 1558050060000,
         "parent_id": "14a291a0-0076-4ae3-8e00-ebde900a55d9",
         "parent_table": "block",
         "properties": {
@@ -201,8 +201,8 @@
             ]
           ]
         },
-        "type": "text",
-        "version": 24,
+        "type": "header",
+        "version": 29,
         "inline_content": [
           {
             "Text": "Model 설명",
@@ -958,7 +958,7 @@
         "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
         "created_time": 1557101940000,
         "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
-        "last_edited_time": 1557194880000,
+        "last_edited_time": 1558050060000,
         "parent_id": "14a291a0-0076-4ae3-8e00-ebde900a55d9",
         "parent_table": "block",
         "properties": {
@@ -968,8 +968,8 @@
             ]
           ]
         },
-        "type": "text",
-        "version": 17,
+        "type": "header",
+        "version": 19,
         "inline_content": [
           {
             "Text": "text-based customer support dialog system에서 성능 평가"
@@ -1221,7 +1221,7 @@
         "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
         "created_time": 1557103199685,
         "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
-        "last_edited_time": 1557194880000,
+        "last_edited_time": 1558050120000,
         "parent_id": "14a291a0-0076-4ae3-8e00-ebde900a55d9",
         "parent_table": "block",
         "properties": {
@@ -1236,8 +1236,8 @@
             ]
           ]
         },
-        "type": "text",
-        "version": 11,
+        "type": "sub_header",
+        "version": 16,
         "inline_content": [
           {
             "Text": "Reinforcement learning illustration",
@@ -1316,7 +1316,7 @@
         "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
         "created_time": 1557099120000,
         "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
-        "last_edited_time": 1557194880000,
+        "last_edited_time": 1558050120000,
         "parent_id": "14a291a0-0076-4ae3-8e00-ebde900a55d9",
         "parent_table": "block",
         "properties": {
@@ -1331,8 +1331,8 @@
             ]
           ]
         },
-        "type": "text",
-        "version": 29,
+        "type": "header",
+        "version": 31,
         "inline_content": [
           {
             "Text": "Concolusion",

@@ -272,7 +272,7 @@ table.notion-table td {
 
 .blog-img {
   display: block;
-  margin-left: auto;
+  margin-left: 0px;
   margin-right: auto;
   max-width: 100%;
 }

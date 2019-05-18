@@ -5,12 +5,13 @@
     "alive": true,
     "content": [
       "14a291a0-0076-4ae3-8e00-ebde900a55d9",
-      "c29ee58b-3416-4258-bd71-3bd99f7209d9"
+      "c29ee58b-3416-4258-bd71-3bd99f7209d9",
+      "1e568f5f-01d0-40ef-a7e3-fae170f24623"
     ],
     "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
     "created_time": 1556290465886,
     "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
-    "last_edited_time": 1558083240000,
+    "last_edited_time": 1558187940000,
     "parent_id": "79e372e1-0a62-4c22-808b-84d97da78879",
     "parent_table": "block",
     "properties": {
@@ -21,7 +22,7 @@
       ]
     },
     "type": "page",
-    "version": 71,
+    "version": 73,
     "content_resolved": [
       {
         "id": "14a291a0-0076-4ae3-8e00-ebde900a55d9",
@@ -76,6 +77,26 @@
         "type": "page",
         "version": 100,
         "title": "LEARNING END-TO-END GOAL-ORIENTED DIALOG"
+      },
+      {
+        "id": "1e568f5f-01d0-40ef-a7e3-fae170f24623",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1557840708189,
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1558191180000,
+        "parent_id": "5d4398fe-d970-4479-8250-20164e35efdf",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "End-To-End Memory Networks"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 112,
+        "title": "End-To-End Memory Networks"
       }
     ],
     "title": "Article Review"

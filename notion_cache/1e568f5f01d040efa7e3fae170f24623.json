@@ -1,0 +1,486 @@
+{
+  "ID": "1e568f5f-01d0-40ef-a7e3-fae170f24623",
+  "Root": {
+    "id": "1e568f5f-01d0-40ef-a7e3-fae170f24623",
+    "alive": true,
+    "content": [
+      "c3a90093-ff47-4503-9523-df874e775326",
+      "76e6b6e8-79f2-47d6-9191-5d5704abffe1",
+      "c7f3e703-7907-4238-9558-e2be3e35e3f7",
+      "1cb750e8-b999-4ca7-9d59-e063f6d77023",
+      "c8b648c9-edad-4441-b605-bdb4cb1a8f06",
+      "4575ec83-376d-445d-aebf-748203ef834a",
+      "5e25b15d-202e-4f1c-86fa-cf587e481f33",
+      "6503ec3b-4964-4267-aa9b-93837fe96460",
+      "4ca583a6-e612-4f44-b8bf-06c2c08d4fbd",
+      "d670cf55-dd56-4117-ad3b-243396c7d893",
+      "a90146a9-70d3-401e-b954-5d066fb4d8bc",
+      "c49d3ae6-b52e-44ec-a9e8-351964b3f03e",
+      "1332eb32-7e58-4a4d-9bc6-04a6d13a1d15",
+      "9446b56b-320d-400c-b9b7-912c8b62e599",
+      "403ca774-04a9-4553-b708-f1586aaa8fb0",
+      "798e2480-89fe-4bd8-8c29-676fffb481f6",
+      "b15d4f75-9065-4279-9d78-2c946b355261"
+    ],
+    "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+    "created_time": 1557840708189,
+    "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+    "last_edited_time": 1558191180000,
+    "parent_id": "5d4398fe-d970-4479-8250-20164e35efdf",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "End-To-End Memory Networks"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 112,
+    "content_resolved": [
+      {
+        "id": "c3a90093-ff47-4503-9523-df874e775326",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1557840720000,
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1557840720000,
+        "parent_id": "1e568f5f-01d0-40ef-a7e3-fae170f24623",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "source: "
+            ],
+            [
+              "https://arxiv.org/pdf/1503.08895.pdf",
+              [
+                [
+                  "a",
+                  "https://arxiv.org/pdf/1503.08895.pdf"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 41,
+        "inline_content": [
+          {
+            "Text": "source: "
+          },
+          {
+            "Text": "https://arxiv.org/pdf/1503.08895.pdf",
+            "Link": "https://arxiv.org/pdf/1503.08895.pdf"
+          }
+        ]
+      },
+      {
+        "id": "76e6b6e8-79f2-47d6-9191-5d5704abffe1",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1557840660000,
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1558090140000,
+        "parent_id": "1e568f5f-01d0-40ef-a7e3-fae170f24623",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "이번에 리뷰했던 논문은 2015년에 발표한 End-To-End Memory network이다 "
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 92,
+        "inline_content": [
+          {
+            "Text": "이번에 리뷰했던 논문은 2015년에 발표한 End-To-End Memory network이다 "
+          }
+        ]
+      },
+      {
+        "id": "c7f3e703-7907-4238-9558-e2be3e35e3f7",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1558144680000,
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1558144680000,
+        "parent_id": "1e568f5f-01d0-40ef-a7e3-fae170f24623",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Single Layer"
+            ]
+          ]
+        },
+        "type": "header",
+        "version": 33,
+        "inline_content": [
+          {
+            "Text": "Single Layer"
+          }
+        ]
+      },
+      {
+        "id": "1cb750e8-b999-4ca7-9d59-e063f6d77023",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1558142236939,
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1558144680000,
+        "parent_id": "1e568f5f-01d0-40ef-a7e3-fae170f24623",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Input Model"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 3,
+        "inline_content": [
+          {
+            "Text": "Input Model"
+          }
+        ]
+      },
+      {
+        "id": "c8b648c9-edad-4441-b605-bdb4cb1a8f06",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1558142220000,
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1558191180000,
+        "parent_id": "1e568f5f-01d0-40ef-a7e3-fae170f24623",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$$ input set x_1, x_2,x_3,....,x_n 이 메모리에 있을 때 {x_i} → {m_i}로 변환된다. query q또한 internal state u를 얻기 위해 embedding된다 u 와 m_i의 관계는 아래와 같다$$"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 368,
+        "inline_content": [
+          {
+            "Text": "$$ input set x_1, x_2,x_3,....,x_n 이 메모리에 있을 때 {x_i} → {m_i}로 변환된다. query q또한 internal state u를 얻기 위해 embedding된다 u 와 m_i의 관계는 아래와 같다$$"
+          }
+        ]
+      },
+      {
+        "id": "4575ec83-376d-445d-aebf-748203ef834a",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1558143902926,
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1558144260000,
+        "parent_id": "1e568f5f-01d0-40ef-a7e3-fae170f24623",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "p_i = Softmax(u^Tm_i), where SoftMax(z_i) = e^z_i / \\sum_{j} e^z_j "
+            ]
+          ]
+        },
+        "type": "equation",
+        "version": 187,
+        "inline_content": [
+          {
+            "Text": "p_i = Softmax(u^Tm_i), where SoftMax(z_i) = e^z_i / \\sum_{j} e^z_j "
+          }
+        ]
+      },
+      {
+        "id": "5e25b15d-202e-4f1c-86fa-cf587e481f33",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1558142251120,
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1558144260000,
+        "parent_id": "1e568f5f-01d0-40ef-a7e3-fae170f24623",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Output Model"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 37,
+        "inline_content": [
+          {
+            "Text": "Output Model"
+          }
+        ]
+      },
+      {
+        "id": "6503ec3b-4964-4267-aa9b-93837fe96460",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1558144260000,
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1558191180000,
+        "parent_id": "1e568f5f-01d0-40ef-a7e3-fae170f24623",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$$각각의 x_i는 output vector c_i와 대응된다 이때 Output vector는 아래와 같다$$"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 175,
+        "inline_content": [
+          {
+            "Text": "$$각각의 x_i는 output vector c_i와 대응된다 이때 Output vector는 아래와 같다$$"
+          }
+        ]
+      },
+      {
+        "id": "4ca583a6-e612-4f44-b8bf-06c2c08d4fbd",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1558160004896,
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1558160040000,
+        "parent_id": "1e568f5f-01d0-40ef-a7e3-fae170f24623",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "O = \\sum_{i}p_ic_i"
+            ]
+          ]
+        },
+        "type": "equation",
+        "version": 40,
+        "inline_content": [
+          {
+            "Text": "O = \\sum_{i}p_ic_i"
+          }
+        ]
+      },
+      {
+        "id": "d670cf55-dd56-4117-ad3b-243396c7d893",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1558160640000,
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1558184580000,
+        "parent_id": "1e568f5f-01d0-40ef-a7e3-fae170f24623",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Overall Model은 아래 그림의 (a)이다"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 52,
+        "inline_content": [
+          {
+            "Text": "Overall Model은 아래 그림의 (a)이다"
+          }
+        ]
+      },
+      {
+        "id": "a90146a9-70d3-401e-b954-5d066fb4d8bc",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1558184580000,
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1558184580000,
+        "parent_id": "1e568f5f-01d0-40ef-a7e3-fae170f24623",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "id": "c49d3ae6-b52e-44ec-a9e8-351964b3f03e",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1558184640000,
+        "file_ids": [
+          "820f3f3e-6ca8-44d1-8a66-b7aa80073aff"
+        ],
+        "format": {
+          "block_width": 639,
+          "block_height": 311,
+          "display_source": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/820f3f3e-6ca8-44d1-8a66-b7aa80073aff/Untitled.png",
+          "block_full_width": false,
+          "block_page_width": false,
+          "block_aspect_ratio": 0.486697965571205,
+          "block_preserve_scale": true
+        },
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1558184640000,
+        "parent_id": "1e568f5f-01d0-40ef-a7e3-fae170f24623",
+        "parent_table": "block",
+        "properties": {
+          "source": [
+            [
+              "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/820f3f3e-6ca8-44d1-8a66-b7aa80073aff/Untitled.png"
+            ]
+          ]
+        },
+        "type": "image",
+        "version": 8,
+        "source": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/820f3f3e-6ca8-44d1-8a66-b7aa80073aff/Untitled.png",
+        "image_url": "https://www.notion.so/signed/https:%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F820f3f3e-6ca8-44d1-8a66-b7aa80073aff%2FUntitled.png",
+        "format_image": {
+          "block_aspect_ratio": 0.486697965571205,
+          "block_full_width": false,
+          "block_page_width": false,
+          "block_preserve_scale": true,
+          "block_width": 639,
+          "display_source": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/820f3f3e-6ca8-44d1-8a66-b7aa80073aff/Untitled.png",
+          "image_url": "https://www.notion.so/signed/https:%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F820f3f3e-6ca8-44d1-8a66-b7aa80073aff%2FUntitled.png"
+        }
+      },
+      {
+        "id": "1332eb32-7e58-4a4d-9bc6-04a6d13a1d15",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1558184640000,
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1558186920000,
+        "parent_id": "1e568f5f-01d0-40ef-a7e3-fae170f24623",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Multi layer"
+            ]
+          ]
+        },
+        "type": "header",
+        "version": 25,
+        "inline_content": [
+          {
+            "Text": "Multi layer"
+          }
+        ]
+      },
+      {
+        "id": "9446b56b-320d-400c-b9b7-912c8b62e599",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1558187940000,
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1558189680000,
+        "parent_id": "1e568f5f-01d0-40ef-a7e3-fae170f24623",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "multi layer는 (예상했던 것과 같이) single layer를 연결한다"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 89,
+        "inline_content": [
+          {
+            "Text": "multi layer는 (예상했던 것과 같이) single layer를 연결한다"
+          }
+        ]
+      },
+      {
+        "id": "403ca774-04a9-4553-b708-f1586aaa8fb0",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1558190367453,
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1558191180000,
+        "parent_id": "1e568f5f-01d0-40ef-a7e3-fae170f24623",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$$The input to layers above the first is the sum of the output o^k and the input u^k from layer k (different ways to combine ok and uk are proposed later):$$"
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 83,
+        "inline_content": [
+          {
+            "Text": "$$The input to layers above the first is the sum of the output o^k and the input u^k from layer k (different ways to combine ok and uk are proposed later):$$"
+          }
+        ]
+      },
+      {
+        "id": "798e2480-89fe-4bd8-8c29-676fffb481f6",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1558190473319,
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1558190700000,
+        "parent_id": "1e568f5f-01d0-40ef-a7e3-fae170f24623",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "u^{k+1} = u^k + o^k"
+            ]
+          ]
+        },
+        "type": "equation",
+        "version": 96,
+        "inline_content": [
+          {
+            "Text": "u^{k+1} = u^k + o^k"
+          }
+        ]
+      },
+      {
+        "id": "b15d4f75-9065-4279-9d78-2c946b355261",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1558190400000,
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1558191120000,
+        "parent_id": "1e568f5f-01d0-40ef-a7e3-fae170f24623",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$$ Each layer has its own embedding matrices A^k, C^k, used to embed the inputs {x_i}. However, as discussed below, they are constrained to ease training and reduce the number of parameters.$$"
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 79,
+        "inline_content": [
+          {
+            "Text": "$$ Each layer has its own embedding matrices A^k, C^k, used to embed the inputs {x_i}. However, as discussed below, they are constrained to ease training and reduce the number of parameters.$$"
+          }
+        ]
+      }
+    ],
+    "title": "End-To-End Memory Networks"
+  },
+  "Users": [
+    {
+      "email": "sjs2109@gmail.com",
+      "family_name": "Sung",
+      "given_name": "Jisuk",
+      "id": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+      "locale": "",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "",
+      "time_zone": "",
+      "version": 7
+    }
+  ],
+  "Tables": null
+}

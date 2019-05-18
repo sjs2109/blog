@@ -15,8 +15,10 @@
         
         window.onload = function(){
             //to adjust equation position
-            $(".notion-text").find(".MJXc-display").css("text-align","left");
-            $(".notion-text").find(".mjx-chtml").css("text-align","left");
+            $(".notion-text").find('*').each(function(){
+                $(this).css("text-align","left");
+            });
+            
         };
        
     </script>

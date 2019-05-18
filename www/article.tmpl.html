@@ -14,10 +14,14 @@
     <script>
         
         window.onload = function(){
-            //to adjust equation position
-            $(".notion-text").find('*').each(function(){
-                $(this).css("text-align","left");
-            });
+            setTimeout(function(){ 
+                //to adjust equation position
+                $(".notion-text").find('*').each(function(){
+                    $(this).css("text-align","left");
+                });
+            
+            }, 3000);
+            
             
         };
        

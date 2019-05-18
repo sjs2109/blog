@@ -16,11 +16,14 @@
         window.onload = function(){
             setTimeout(function(){ 
                 //to adjust equation position
-                $(".notion-text").find('*').each(function(){
-                    $(this).css("text-align","left");
-                });
-            
-            }, 500);
+                // $(".notion-text").find('*').each(function(){
+                //     $(this).css("text-align","left");
+                // });
+                $(".notion-text").find('.mjx-chtml').css("text-align","left");
+                $(".notion-text").find('.mjx-chtml').css("white-space","normal");
+                $(".notion-text").find('.mjx-chtml').css("font-size","normal");
+  
+            }, 300);
             
             
         };

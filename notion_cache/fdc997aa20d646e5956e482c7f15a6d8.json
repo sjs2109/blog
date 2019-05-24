@@ -1,0 +1,94 @@
+{
+  "ID": "fdc997aa-20d6-46e5-956e-482c7f15a6d8",
+  "Root": {
+    "id": "fdc997aa-20d6-46e5-956e-482c7f15a6d8",
+    "alive": true,
+    "content": [
+      "fd3792cf-639e-415a-b1ed-e670fedfc595",
+      "0ff405ec-deab-412c-b1e2-9009e569685b"
+    ],
+    "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+    "created_time": 1558662079107,
+    "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+    "last_edited_time": 1558662240000,
+    "parent_id": "94f106f4-72c3-440e-adc9-1428c3f6c674",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "all_of() + typeid()"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 59,
+    "content_resolved": [
+      {
+        "id": "fd3792cf-639e-415a-b1ed-e670fedfc595",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1558662120000,
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1558662120000,
+        "parent_id": "fdc997aa-20d6-46e5-956e-482c7f15a6d8",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "C++에서 특정 type으로 vector가 구성되어 있는지 확인하려면 아래와 같이 하면 된다"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 92,
+        "inline_content": [
+          {
+            "Text": "C++에서 특정 type으로 vector가 구성되어 있는지 확인하려면 아래와 같이 하면 된다"
+          }
+        ]
+      },
+      {
+        "id": "0ff405ec-deab-412c-b1e2-9009e569685b",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1558662190453,
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1558662240000,
+        "parent_id": "fdc997aa-20d6-46e5-956e-482c7f15a6d8",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "C++"
+            ]
+          ],
+          "title": [
+            [
+              "#include \u003ciostream\u003e\n#include \u003ctypeinfo\u003e\n#include \u003cvector\u003e\n#include \u003calgorithm\u003e\n\nusing namespace std;\n\nint main()\n\t{\n\tvector\u003cstring\u003e list = {\"hi\",\"hello\",\"sleeping\",\"computer\",\"notebook\"};\n\t\n\tif(all_of(list.begin(),list.end(),[](string element){return (typeid(string) == typeid(element));}))\n\t{\n\t        cout \u003c\u003c \"all values are string\" \u003c\u003c endl;\n\t}\n\telse\n\t{\n\t        cout \u003c\u003c \"some values are string\" \u003c\u003c endl;\n\t}\n\n        return 0;\n}\n"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 14,
+        "code": "#include \u003ciostream\u003e\n#include \u003ctypeinfo\u003e\n#include \u003cvector\u003e\n#include \u003calgorithm\u003e\n\nusing namespace std;\n\nint main()\n\t{\n\tvector\u003cstring\u003e list = {\"hi\",\"hello\",\"sleeping\",\"computer\",\"notebook\"};\n\t\n\tif(all_of(list.begin(),list.end(),[](string element){return (typeid(string) == typeid(element));}))\n\t{\n\t        cout \u003c\u003c \"all values are string\" \u003c\u003c endl;\n\t}\n\telse\n\t{\n\t        cout \u003c\u003c \"some values are string\" \u003c\u003c endl;\n\t}\n\n        return 0;\n}\n",
+        "code_language": "C++"
+      }
+    ],
+    "title": "all_of() + typeid()"
+  },
+  "Users": [
+    {
+      "email": "sjs2109@gmail.com",
+      "family_name": "Sung",
+      "given_name": "Jisuk",
+      "id": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+      "locale": "",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "",
+      "time_zone": "",
+      "version": 7
+    }
+  ],
+  "Tables": null
+}

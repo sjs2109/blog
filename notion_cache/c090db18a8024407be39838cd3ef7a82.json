@@ -1,0 +1,325 @@
+{
+  "ID": "c090db18-a802-4407-be39-838cd3ef7a82",
+  "Root": {
+    "id": "c090db18-a802-4407-be39-838cd3ef7a82",
+    "alive": true,
+    "content": [
+      "cb7108a1-8709-4049-adfa-f9185e993809",
+      "e785d7ed-effc-4305-97ad-9be96bc661ae",
+      "dce1acc8-a977-4dbf-b0f7-6d88edfce00c",
+      "ff998a66-212f-4434-8f71-b9297baf214a",
+      "9053fdd9-0187-4398-b601-40c77b311abb",
+      "70010ce6-d519-455b-b001-070bbf7661b1",
+      "88bac1e5-6825-4862-bdc3-cbc3ffb36090"
+    ],
+    "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+    "created_time": 1558771098884,
+    "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+    "last_edited_time": 1558772040000,
+    "parent_id": "c7e4a120-67ca-4838-a112-48948f006677",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Notion Icons"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 53,
+    "content_resolved": [
+      {
+        "id": "cb7108a1-8709-4049-adfa-f9185e993809",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1558771080000,
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1558772040000,
+        "parent_id": "c090db18-a802-4407-be39-838cd3ef7a82",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "많은 분들이 좋은 icon file을 공유해 주시는데 실제 notion에 icon으로 바로 사용하기에는 파일 주소를 바로 알기가 어려워서 전체 파일을 받아서 업로드 해서 사용해야 하는 경우가 있다"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 235,
+        "inline_content": [
+          {
+            "Text": "많은 분들이 좋은 icon file을 공유해 주시는데 실제 notion에 icon으로 바로 사용하기에는 파일 주소를 바로 알기가 어려워서 전체 파일을 받아서 업로드 해서 사용해야 하는 경우가 있다"
+          }
+        ]
+      },
+      {
+        "id": "e785d7ed-effc-4305-97ad-9be96bc661ae",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1558771260000,
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1558771800000,
+        "parent_id": "c090db18-a802-4407-be39-838cd3ef7a82",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "여러 device에서 notion을 사용하는 경우에는 매번 파일을  저장해서 사용하기가 "
+            ],
+            [
+              "좀 귀찮다",
+              [
+                [
+                  "s"
+                ]
+              ]
+            ],
+            [
+              "  어려움이 있다. 그래서 github에 repository를 하나 만들고 icon file을 바로 보여주는 page를 만들었다"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 273,
+        "inline_content": [
+          {
+            "Text": "여러 device에서 notion을 사용하는 경우에는 매번 파일을  저장해서 사용하기가 "
+          },
+          {
+            "Text": "좀 귀찮다",
+            "AttrFlags": 8
+          },
+          {
+            "Text": "  어려움이 있다. 그래서 github에 repository를 하나 만들고 icon file을 바로 보여주는 page를 만들었다"
+          }
+        ]
+      },
+      {
+        "id": "dce1acc8-a977-4dbf-b0f7-6d88edfce00c",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1558771440000,
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1558771500000,
+        "parent_id": "c090db18-a802-4407-be39-838cd3ef7a82",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "주의: 각 파일의 저작권은 각 파일의 저작권자에게 있다.",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 54,
+        "inline_content": [
+          {
+            "Text": "주의: 각 파일의 저작권은 각 파일의 저작권자에게 있다.",
+            "AttrFlags": 1
+          }
+        ]
+      },
+      {
+        "id": "ff998a66-212f-4434-8f71-b9297baf214a",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1558771500000,
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1558771560000,
+        "parent_id": "c090db18-a802-4407-be39-838cd3ef7a82",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "http://bit.ly/2JDiRQG",
+              [
+                [
+                  "a",
+                  "http://bit.ly/2JDiRQG"
+                ]
+              ]
+            ],
+            [
+              " MIT license ("
+            ],
+            [
+              "http://ikonate.com",
+              [
+                [
+                  "a",
+                  "http://ikonate.com/"
+                ]
+              ]
+            ],
+            [
+              ")"
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 72,
+        "inline_content": [
+          {
+            "Text": "http://bit.ly/2JDiRQG",
+            "Link": "http://bit.ly/2JDiRQG"
+          },
+          {
+            "Text": " MIT license ("
+          },
+          {
+            "Text": "http://ikonate.com",
+            "Link": "http://ikonate.com/"
+          },
+          {
+            "Text": ")"
+          }
+        ]
+      },
+      {
+        "id": "9053fdd9-0187-4398-b601-40c77b311abb",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1558771620000,
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1558771680000,
+        "parent_id": "c090db18-a802-4407-be39-838cd3ef7a82",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "http://bit.ly/2WmOSSX",
+              [
+                [
+                  "a",
+                  "http://bit.ly/2WmOSSX"
+                ]
+              ]
+            ],
+            [
+              " 상업적 사용금지 ("
+            ],
+            [
+              "http://bit.ly/2W1lMcx",
+              [
+                [
+                  "a",
+                  "http://bit.ly/2W1lMcx"
+                ]
+              ]
+            ],
+            [
+              ")"
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 19,
+        "inline_content": [
+          {
+            "Text": "http://bit.ly/2WmOSSX",
+            "Link": "http://bit.ly/2WmOSSX"
+          },
+          {
+            "Text": " 상업적 사용금지 ("
+          },
+          {
+            "Text": "http://bit.ly/2W1lMcx",
+            "Link": "http://bit.ly/2W1lMcx"
+          },
+          {
+            "Text": ")"
+          }
+        ]
+      },
+      {
+        "id": "70010ce6-d519-455b-b001-070bbf7661b1",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1558771680000,
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1558771740000,
+        "parent_id": "c090db18-a802-4407-be39-838cd3ef7a82",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "http://bit.ly/2W0Kmu0",
+              [
+                [
+                  "a",
+                  "http://bit.ly/2W0Kmu0"
+                ]
+              ]
+            ],
+            [
+              " 상업적 사용금지 ("
+            ],
+            [
+              "http://bit.ly/2W1lMcx",
+              [
+                [
+                  "a",
+                  "http://bit.ly/2W1lMcx"
+                ]
+              ]
+            ],
+            [
+              ")"
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 20,
+        "inline_content": [
+          {
+            "Text": "http://bit.ly/2W0Kmu0",
+            "Link": "http://bit.ly/2W0Kmu0"
+          },
+          {
+            "Text": " 상업적 사용금지 ("
+          },
+          {
+            "Text": "http://bit.ly/2W1lMcx",
+            "Link": "http://bit.ly/2W1lMcx"
+          },
+          {
+            "Text": ")"
+          }
+        ]
+      },
+      {
+        "id": "88bac1e5-6825-4862-bdc3-cbc3ffb36090",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1558771560000,
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1558771560000,
+        "parent_id": "c090db18-a802-4407-be39-838cd3ef7a82",
+        "parent_table": "block",
+        "type": "text",
+        "version": 3
+      }
+    ],
+    "title": "Notion Icons"
+  },
+  "Users": [
+    {
+      "email": "sjs2109@gmail.com",
+      "family_name": "Sung",
+      "given_name": "Jisuk",
+      "id": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+      "locale": "",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "",
+      "time_zone": "",
+      "version": 7
+    }
+  ],
+  "Tables": null
+}

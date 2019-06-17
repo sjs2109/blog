@@ -18,11 +18,14 @@
       "7716322d-5f82-47c1-8032-c8041a810ac3"
     ],
     "format": {
+      "page_icon": "https://raw.githubusercontent.com/sjs2109/Icons/master/notion_icon_FD_minhee/ic_b_01_01_record.png",
+      "page_cover": "/images/page-cover/nasa_transonic_tunnel.jpg",
       "block_locked": false,
-      "block_locked_by": "218003c6-a32c-48f0-96e7-42bfc97a7929"
+      "block_locked_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+      "page_cover_position": 0.4
     },
     "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
-    "last_edited_time": 1558049880000,
+    "last_edited_time": 1560738180000,
     "parent_id": "bb483cdd-83b9-454c-8832-87023904702e",
     "parent_table": "space",
     "permissions": [
@@ -44,7 +47,7 @@
       ]
     },
     "type": "page",
-    "version": 170,
+    "version": 179,
     "content_resolved": [
       {
         "id": "5d4398fe-d970-4479-8250-20164e35efdf",
@@ -52,7 +55,7 @@
         "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
         "created_time": 1556290465886,
         "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
-        "last_edited_time": 1558083240000,
+        "last_edited_time": 1558271640000,
         "parent_id": "79e372e1-0a62-4c22-808b-84d97da78879",
         "parent_table": "block",
         "properties": {
@@ -63,7 +66,7 @@
           ]
         },
         "type": "page",
-        "version": 71,
+        "version": 75,
         "title": "Article Review"
       },
       {
@@ -121,12 +124,13 @@
     ],
     "title": "blog home",
     "format_page": {
-      "page_cover": "",
-      "page_cover_position": 0,
+      "page_cover": "/images/page-cover/nasa_transonic_tunnel.jpg",
+      "page_cover_position": 0.4,
       "page_font": "",
       "page_full_width": false,
-      "page_icon": "",
-      "page_small_text": false
+      "page_icon": "https://raw.githubusercontent.com/sjs2109/Icons/master/notion_icon_FD_minhee/ic_b_01_01_record.png",
+      "page_small_text": false,
+      "page_cover_url": "/images/page-cover/nasa_transonic_tunnel.jpg"
     }
   },
   "Users": [
@@ -138,9 +142,9 @@
       "locale": "",
       "mobile_onboarding_completed": true,
       "onboarding_completed": true,
-      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/1bba0402-afcb-4f95-9a6c-32324cf4683c/Cartoon.png",
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/cb21f2a7-7565-45ae-bec8-0c413b27d552/NotionHead.png",
       "time_zone": "",
-      "version": 168
+      "version": 170
     },
     {
       "email": "sjs2109@gmail.com",

@@ -1,0 +1,136 @@
+{
+  "ID": "d53b626d-05df-44d6-9b36-2ebf8d185491",
+  "Root": {
+    "id": "d53b626d-05df-44d6-9b36-2ebf8d185491",
+    "alive": true,
+    "content": [
+      "12d848dc-b2b6-4659-93fc-ffcaad021c7a",
+      "0f05a73c-e04f-4716-99ba-757b703a5e4e",
+      "439898b1-012c-43bb-a1f2-d74656805367"
+    ],
+    "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+    "created_time": 1563233460000,
+    "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+    "last_edited_time": 1563233760000,
+    "parent_id": "5d4398fe-d970-4479-8250-20164e35efdf",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Deep contextualized word representations"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 16,
+    "content_resolved": [
+      {
+        "id": "12d848dc-b2b6-4659-93fc-ffcaad021c7a",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1563233640000,
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1563233700000,
+        "parent_id": "d53b626d-05df-44d6-9b36-2ebf8d185491",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "이번 스터디에서 발표한 내용"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 24,
+        "inline_content": [
+          {
+            "Text": "이번 스터디에서 발표한 내용"
+          }
+        ]
+      },
+      {
+        "id": "0f05a73c-e04f-4716-99ba-757b703a5e4e",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1563233680309,
+        "file_ids": [
+          "b6a7b9cb-7cc2-4d3a-9d08-527c732af522"
+        ],
+        "format": {
+          "block_width": 664,
+          "block_height": 320,
+          "block_full_width": false,
+          "block_page_width": false,
+          "block_preserve_scale": false
+        },
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1563233700000,
+        "parent_id": "d53b626d-05df-44d6-9b36-2ebf8d185491",
+        "parent_table": "block",
+        "properties": {
+          "source": [
+            [
+              "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b6a7b9cb-7cc2-4d3a-9d08-527c732af522/190710_Deep_contextualized_word_representations_(ELMo).pdf"
+            ]
+          ]
+        },
+        "type": "pdf",
+        "version": 9,
+        "source": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b6a7b9cb-7cc2-4d3a-9d08-527c732af522/190710_Deep_contextualized_word_representations_(ELMo).pdf"
+      },
+      {
+        "id": "439898b1-012c-43bb-a1f2-d74656805367",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1563233764200,
+        "format": {
+          "block_width": 854,
+          "display_source": "https://www.youtube.com/embed/Vc13QVAKyGk?start=2\u0026feature=oembed\u0026start=2",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_aspect_ratio": 0.5620608899297423,
+          "block_preserve_scale": true
+        },
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1563233760000,
+        "parent_id": "d53b626d-05df-44d6-9b36-2ebf8d185491",
+        "parent_table": "block",
+        "properties": {
+          "source": [
+            [
+              "https://www.youtube.com/watch?v=Vc13QVAKyGk\u0026t=2s"
+            ]
+          ]
+        },
+        "type": "video",
+        "version": 6,
+        "source": "https://www.youtube.com/watch?v=Vc13QVAKyGk\u0026t=2s",
+        "format_video": {
+          "block_width": 854,
+          "block_height": 0,
+          "display_source": "https://www.youtube.com/embed/Vc13QVAKyGk?start=2\u0026feature=oembed\u0026start=2",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_aspect_ratio": 0.5620608899297423,
+          "block_preserve_scale": true
+        }
+      }
+    ],
+    "title": "Deep contextualized word representations"
+  },
+  "Users": [
+    {
+      "email": "sjs2109@gmail.com",
+      "family_name": "Sung",
+      "given_name": "Jisuk",
+      "id": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+      "locale": "",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "",
+      "time_zone": "",
+      "version": 7
+    }
+  ],
+  "Tables": null
+}

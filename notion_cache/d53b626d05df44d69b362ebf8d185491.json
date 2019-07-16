@@ -5,13 +5,13 @@
     "alive": true,
     "content": [
       "12d848dc-b2b6-4659-93fc-ffcaad021c7a",
-      "0f05a73c-e04f-4716-99ba-757b703a5e4e",
+      "8d9f506c-e0e2-497e-b7d7-0cd533d01151",
       "439898b1-012c-43bb-a1f2-d74656805367"
     ],
     "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
     "created_time": 1563233460000,
     "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
-    "last_edited_time": 1563233760000,
+    "last_edited_time": 1563234480000,
     "parent_id": "5d4398fe-d970-4479-8250-20164e35efdf",
     "parent_table": "block",
     "properties": {
@@ -22,7 +22,7 @@
       ]
     },
     "type": "page",
-    "version": 16,
+    "version": 21,
     "content_resolved": [
       {
         "id": "12d848dc-b2b6-4659-93fc-ffcaad021c7a",
@@ -49,34 +49,41 @@
         ]
       },
       {
-        "id": "0f05a73c-e04f-4716-99ba-757b703a5e4e",
+        "id": "8d9f506c-e0e2-497e-b7d7-0cd533d01151",
         "alive": true,
         "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
-        "created_time": 1563233680309,
-        "file_ids": [
-          "b6a7b9cb-7cc2-4d3a-9d08-527c732af522"
-        ],
-        "format": {
-          "block_width": 664,
-          "block_height": 320,
-          "block_full_width": false,
-          "block_page_width": false,
-          "block_preserve_scale": false
-        },
+        "created_time": 1563234480000,
         "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
-        "last_edited_time": 1563233700000,
+        "last_edited_time": 1563234480000,
         "parent_id": "d53b626d-05df-44d6-9b36-2ebf8d185491",
         "parent_table": "block",
         "properties": {
-          "source": [
+          "title": [
             [
-              "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b6a7b9cb-7cc2-4d3a-9d08-527c732af522/190710_Deep_contextualized_word_representations_(ELMo).pdf"
+              "pdf link :  "
+            ],
+            [
+              "https://drive.google.com/file/d/1ER9pqEUAvJKFyxAT-f0GoIidt3wbQiiC/view",
+              [
+                [
+                  "a",
+                  "https://drive.google.com/file/d/1ER9pqEUAvJKFyxAT-f0GoIidt3wbQiiC/view"
+                ]
+              ]
             ]
           ]
         },
-        "type": "pdf",
-        "version": 9,
-        "source": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b6a7b9cb-7cc2-4d3a-9d08-527c732af522/190710_Deep_contextualized_word_representations_(ELMo).pdf"
+        "type": "text",
+        "version": 27,
+        "inline_content": [
+          {
+            "Text": "pdf link :  "
+          },
+          {
+            "Text": "https://drive.google.com/file/d/1ER9pqEUAvJKFyxAT-f0GoIidt3wbQiiC/view",
+            "Link": "https://drive.google.com/file/d/1ER9pqEUAvJKFyxAT-f0GoIidt3wbQiiC/view"
+          }
+        ]
       },
       {
         "id": "439898b1-012c-43bb-a1f2-d74656805367",

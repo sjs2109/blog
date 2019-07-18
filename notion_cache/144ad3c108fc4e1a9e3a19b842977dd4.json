@@ -1,0 +1,124 @@
+{
+  "ID": "144ad3c1-08fc-4e1a-9e3a-19b842977dd4",
+  "Root": {
+    "id": "144ad3c1-08fc-4e1a-9e3a-19b842977dd4",
+    "alive": true,
+    "content": [
+      "972a06c2-4088-4cac-a8ee-dd6b6d12b8b4",
+      "820d755a-65b1-4435-868a-7e15c16a0d55",
+      "33b47b6c-2954-44dc-9550-30385c547f65"
+    ],
+    "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+    "created_time": 1563415949169,
+    "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+    "last_edited_time": 1563415980000,
+    "parent_id": "c7e4a120-67ca-4838-a112-48948f006677",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "TabNine"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 14,
+    "content_resolved": [
+      {
+        "id": "972a06c2-4088-4cac-a8ee-dd6b6d12b8b4",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1563415920000,
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1563415980000,
+        "parent_id": "144ad3c1-08fc-4e1a-9e3a-19b842977dd4",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "NLP를 이용해서 auto complete을 지원하는 tool이 나왔다"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 47,
+        "inline_content": [
+          {
+            "Text": "NLP를 이용해서 auto complete을 지원하는 tool이 나왔다"
+          }
+        ]
+      },
+      {
+        "id": "820d755a-65b1-4435-868a-7e15c16a0d55",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1563415980000,
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1563415980000,
+        "parent_id": "144ad3c1-08fc-4e1a-9e3a-19b842977dd4",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "github에 있는 code로 학습한 듯"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 34,
+        "inline_content": [
+          {
+            "Text": "github에 있는 code로 학습한 듯"
+          }
+        ]
+      },
+      {
+        "id": "33b47b6c-2954-44dc-9550-30385c547f65",
+        "alive": true,
+        "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "created_time": 1563415980000,
+        "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+        "last_edited_time": 1563415980000,
+        "parent_id": "144ad3c1-08fc-4e1a-9e3a-19b842977dd4",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "https://tabnine.com/blog/deep",
+              [
+                [
+                  "a",
+                  "https://tabnine.com/blog/deep"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 5,
+        "inline_content": [
+          {
+            "Text": "https://tabnine.com/blog/deep",
+            "Link": "https://tabnine.com/blog/deep"
+          }
+        ]
+      }
+    ],
+    "title": "TabNine"
+  },
+  "Users": [
+    {
+      "email": "sjs2109@gmail.com",
+      "family_name": "Sung",
+      "given_name": "Jisuk",
+      "id": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+      "locale": "",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "",
+      "time_zone": "",
+      "version": 7
+    }
+  ],
+  "Tables": null
+}

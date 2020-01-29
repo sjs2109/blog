@@ -22,7 +22,7 @@
       ]
     },
     "type": "page",
-    "version": 44,
+    "version": 48,
     "content_resolved": [
       {
         "id": "131a6129-c72c-4ae9-8658-4589e9d33a4b",
@@ -86,7 +86,7 @@
   },
   "Users": [
     {
-      "email": "sjs2109@gmail.com",
+      "email": "sjs2109@korea.ac.kr",
       "family_name": "Sung",
       "given_name": "Jisuk",
       "id": "218003c6-a32c-48f0-96e7-42bfc97a7929",
@@ -95,7 +95,7 @@
       "onboarding_completed": true,
       "profile_photo": "",
       "time_zone": "",
-      "version": 7
+      "version": 72
     }
   ],
   "Tables": null

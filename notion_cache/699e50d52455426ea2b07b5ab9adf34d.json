@@ -22,7 +22,7 @@
       ]
     },
     "type": "page",
-    "version": 45,
+    "version": 49,
     "content_resolved": [
       {
         "id": "94f106f4-72c3-440e-adc9-1428c3f6c674",
@@ -30,7 +30,7 @@
         "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
         "created_time": 1557724228737,
         "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
-        "last_edited_time": 1558049880000,
+        "last_edited_time": 1580259420000,
         "parent_id": "699e50d5-2455-426e-a2b0-7b5ab9adf34d",
         "parent_table": "block",
         "properties": {
@@ -41,7 +41,7 @@
           ]
         },
         "type": "page",
-        "version": 24,
+        "version": 42,
         "title": "C++ 관련 사소한 지식들"
       },
       {
@@ -61,7 +61,7 @@
           ]
         },
         "type": "page",
-        "version": 44,
+        "version": 48,
         "title": "Linux 관련 사소한 지식들"
       },
       {
@@ -70,7 +70,7 @@
         "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
         "created_time": 1557724302414,
         "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
-        "last_edited_time": 1558049880000,
+        "last_edited_time": 1563415920000,
         "parent_id": "699e50d5-2455-426e-a2b0-7b5ab9adf34d",
         "parent_table": "block",
         "properties": {
@@ -81,7 +81,7 @@
           ]
         },
         "type": "page",
-        "version": 52,
+        "version": 62,
         "title": "개발관련 사소한 지식들"
       }
     ],
@@ -89,7 +89,7 @@
   },
   "Users": [
     {
-      "email": "sjs2109@gmail.com",
+      "email": "sjs2109@korea.ac.kr",
       "family_name": "Sung",
       "given_name": "Jisuk",
       "id": "218003c6-a32c-48f0-96e7-42bfc97a7929",
@@ -98,7 +98,7 @@
       "onboarding_completed": true,
       "profile_photo": "",
       "time_zone": "",
-      "version": 7
+      "version": 72
     }
   ],
   "Tables": null

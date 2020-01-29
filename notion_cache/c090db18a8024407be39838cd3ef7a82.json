@@ -26,7 +26,7 @@
       ]
     },
     "type": "page",
-    "version": 53,
+    "version": 57,
     "content_resolved": [
       {
         "id": "cb7108a1-8709-4049-adfa-f9185e993809",
@@ -218,7 +218,7 @@
           ]
         },
         "type": "bulleted_list",
-        "version": 19,
+        "version": 23,
         "inline_content": [
           {
             "Text": "http://bit.ly/2WmOSSX",
@@ -274,7 +274,7 @@
           ]
         },
         "type": "bulleted_list",
-        "version": 20,
+        "version": 24,
         "inline_content": [
           {
             "Text": "http://bit.ly/2W0Kmu0",
@@ -302,14 +302,14 @@
         "parent_id": "c090db18-a802-4407-be39-838cd3ef7a82",
         "parent_table": "block",
         "type": "text",
-        "version": 3
+        "version": 7
       }
     ],
     "title": "Notion Icons"
   },
   "Users": [
     {
-      "email": "sjs2109@gmail.com",
+      "email": "sjs2109@korea.ac.kr",
       "family_name": "Sung",
       "given_name": "Jisuk",
       "id": "218003c6-a32c-48f0-96e7-42bfc97a7929",
@@ -318,7 +318,7 @@
       "onboarding_completed": true,
       "profile_photo": "",
       "time_zone": "",
-      "version": 7
+      "version": 72
     }
   ],
   "Tables": null

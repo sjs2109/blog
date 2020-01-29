@@ -22,7 +22,7 @@
       ]
     },
     "type": "page",
-    "version": 14,
+    "version": 18,
     "content_resolved": [
       {
         "id": "d29d0992-0fcd-45bc-90a2-a97585a8ef27",
@@ -41,7 +41,7 @@
           ]
         },
         "type": "text",
-        "version": 11,
+        "version": 15,
         "inline_content": [
           {
             "Text": "git clone하면서 특정 branch 받을 때 아래와 같이 할 것"
@@ -70,7 +70,7 @@
           ]
         },
         "type": "code",
-        "version": 3,
+        "version": 7,
         "code": "git clone -b \u003cbranch\u003e \u003cremote_repo\u003e\ngit clone -b my-branch git@github.com:user/myproject.git",
         "code_language": "Shell"
       },
@@ -91,7 +91,7 @@
   },
   "Users": [
     {
-      "email": "sjs2109@gmail.com",
+      "email": "sjs2109@korea.ac.kr",
       "family_name": "Sung",
       "given_name": "Jisuk",
       "id": "218003c6-a32c-48f0-96e7-42bfc97a7929",
@@ -100,7 +100,7 @@
       "onboarding_completed": true,
       "profile_photo": "",
       "time_zone": "",
-      "version": 7
+      "version": 72
     }
   ],
   "Tables": null

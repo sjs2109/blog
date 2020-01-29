@@ -6,12 +6,13 @@
     "content": [
       "6bad60d8-b9f3-4f77-bbec-954a9507a333",
       "1d77981f-1d4a-427d-8ebc-a9df179016dd",
-      "fdc997aa-20d6-46e5-956e-482c7f15a6d8"
+      "fdc997aa-20d6-46e5-956e-482c7f15a6d8",
+      "d3e113af-bc42-4e4b-b335-a188c22148f5"
     ],
     "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
     "created_time": 1557724228737,
     "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
-    "last_edited_time": 1558662060000,
+    "last_edited_time": 1580259420000,
     "parent_id": "699e50d5-2455-426e-a2b0-7b5ab9adf34d",
     "parent_table": "block",
     "properties": {
@@ -22,7 +23,7 @@
       ]
     },
     "type": "page",
-    "version": 35,
+    "version": 42,
     "content_resolved": [
       {
         "id": "6bad60d8-b9f3-4f77-bbec-954a9507a333",
@@ -75,13 +76,25 @@
         "type": "page",
         "version": 59,
         "title": "all_of() + typeid()"
+      },
+      {
+        "id": "d3e113af-bc42-4e4b-b335-a188c22148f5",
+        "alive": true,
+        "created_by": "",
+        "created_time": 1580259420000,
+        "last_edited_by": "",
+        "last_edited_time": 1580259420000,
+        "parent_id": "94f106f4-72c3-440e-adc9-1428c3f6c674",
+        "parent_table": "block",
+        "type": "text",
+        "version": 9
       }
     ],
     "title": "C++ 관련 사소한 지식들"
   },
   "Users": [
     {
-      "email": "sjs2109@gmail.com",
+      "email": "sjs2109@korea.ac.kr",
       "family_name": "Sung",
       "given_name": "Jisuk",
       "id": "218003c6-a32c-48f0-96e7-42bfc97a7929",
@@ -90,7 +103,7 @@
       "onboarding_completed": true,
       "profile_photo": "",
       "time_zone": "",
-      "version": 7
+      "version": 72
     }
   ],
   "Tables": null

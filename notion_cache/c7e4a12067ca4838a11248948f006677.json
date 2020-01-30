@@ -9,12 +9,13 @@
       "ce25ec37-2944-47df-b89d-0465f9c6ebd3",
       "581c7aa0-e075-4691-91db-48fbeca7593f",
       "c090db18-a802-4407-be39-838cd3ef7a82",
-      "144ad3c1-08fc-4e1a-9e3a-19b842977dd4"
+      "144ad3c1-08fc-4e1a-9e3a-19b842977dd4",
+      "46a4c8f0-8c2c-4140-9da7-ef7ba81e1127"
     ],
     "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
     "created_time": 1557724302414,
     "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
-    "last_edited_time": 1563415920000,
+    "last_edited_time": 1580340780000,
     "parent_id": "699e50d5-2455-426e-a2b0-7b5ab9adf34d",
     "parent_table": "block",
     "properties": {
@@ -25,7 +26,7 @@
       ]
     },
     "type": "page",
-    "version": 62,
+    "version": 66,
     "content_resolved": [
       {
         "id": "90a4719d-db88-456f-b8ec-dfcd36fef634",
@@ -44,7 +45,7 @@
           ]
         },
         "type": "page",
-        "version": 14,
+        "version": 18,
         "title": "Git: 특정 브랜치 클론하기"
       },
       {
@@ -110,7 +111,7 @@
           ]
         },
         "type": "page",
-        "version": 73,
+        "version": 77,
         "title": "configuration of aws GUI",
         "format_page": {
           "page_cover": "",
@@ -138,7 +139,7 @@
           ]
         },
         "type": "page",
-        "version": 53,
+        "version": 57,
         "title": "Notion Icons"
       },
       {
@@ -160,13 +161,33 @@
         "type": "page",
         "version": 14,
         "title": "TabNine"
+      },
+      {
+        "id": "46a4c8f0-8c2c-4140-9da7-ef7ba81e1127",
+        "alive": true,
+        "created_by": "",
+        "created_time": 1580340827362,
+        "last_edited_by": "",
+        "last_edited_time": 1580342760000,
+        "parent_id": "c7e4a120-67ca-4838-a112-48948f006677",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "GCP bucket에서 gsutil을 사용한 upload/dowlolad"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 77,
+        "title": "GCP bucket에서 gsutil을 사용한 upload/dowlolad"
       }
     ],
     "title": "개발관련 사소한 지식들"
   },
   "Users": [
     {
-      "email": "sjs2109@gmail.com",
+      "email": "sjs2109@korea.ac.kr",
       "family_name": "Sung",
       "given_name": "Jisuk",
       "id": "218003c6-a32c-48f0-96e7-42bfc97a7929",
@@ -175,7 +196,7 @@
       "onboarding_completed": true,
       "profile_photo": "",
       "time_zone": "",
-      "version": 7
+      "version": 72
     },
     {
       "email": "example25145@makenotion.com",
@@ -187,7 +208,7 @@
       "onboarding_completed": true,
       "profile_photo": "https://lh4.googleusercontent.com/-FA4Xb8SNeFY/AAAAAAAAAAI/AAAAAAAAACc/4XeWRkSIY3A/photo.jpg?sz=50",
       "time_zone": "",
-      "version": 30
+      "version": 33
     }
   ],
   "Tables": null

@@ -1,0 +1,107 @@
+{
+  "ID": "120978be-17d1-4abf-9f76-c2d53ec27204",
+  "Root": {
+    "id": "120978be-17d1-4abf-9f76-c2d53ec27204",
+    "alive": true,
+    "content": [
+      "c012ec47-5960-472d-8887-9cb7909d2e1c",
+      "d6e5fa77-caff-4b4f-bc8e-0e9ea2be4c90",
+      "3fc56070-cdf1-4db8-a4fc-f43352b83c93"
+    ],
+    "created_by": "",
+    "created_time": 1580375310230,
+    "last_edited_by": "",
+    "last_edited_time": 1580375460000,
+    "parent_id": "787c1dfb-e79e-46ce-a1ce-b0bd85ce7ce5",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "GPIO 정보 확인"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 30,
+    "content_resolved": [
+      {
+        "id": "c012ec47-5960-472d-8887-9cb7909d2e1c",
+        "alive": true,
+        "created_by": "",
+        "created_time": 1580375280000,
+        "last_edited_by": "",
+        "last_edited_time": 1580375340000,
+        "parent_id": "120978be-17d1-4abf-9f76-c2d53ec27204",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "linux에서 GPIO 상태를 확인하려면 아래 command로 확인가능"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 58,
+        "inline_content": [
+          {
+            "Text": "linux에서 GPIO 상태를 확인하려면 아래 command로 확인가능"
+          }
+        ]
+      },
+      {
+        "id": "d6e5fa77-caff-4b4f-bc8e-0e9ea2be4c90",
+        "alive": true,
+        "created_by": "",
+        "created_time": 1580375358287,
+        "last_edited_by": "",
+        "last_edited_time": 1580375340000,
+        "parent_id": "120978be-17d1-4abf-9f76-c2d53ec27204",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Bash"
+            ]
+          ],
+          "title": [
+            [
+              "cat /sys/kernel/debug/gpio"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 36,
+        "code": "cat /sys/kernel/debug/gpio",
+        "code_language": "Bash"
+      },
+      {
+        "id": "3fc56070-cdf1-4db8-a4fc-f43352b83c93",
+        "alive": true,
+        "created_by": "",
+        "created_time": 1580375460000,
+        "last_edited_by": "",
+        "last_edited_time": 1580375460000,
+        "parent_id": "120978be-17d1-4abf-9f76-c2d53ec27204",
+        "parent_table": "block",
+        "type": "text",
+        "version": 8
+      }
+    ],
+    "title": "GPIO 정보 확인"
+  },
+  "Users": [
+    {
+      "email": "sjs2109@korea.ac.kr",
+      "family_name": "Sung",
+      "given_name": "Jisuk",
+      "id": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+      "locale": "",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "",
+      "time_zone": "",
+      "version": 72
+    }
+  ],
+  "Tables": null
+}

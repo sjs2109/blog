@@ -6,12 +6,13 @@
     "content": [
       "131a6129-c72c-4ae9-8658-4589e9d33a4b",
       "c4dfd86b-2fe1-422a-a30a-792b9c120651",
-      "fe62e232-fc87-4e85-a054-206eec0f2843"
+      "fe62e232-fc87-4e85-a054-206eec0f2843",
+      "120978be-17d1-4abf-9f76-c2d53ec27204"
     ],
     "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
     "created_time": 1557724274293,
     "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
-    "last_edited_time": 1558049880000,
+    "last_edited_time": 1580375280000,
     "parent_id": "699e50d5-2455-426e-a2b0-7b5ab9adf34d",
     "parent_table": "block",
     "properties": {
@@ -22,7 +23,7 @@
       ]
     },
     "type": "page",
-    "version": 48,
+    "version": 52,
     "content_resolved": [
       {
         "id": "131a6129-c72c-4ae9-8658-4589e9d33a4b",
@@ -80,6 +81,26 @@
         "type": "page",
         "version": 12,
         "title": "find로 특정 file type에서 특정 string 검색"
+      },
+      {
+        "id": "120978be-17d1-4abf-9f76-c2d53ec27204",
+        "alive": true,
+        "created_by": "",
+        "created_time": 1580375310230,
+        "last_edited_by": "",
+        "last_edited_time": 1580375460000,
+        "parent_id": "787c1dfb-e79e-46ce-a1ce-b0bd85ce7ce5",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "GPIO 정보 확인"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 30,
+        "title": "GPIO 정보 확인"
       }
     ],
     "title": "Linux 관련 사소한 지식들"

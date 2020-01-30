@@ -1,0 +1,184 @@
+{
+  "ID": "46a4c8f0-8c2c-4140-9da7-ef7ba81e1127",
+  "Root": {
+    "id": "46a4c8f0-8c2c-4140-9da7-ef7ba81e1127",
+    "alive": true,
+    "content": [
+      "22048f0e-5d27-47dc-8dcc-dc2ea7d6feb5",
+      "53a9cbc2-3c31-4dd7-94ea-8127f64d1d1c",
+      "6a159fe8-39e0-4a63-9465-0d1ecda44704",
+      "650cf19b-7809-4dea-9f28-d1662367537f",
+      "fc711d3b-bf1d-46f4-a661-17d54a875e2b",
+      "75b30d83-dbc6-4f67-8b87-eef0726263e2"
+    ],
+    "created_by": "",
+    "created_time": 1580340827362,
+    "last_edited_by": "",
+    "last_edited_time": 1580342760000,
+    "parent_id": "c7e4a120-67ca-4838-a112-48948f006677",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "GCP bucket에서 gsutil을 사용한 upload/dowlolad"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 77,
+    "content_resolved": [
+      {
+        "id": "22048f0e-5d27-47dc-8dcc-dc2ea7d6feb5",
+        "alive": true,
+        "created_by": "",
+        "created_time": 1580340840000,
+        "last_edited_by": "",
+        "last_edited_time": 1580340960000,
+        "parent_id": "46a4c8f0-8c2c-4140-9da7-ef7ba81e1127",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "보안설정등을 제외하고 결국 linux scp와 비슷하게 쓰면 된다"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 68,
+        "inline_content": [
+          {
+            "Text": "보안설정등을 제외하고 결국 linux scp와 비슷하게 쓰면 된다"
+          }
+        ]
+      },
+      {
+        "id": "53a9cbc2-3c31-4dd7-94ea-8127f64d1d1c",
+        "alive": true,
+        "created_by": "",
+        "created_time": 1580340840000,
+        "last_edited_by": "",
+        "last_edited_time": 1580340840000,
+        "parent_id": "46a4c8f0-8c2c-4140-9da7-ef7ba81e1127",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "upload"
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 27,
+        "inline_content": [
+          {
+            "Text": "upload"
+          }
+        ]
+      },
+      {
+        "id": "6a159fe8-39e0-4a63-9465-0d1ecda44704",
+        "alive": true,
+        "created_by": "",
+        "created_time": 1580340901140,
+        "last_edited_by": "",
+        "last_edited_time": 1580341440000,
+        "parent_id": "46a4c8f0-8c2c-4140-9da7-ef7ba81e1127",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "C++"
+            ]
+          ],
+          "title": [
+            [
+              "gsutil cp gs://BUCKET_NAME/REMODE_FILENAME LOCAL_FILE_NAME"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 78,
+        "code": "gsutil cp gs://BUCKET_NAME/REMODE_FILENAME LOCAL_FILE_NAME",
+        "code_language": "C++"
+      },
+      {
+        "id": "650cf19b-7809-4dea-9f28-d1662367537f",
+        "alive": true,
+        "created_by": "",
+        "created_time": 1580340840000,
+        "last_edited_by": "",
+        "last_edited_time": 1580340840000,
+        "parent_id": "46a4c8f0-8c2c-4140-9da7-ef7ba81e1127",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "download"
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 21,
+        "inline_content": [
+          {
+            "Text": "download"
+          }
+        ]
+      },
+      {
+        "id": "fc711d3b-bf1d-46f4-a661-17d54a875e2b",
+        "alive": true,
+        "created_by": "",
+        "created_time": 1580342728470,
+        "last_edited_by": "",
+        "last_edited_time": 1580342700000,
+        "parent_id": "46a4c8f0-8c2c-4140-9da7-ef7ba81e1127",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "C++"
+            ]
+          ],
+          "title": [
+            [
+              "gsutil cp LOCAL_FILE_NAME gs://BUCKET_NAME/REMODE_FILENAME "
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 13,
+        "code": "gsutil cp LOCAL_FILE_NAME gs://BUCKET_NAME/REMODE_FILENAME ",
+        "code_language": "C++"
+      },
+      {
+        "id": "75b30d83-dbc6-4f67-8b87-eef0726263e2",
+        "alive": true,
+        "created_by": "",
+        "created_time": 1580342760000,
+        "last_edited_by": "",
+        "last_edited_time": 1580342760000,
+        "parent_id": "46a4c8f0-8c2c-4140-9da7-ef7ba81e1127",
+        "parent_table": "block",
+        "type": "text",
+        "version": 8
+      }
+    ],
+    "title": "GCP bucket에서 gsutil을 사용한 upload/dowlolad"
+  },
+  "Users": [
+    {
+      "email": "sjs2109@korea.ac.kr",
+      "family_name": "Sung",
+      "given_name": "Jisuk",
+      "id": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+      "locale": "",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "",
+      "time_zone": "",
+      "version": 72
+    }
+  ],
+  "Tables": null
+}

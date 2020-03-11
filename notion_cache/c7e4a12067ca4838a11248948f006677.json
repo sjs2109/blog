@@ -15,7 +15,7 @@
     "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
     "created_time": 1557724302414,
     "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
-    "last_edited_time": 1580340780000,
+    "last_edited_time": 1583893140000,
     "parent_id": "699e50d5-2455-426e-a2b0-7b5ab9adf34d",
     "parent_table": "block",
     "properties": {
@@ -26,7 +26,7 @@
       ]
     },
     "type": "page",
-    "version": 66,
+    "version": 72,
     "content_resolved": [
       {
         "id": "90a4719d-db88-456f-b8ec-dfcd36fef634",
@@ -196,7 +196,7 @@
       "onboarding_completed": true,
       "profile_photo": "",
       "time_zone": "",
-      "version": 72
+      "version": 74
     },
     {
       "email": "example25145@makenotion.com",

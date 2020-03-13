@@ -1,0 +1,159 @@
+{
+  "ID": "5ca911e6-f769-4b17-9d35-1df84b89a373",
+  "Root": {
+    "id": "5ca911e6-f769-4b17-9d35-1df84b89a373",
+    "alive": true,
+    "content": [
+      "2be03b86-2afa-43ea-9f37-0f6a957398a6",
+      "44fea8e9-0db5-4dc5-81ad-8ae77bd2befd",
+      "3cb93fea-36c3-4b56-bf6b-afd118d3cf2a",
+      "6638fd2d-1289-464b-9693-5c5c8d7612dc",
+      "7e1871a9-fd6f-41e0-8328-0f089d919a90"
+    ],
+    "created_by": "",
+    "created_time": 1584055900412,
+    "last_edited_by": "",
+    "last_edited_time": 1584055920000,
+    "parent_id": "c7e4a120-67ca-4838-a112-48948f006677",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "zsh ←→ bash 변경"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 18,
+    "content_resolved": [
+      {
+        "id": "2be03b86-2afa-43ea-9f37-0f6a957398a6",
+        "alive": true,
+        "created_by": "",
+        "created_time": 1584055860000,
+        "last_edited_by": "",
+        "last_edited_time": 1584055860000,
+        "parent_id": "5ca911e6-f769-4b17-9d35-1df84b89a373",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "bash → zsh"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 45,
+        "inline_content": [
+          {
+            "Text": "bash → zsh"
+          }
+        ]
+      },
+      {
+        "id": "44fea8e9-0db5-4dc5-81ad-8ae77bd2befd",
+        "alive": true,
+        "created_by": "",
+        "created_time": 1584055924978,
+        "last_edited_by": "",
+        "last_edited_time": 1584055920000,
+        "parent_id": "5ca911e6-f769-4b17-9d35-1df84b89a373",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "JavaScript"
+            ]
+          ],
+          "title": [
+            [
+              "chsh -s /usr/bin/zsh"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 10,
+        "code": "chsh -s /usr/bin/zsh",
+        "code_language": "JavaScript"
+      },
+      {
+        "id": "3cb93fea-36c3-4b56-bf6b-afd118d3cf2a",
+        "alive": true,
+        "created_by": "",
+        "created_time": 1584055920000,
+        "last_edited_by": "",
+        "last_edited_time": 1584055920000,
+        "parent_id": "5ca911e6-f769-4b17-9d35-1df84b89a373",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "zsh → bash"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 25,
+        "inline_content": [
+          {
+            "Text": "zsh → bash"
+          }
+        ]
+      },
+      {
+        "id": "6638fd2d-1289-464b-9693-5c5c8d7612dc",
+        "alive": true,
+        "created_by": "",
+        "created_time": 1584055954642,
+        "last_edited_by": "",
+        "last_edited_time": 1584055920000,
+        "parent_id": "5ca911e6-f769-4b17-9d35-1df84b89a373",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "JavaScript"
+            ]
+          ],
+          "title": [
+            [
+              "chsh -s /bin/bash"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 10,
+        "code": "chsh -s /bin/bash",
+        "code_language": "JavaScript"
+      },
+      {
+        "id": "7e1871a9-fd6f-41e0-8328-0f089d919a90",
+        "alive": true,
+        "created_by": "",
+        "created_time": 1584055920000,
+        "last_edited_by": "",
+        "last_edited_time": 1584055920000,
+        "parent_id": "5ca911e6-f769-4b17-9d35-1df84b89a373",
+        "parent_table": "block",
+        "type": "text",
+        "version": 8
+      }
+    ],
+    "title": "zsh ←→ bash 변경"
+  },
+  "Users": [
+    {
+      "email": "sjs2109@korea.ac.kr",
+      "family_name": "Sung",
+      "given_name": "Jisuk",
+      "id": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+      "locale": "",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "",
+      "time_zone": "",
+      "version": 74
+    }
+  ],
+  "Tables": null
+}

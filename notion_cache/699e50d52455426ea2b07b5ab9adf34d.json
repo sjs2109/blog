@@ -7,12 +7,12 @@
       "94f106f4-72c3-440e-adc9-1428c3f6c674",
       "787c1dfb-e79e-46ce-a1ce-b0bd85ce7ce5",
       "c7e4a120-67ca-4838-a112-48948f006677",
-      "c9bce8eb-fe48-4308-bdd9-f6ff45379e4e"
+      "661d09ab-1b5e-47c5-82d1-784388f056c2"
     ],
     "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
     "created_time": 1557724140000,
     "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
-    "last_edited_time": 1583893020000,
+    "last_edited_time": 1588073700000,
     "parent_id": "79e372e1-0a62-4c22-808b-84d97da78879",
     "parent_table": "block",
     "properties": {
@@ -23,7 +23,7 @@
       ]
     },
     "type": "page",
-    "version": 51,
+    "version": 57,
     "content_resolved": [
       {
         "id": "94f106f4-72c3-440e-adc9-1428c3f6c674",
@@ -71,7 +71,7 @@
         "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
         "created_time": 1557724302414,
         "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
-        "last_edited_time": 1583893140000,
+        "last_edited_time": 1584055860000,
         "parent_id": "699e50d5-2455-426e-a2b0-7b5ab9adf34d",
         "parent_table": "block",
         "properties": {
@@ -82,20 +82,28 @@
           ]
         },
         "type": "page",
-        "version": 72,
+        "version": 76,
         "title": "개발관련 사소한 지식들"
       },
       {
-        "id": "c9bce8eb-fe48-4308-bdd9-f6ff45379e4e",
+        "id": "661d09ab-1b5e-47c5-82d1-784388f056c2",
         "alive": true,
         "created_by": "",
-        "created_time": 1583893020000,
+        "created_time": 1588073742945,
         "last_edited_by": "",
-        "last_edited_time": 1583893020000,
+        "last_edited_time": 1588073700000,
         "parent_id": "699e50d5-2455-426e-a2b0-7b5ab9adf34d",
         "parent_table": "block",
-        "type": "text",
-        "version": 8
+        "properties": {
+          "title": [
+            [
+              "기타등등"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 51,
+        "title": "기타등등"
       }
     ],
     "title": "Trivial knowledge"
@@ -111,7 +119,7 @@
       "onboarding_completed": true,
       "profile_photo": "",
       "time_zone": "",
-      "version": 74
+      "version": 76
     }
   ],
   "Tables": null

@@ -1,0 +1,63 @@
+{
+  "ID": "661d09ab-1b5e-47c5-82d1-784388f056c2",
+  "Root": {
+    "id": "661d09ab-1b5e-47c5-82d1-784388f056c2",
+    "alive": true,
+    "content": [
+      "f5c37486-7474-41be-9eb1-31ac523ad5ce"
+    ],
+    "created_by": "",
+    "created_time": 1588073742945,
+    "last_edited_by": "",
+    "last_edited_time": 1588073700000,
+    "parent_id": "699e50d5-2455-426e-a2b0-7b5ab9adf34d",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "기타등등"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 51,
+    "content_resolved": [
+      {
+        "id": "f5c37486-7474-41be-9eb1-31ac523ad5ce",
+        "alive": true,
+        "created_by": "",
+        "created_time": 1588073758543,
+        "last_edited_by": "",
+        "last_edited_time": 1588073760000,
+        "parent_id": "661d09ab-1b5e-47c5-82d1-784388f056c2",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "경기지역화폐 사용처"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 68,
+        "title": "경기지역화폐 사용처"
+      }
+    ],
+    "title": "기타등등"
+  },
+  "Users": [
+    {
+      "email": "sjs2109@korea.ac.kr",
+      "family_name": "Sung",
+      "given_name": "Jisuk",
+      "id": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+      "locale": "",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "",
+      "time_zone": "",
+      "version": 76
+    }
+  ],
+  "Tables": null
+}

@@ -1,0 +1,111 @@
+{
+  "ID": "f5c37486-7474-41be-9eb1-31ac523ad5ce",
+  "Root": {
+    "id": "f5c37486-7474-41be-9eb1-31ac523ad5ce",
+    "alive": true,
+    "content": [
+      "d8beb46e-54ee-45ed-a53b-b90605267b00",
+      "03e6f05d-b8dc-49fd-978f-7837aedbbcf7"
+    ],
+    "created_by": "",
+    "created_time": 1588073758543,
+    "last_edited_by": "",
+    "last_edited_time": 1588073760000,
+    "parent_id": "661d09ab-1b5e-47c5-82d1-784388f056c2",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "경기지역화폐 사용처"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 68,
+    "content_resolved": [
+      {
+        "id": "d8beb46e-54ee-45ed-a53b-b90605267b00",
+        "alive": true,
+        "created_by": "",
+        "created_time": 1588073760000,
+        "last_edited_by": "",
+        "last_edited_time": 1588073760000,
+        "parent_id": "f5c37486-7474-41be-9eb1-31ac523ad5ce",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "지도로 보는게 가장 편한 듯"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 87,
+        "inline_content": [
+          {
+            "Text": "지도로 보는게 가장 편한 듯"
+          }
+        ]
+      },
+      {
+        "id": "03e6f05d-b8dc-49fd-978f-7837aedbbcf7",
+        "alive": true,
+        "created_by": "",
+        "created_time": 1588073760000,
+        "format": {
+          "bookmark_icon": "https://data.gg.go.kr/favicon.ico",
+          "bookmark_cover": "https://data.gg.go.kr/img/ggportal/desktop/main/og_logo.png"
+        },
+        "last_edited_by": "",
+        "last_edited_time": 1588073760000,
+        "parent_id": "f5c37486-7474-41be-9eb1-31ac523ad5ce",
+        "parent_table": "block",
+        "properties": {
+          "description": [
+            [
+              "경기도 각 시군의 지역화폐 가맹점 현황입니다. ※ 주소 정보가 누락된 사업장은 지도 서비스가 제공되지 않습니다. ※ 2019년 6월 기준 데이터이며, 소관기관에서 12월 데이터를 제공받는대로 갱신될 예정입니다. ※ 2019년 6월 이전에 가맹하였으나 목록에 표시되지 않는 경우 경기도 콜센터(031-120)으로 문의해주시기 바랍니다."
+            ]
+          ],
+          "link": [
+            [
+              "https://data.gg.go.kr/portal/data/service/selectServicePage.do?page=1\u0026rows=10\u0026sortColumn=\u0026sortDirection=\u0026infId=3NPA52LBMO36CQEQ1GMY28894927\u0026infSeq=2\u0026order=\u0026loc=#none"
+            ]
+          ],
+          "title": [
+            [
+              "지역화폐 가맹점 현황 | 데이터셋 상세 Map | 경기데이터드림"
+            ]
+          ]
+        },
+        "type": "bookmark",
+        "version": 14,
+        "inline_content": [
+          {
+            "Text": "지역화폐 가맹점 현황 | 데이터셋 상세 Map | 경기데이터드림"
+          }
+        ],
+        "description": "경기도 각 시군의 지역화폐 가맹점 현황입니다. ※ 주소 정보가 누락된 사업장은 지도 서비스가 제공되지 않습니다. ※ 2019년 6월 기준 데이터이며, 소관기관에서 12월 데이터를 제공받는대로 갱신될 예정입니다. ※ 2019년 6월 이전에 가맹하였으나 목록에 표시되지 않는 경우 경기도 콜센터(031-120)으로 문의해주시기 바랍니다.",
+        "link": "https://data.gg.go.kr/portal/data/service/selectServicePage.do?page=1\u0026rows=10\u0026sortColumn=\u0026sortDirection=\u0026infId=3NPA52LBMO36CQEQ1GMY28894927\u0026infSeq=2\u0026order=\u0026loc=#none",
+        "format_bookmark": {
+          "bookmark_icon": "https://data.gg.go.kr/favicon.ico"
+        }
+      }
+    ],
+    "title": "경기지역화폐 사용처"
+  },
+  "Users": [
+    {
+      "email": "sjs2109@korea.ac.kr",
+      "family_name": "Sung",
+      "given_name": "Jisuk",
+      "id": "218003c6-a32c-48f0-96e7-42bfc97a7929",
+      "locale": "",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "",
+      "time_zone": "",
+      "version": 76
+    }
+  ],
+  "Tables": null
+}

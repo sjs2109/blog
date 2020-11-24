@@ -6,12 +6,12 @@
     "content": [
       "6bad60d8-b9f3-4f77-bbec-954a9507a333",
       "fdc997aa-20d6-46e5-956e-482c7f15a6d8",
-      "d3e113af-bc42-4e4b-b335-a188c22148f5"
+      "bc79ea1f-42a9-4b8e-9f40-762336a1b4ae"
     ],
     "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
     "created_time": 1557724228737,
     "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
-    "last_edited_time": 1580259420000,
+    "last_edited_time": 1606174500000,
     "parent_id": "699e50d5-2455-426e-a2b0-7b5ab9adf34d",
     "parent_table": "block",
     "properties": {
@@ -22,7 +22,7 @@
       ]
     },
     "type": "page",
-    "version": 43,
+    "version": 48,
     "content_resolved": [
       {
         "id": "6bad60d8-b9f3-4f77-bbec-954a9507a333",
@@ -57,16 +57,24 @@
         "title": "all_of() + typeid()"
       },
       {
-        "id": "d3e113af-bc42-4e4b-b335-a188c22148f5",
+        "id": "bc79ea1f-42a9-4b8e-9f40-762336a1b4ae",
         "alive": true,
         "created_by": "",
-        "created_time": 1580259420000,
+        "created_time": 1606174539394,
         "last_edited_by": "",
-        "last_edited_time": 1580259420000,
+        "last_edited_time": 1606174680000,
         "parent_id": "94f106f4-72c3-440e-adc9-1428c3f6c674",
         "parent_table": "block",
-        "type": "text",
-        "version": 9
+        "properties": {
+          "title": [
+            [
+              "std::merge"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 47,
+        "title": "std::merge"
       }
     ],
     "title": "C++ 관련 사소한 지식들"

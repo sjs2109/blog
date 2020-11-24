@@ -1,0 +1,195 @@
+{
+  "ID": "bc79ea1f-42a9-4b8e-9f40-762336a1b4ae",
+  "Root": {
+    "id": "bc79ea1f-42a9-4b8e-9f40-762336a1b4ae",
+    "alive": true,
+    "content": [
+      "e7b0c795-fd20-44a6-8d16-6dfac1a36230",
+      "afd7bb6f-0a12-4cf1-b972-22522e91e985",
+      "956f736e-1196-4607-adfc-df86fcdf0474",
+      "551225b7-5a81-4501-b53e-16b0be1a26ba",
+      "581987fd-a94d-42b0-88c3-e4f5c1710b8a",
+      "8fde944e-3c18-4413-8188-cef49bd003e1",
+      "e579671d-c80b-466d-b1e8-3fbca257c1b6"
+    ],
+    "created_by": "",
+    "created_time": 1606174539394,
+    "last_edited_by": "",
+    "last_edited_time": 1606174680000,
+    "parent_id": "94f106f4-72c3-440e-adc9-1428c3f6c674",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "std::merge"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 47,
+    "content_resolved": [
+      {
+        "id": "e7b0c795-fd20-44a6-8d16-6dfac1a36230",
+        "alive": true,
+        "created_by": "",
+        "created_time": 1606174500000,
+        "last_edited_by": "",
+        "last_edited_time": 1606174620000,
+        "parent_id": "bc79ea1f-42a9-4b8e-9f40-762336a1b4ae",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "leetcode문제를 풀다가 찾아보니 C++에 merge라는 함수가 이미 있었다. 동작하는 방식은 아래와 같다"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 287,
+        "inline_content": [
+          {
+            "Text": "leetcode문제를 풀다가 찾아보니 C++에 merge라는 함수가 이미 있었다. 동작하는 방식은 아래와 같다"
+          }
+        ]
+      },
+      {
+        "id": "afd7bb6f-0a12-4cf1-b972-22522e91e985",
+        "alive": true,
+        "created_by": "",
+        "created_time": 1606174629492,
+        "last_edited_by": "",
+        "last_edited_time": 1606174620000,
+        "parent_id": "bc79ea1f-42a9-4b8e-9f40-762336a1b4ae",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Merges two sorted ranges [first1, last1) and [first2, last2) into one sorted range beginning at d_first."
+            ]
+          ]
+        },
+        "type": "quote",
+        "version": 8,
+        "inline_content": [
+          {
+            "Text": "Merges two sorted ranges [first1, last1) and [first2, last2) into one sorted range beginning at d_first."
+          }
+        ]
+      },
+      {
+        "id": "956f736e-1196-4607-adfc-df86fcdf0474",
+        "alive": true,
+        "created_by": "",
+        "created_time": 1606174652084,
+        "last_edited_by": "",
+        "last_edited_time": 1606174620000,
+        "parent_id": "bc79ea1f-42a9-4b8e-9f40-762336a1b4ae",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "This merge function is stable, which means that for equivalent elements in the original two ranges, the elements from the first range (preserving their original order) precede the elements from the second range (preserving their original order).\nThe behavior is undefined if the destination range overlaps either of the input ranges (the input ranges may overlap each other)."
+            ]
+          ]
+        },
+        "type": "quote",
+        "version": 8,
+        "inline_content": [
+          {
+            "Text": "This merge function is stable, which means that for equivalent elements in the original two ranges, the elements from the first range (preserving their original order) precede the elements from the second range (preserving their original order).\nThe behavior is undefined if the destination range overlaps either of the input ranges (the input ranges may overlap each other)."
+          }
+        ]
+      },
+      {
+        "id": "551225b7-5a81-4501-b53e-16b0be1a26ba",
+        "alive": true,
+        "created_by": "",
+        "created_time": 1606174680000,
+        "last_edited_by": "",
+        "last_edited_time": 1606174680000,
+        "parent_id": "bc79ea1f-42a9-4b8e-9f40-762336a1b4ae",
+        "parent_table": "block",
+        "type": "text",
+        "version": 22
+      },
+      {
+        "id": "581987fd-a94d-42b0-88c3-e4f5c1710b8a",
+        "alive": true,
+        "created_by": "",
+        "created_time": 1606174715100,
+        "last_edited_by": "",
+        "last_edited_time": 1606174680000,
+        "parent_id": "bc79ea1f-42a9-4b8e-9f40-762336a1b4ae",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Bash"
+            ]
+          ],
+          "title": [
+            [
+              "#include \u003ciostream\u003e\n#include \u003citerator\u003e\n#include \u003calgorithm\u003e\n#include \u003cvector\u003e\n#include \u003crandom\u003e\n#include \u003cfunctional\u003e\n \nint main()\n{\n    // fill the vectors with random numbers\n    std::random_device rd;\n    std::mt19937 mt(rd());\n    std::uniform_int_distribution\u003c\u003e dis(0, 9);\n \n    std::vector\u003cint\u003e v1(10), v2(10);\n    std::generate(v1.begin(), v1.end(), std::bind(dis, std::ref(mt)));\n    std::generate(v2.begin(), v2.end(), std::bind(dis, std::ref(mt)));\n \n    // sort\n    std::sort(v1.begin(), v1.end());\n    std::sort(v2.begin(), v2.end());\n \n    // output v1\n    std::cout \u003c\u003c \"v1 : \";\n    std::copy(v1.begin(), v1.end(), std::ostream_iterator\u003cint\u003e(std::cout, \" \"));\n    std::cout \u003c\u003c '\\n';\n \n    // output v2\n    std::cout \u003c\u003c \"v2 : \";\n    std::copy(v2.begin(), v2.end(), std::ostream_iterator\u003cint\u003e(std::cout, \" \"));\n    std::cout \u003c\u003c '\\n';\n \n    // merge\n    std::vector\u003cint\u003e dst;\n    std::merge(v1.begin(), v1.end(), v2.begin(), v2.end(), std::back_inserter(dst));\n \n    // output\n    std::cout \u003c\u003c \"dst: \";\n    std::copy(dst.begin(), dst.end(), std::ostream_iterator\u003cint\u003e(std::cout, \" \"));\n    std::cout \u003c\u003c '\\n';\n}\n\n//결과\n\nv1 : 0 1 3 4 4 5 5 8 8 9 \nv2 : 0 2 2 3 6 6 8 8 8 9 \ndst: 0 0 1 2 2 3 3 4 4 5 5 6 6 8 8 8 8 8 9 9"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 29,
+        "code": "#include \u003ciostream\u003e\n#include \u003citerator\u003e\n#include \u003calgorithm\u003e\n#include \u003cvector\u003e\n#include \u003crandom\u003e\n#include \u003cfunctional\u003e\n \nint main()\n{\n    // fill the vectors with random numbers\n    std::random_device rd;\n    std::mt19937 mt(rd());\n    std::uniform_int_distribution\u003c\u003e dis(0, 9);\n \n    std::vector\u003cint\u003e v1(10), v2(10);\n    std::generate(v1.begin(), v1.end(), std::bind(dis, std::ref(mt)));\n    std::generate(v2.begin(), v2.end(), std::bind(dis, std::ref(mt)));\n \n    // sort\n    std::sort(v1.begin(), v1.end());\n    std::sort(v2.begin(), v2.end());\n \n    // output v1\n    std::cout \u003c\u003c \"v1 : \";\n    std::copy(v1.begin(), v1.end(), std::ostream_iterator\u003cint\u003e(std::cout, \" \"));\n    std::cout \u003c\u003c '\\n';\n \n    // output v2\n    std::cout \u003c\u003c \"v2 : \";\n    std::copy(v2.begin(), v2.end(), std::ostream_iterator\u003cint\u003e(std::cout, \" \"));\n    std::cout \u003c\u003c '\\n';\n \n    // merge\n    std::vector\u003cint\u003e dst;\n    std::merge(v1.begin(), v1.end(), v2.begin(), v2.end(), std::back_inserter(dst));\n \n    // output\n    std::cout \u003c\u003c \"dst: \";\n    std::copy(dst.begin(), dst.end(), std::ostream_iterator\u003cint\u003e(std::cout, \" \"));\n    std::cout \u003c\u003c '\\n';\n}\n\n//결과\n\nv1 : 0 1 3 4 4 5 5 8 8 9 \nv2 : 0 2 2 3 6 6 8 8 8 9 \ndst: 0 0 1 2 2 3 3 4 4 5 5 6 6 8 8 8 8 8 9 9",
+        "code_language": "Bash"
+      },
+      {
+        "id": "8fde944e-3c18-4413-8188-cef49bd003e1",
+        "alive": true,
+        "created_by": "",
+        "created_time": 1606174620000,
+        "last_edited_by": "",
+        "last_edited_time": 1606174620000,
+        "parent_id": "bc79ea1f-42a9-4b8e-9f40-762336a1b4ae",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "원문: "
+            ],
+            [
+              "https://en.cppreference.com/w/cpp/algorithm/merge",
+              [
+                [
+                  "a",
+                  "https://en.cppreference.com/w/cpp/algorithm/merge"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 17,
+        "inline_content": [
+          {
+            "Text": "원문: "
+          },
+          {
+            "Text": "https://en.cppreference.com/w/cpp/algorithm/merge",
+            "Link": "https://en.cppreference.com/w/cpp/algorithm/merge"
+          }
+        ]
+      },
+      {
+        "id": "e579671d-c80b-466d-b1e8-3fbca257c1b6",
+        "alive": true,
+        "created_by": "",
+        "created_time": 1606174680000,
+        "last_edited_by": "",
+        "last_edited_time": 1606174680000,
+        "parent_id": "bc79ea1f-42a9-4b8e-9f40-762336a1b4ae",
+        "parent_table": "block",
+        "type": "text",
+        "version": 8
+      }
+    ],
+    "title": "std::merge"
+  },
+  "Users": null,
+  "Tables": null
+}

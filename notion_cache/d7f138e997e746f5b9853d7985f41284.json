@@ -4,6 +4,7 @@
     "id": "d7f138e9-97e7-46f5-b985-3d7985f41284",
     "alive": true,
     "content": [
+      "bb918527-718c-40c5-9375-6cdd452f9751",
       "01d584e8-815d-4b8c-abd9-f3f18877c80d",
       "359e64c4-ab56-4cb8-b383-ede65cd4edfd",
       "a1f69d3b-6354-4d82-9170-66be14086c9e",
@@ -17,10 +18,15 @@
     "created_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
     "created_time": 1556290485603,
     "last_edited_by": "218003c6-a32c-48f0-96e7-42bfc97a7929",
-    "last_edited_time": 1557724920000,
+    "last_edited_time": 1612186080000,
     "parent_id": "79e372e1-0a62-4c22-808b-84d97da78879",
     "parent_table": "block",
     "properties": {
+      "]A[q": [
+        [
+          "NLP"
+        ]
+      ],
       "title": [
         [
           "About"
@@ -28,8 +34,34 @@
       ]
     },
     "type": "page",
-    "version": 51,
+    "version": 79,
     "content_resolved": [
+      {
+        "id": "bb918527-718c-40c5-9375-6cdd452f9751",
+        "alive": true,
+        "created_by": "",
+        "created_time": 1612146573806,
+        "last_edited_by": "",
+        "last_edited_time": 1612146900000,
+        "parent_id": "d7f138e9-97e7-46f5-b985-3d7985f41284",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "YAML"
+            ]
+          ],
+          "title": [
+            [
+              "cleanUrl: /about"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 78,
+        "code": "cleanUrl: /about",
+        "code_language": "YAML"
+      },
       {
         "id": "01d584e8-815d-4b8c-abd9-f3f18877c80d",
         "alive": true,
@@ -52,7 +84,7 @@
           ]
         },
         "type": "code",
-        "version": 7,
+        "version": 11,
         "code": "print(\"Hello world\")",
         "code_language": "Python"
       },
@@ -248,7 +280,7 @@
           ]
         },
         "type": "text",
-        "version": 126,
+        "version": 130,
         "inline_content": [
           {
             "Text": "License: 이 블로그에 있는 글들은 원작자가 따로 있는 경우는 원작자가 지정한 License를 따릅니다. 그렇지 않는 경우 크리에이티브 커먼즈 저작자표시-동일조건변경허락 4.0을 따릅니다 ("
@@ -277,19 +309,6 @@
     ],
     "title": "About"
   },
-  "Users": [
-    {
-      "email": "sjs2109@gmail.com",
-      "family_name": "Sung",
-      "given_name": "Jisuk",
-      "id": "218003c6-a32c-48f0-96e7-42bfc97a7929",
-      "locale": "",
-      "mobile_onboarding_completed": true,
-      "onboarding_completed": true,
-      "profile_photo": "",
-      "time_zone": "",
-      "version": 7
-    }
-  ],
+  "Users": null,
   "Tables": null
 }
